@@ -1,0 +1,7 @@
+*.pyc
+.directory
+*.db
+*prueba.py
+willie-master
+willie
+preguntas*
