@@ -9,4 +9,11 @@ topic*question*answerd
 
 ##Configuration
 The variable *__file__* contains the file path of questions
-*INTERVAL* contains the number of seconds to display the next clue
+*INTERVAL* contains the number of seconds to display the next clew
+
+##Commands
+
+- *trivial_start* init trivia game
+- *trivial_stop* stop trivia game
+- *puntuacion* show the score
+- *pista* show a help more
