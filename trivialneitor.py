@@ -139,11 +139,11 @@ def send_question(bot):
 
 def send_pista(bot):
     lock.acquire()
-    bot.say(answerd.show_more_letters())
     if answerd.stop():
         bot.say("Respuesta no acertada. La respuesta era: " + answerd.answerd)
         send_question(bot)
     else:
+        bot.say(answerd.show_more_letters())
         global t
         t = threading.Timer(INTERVAL, send_pista,(bot,))
         t.start()
