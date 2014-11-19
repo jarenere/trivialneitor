@@ -141,7 +141,7 @@ def send_pista(bot):
     lock.acquire()
     bot.say(answerd.show_more_letters())
     if answerd.stop():
-        bot.say("Respuesta no acertada. La respuesta era: ", answerd.answerd)
+        bot.say("Respuesta no acertada. La respuesta era: " + answerd.answerd)
         send_question(bot)
     else:
         global t
