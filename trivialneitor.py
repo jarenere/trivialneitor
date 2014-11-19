@@ -91,7 +91,7 @@ def setup(bot):
 
 
 @commands('trivial_start')
-def trivial(bot, trigger):
+def trivial_start (bot, trigger):
     global running_game
     if running_game == False:
         running_game = True
@@ -100,12 +100,14 @@ def trivial(bot, trigger):
         bot.say("juego ya ha comenzado")
 
 @commands('trivial_stop')
-def trivial_start(bot, trigger):
+def trivial_stop(bot, trigger):
     global running_game
+    lock.acquire()
     if running_game == True:
         running_game = False
         global t
         t.cancel()
+    lock.release()
 
 @commands('pista')
 def pista(bot, trigger):
