@@ -180,7 +180,8 @@ class TrivialManager:
 
     def _trivial_pista(self,bot, trigger):
         """Show a help more. Usage: .trivial pista"""
-        bot.say(self.answerd.show_more_letters())
+        if self.running_game:
+            bot.say(self.answerd.show_more_letters())
 
     def _trivial_score(self,bot, trigger):
         """Show a score. Usage: .trivial score"""
