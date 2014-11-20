@@ -4,7 +4,6 @@ import random
 from functools import wraps
 import threading
 import os.path
-import os.walk
 
 # https://docs.python.org/2/library/threading.html
 # http://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python
@@ -18,18 +17,11 @@ import os.walk
 # https://github.com/inspectorvector/avalon/blob/master/avalon.py
 # http://stackoverflow.com/questions/11488877/periodically-execute-function-in-thread-in-real-time-every-n-seconds
 
-INTERVAL = 5
-list_questions = []
-running_game = False
-answerd = None
-lock =  None
-score = None
-
 def check_running_game(f):  # pragma: no cover
     """Checks if the game is running or not"""
     @wraps(f)
     def decorated_function(*args, **kwargs):
-        if running_game:
+        if args[0].bot.memory['trivial_manager'].running_game:
             return f(*args, **kwargs)
         else:
             return None
@@ -90,12 +82,7 @@ class Question:
         self.answerd = list[2].replace('\n','')
 
 def setup(bot):
-    global running_game
-    running_game = False
-    global lock
-    lock = threading.Lock()
-    global score
-    score ={}
+    list_questions = []
     for dirname, dirnames, filenames in os.walk(os.path.expanduser(bot.config.trivia_game.path)):
         for filename in filenames:
             with open (os.path.join(dirname, filename),'r') as f:
@@ -103,66 +90,112 @@ def setup(bot):
                     l = line.split('*')
                     if len(l)==3:
                         list_questions.append(Question(l))
+    if len(list_questions)==0:
+        bot.say("No se ha cargado ninguna pregunta")
+
+    bot.memory['trivial_manager'] = TrivialManager(bot,list_questions)
     global INTERVAL
-    INTERVAL = bot.config.trivia_game.interval
+    INTERVAL = int (bot.config.trivia_game.interval)
 
-@commands('trivial_start')
-def trivial_start (bot, trigger):
-    global running_game
-    if running_game == False:
-        running_game = True
-        send_question(bot)
-    else :
-        bot.say("juego ya ha comenzado")
 
-@commands('trivial_stop')
-def trivial_stop(bot, trigger):
-    global running_game
-    lock.acquire()
-    if running_game == True:
-        running_game = False
-        global t
-        t.cancel()
-    lock.release()
+@commands('trivial')
+def manage_trivia(bot, trigger):
+    """Manage trivial game. For a list of commands, type: .trivial help"""
+    bot.memory['trivial_manager'].manage_trivial(bot, trigger)
 
-@commands('pista')
-def pista(bot, trigger):
-    bot.say(answerd.show_more_letters())
+class TrivialManager:
+    def __init__(self, bot, questions):
+        # get a list of all methods in this class that start with _trivia_
+        self.actions = sorted(method[9:] for method in dir(self) if method[:9] == '_trivial_')
+        self.running_game = False
+        self.lock = threading.Lock()
+        # game's score
+        self.score ={}
+        # list with questions
+        self.questions= questions
+        # answerd of the current question
+        self.answerd = None
 
-@commands('puntuacion')
-def trivial_score(bot, trigger):
-    bot.say(str(score))
+    def send_question(self,bot):
+        question = random.choice(self.questions)
+        self.answerd = Answerd(question.answerd)
+        bot.say(question.question)
+        # print question.answerd
+        self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
+        self.t.start()
+
+    def send_pista(self,bot):
+        self.lock.acquire()
+        if self.answerd.stop():
+            bot.say("Respuesta no acertada. La respuesta era: " + self.answerd.answerd)
+            self.send_question(bot)
+        else:
+            bot.say(self.answerd.show_more_letters())
+            self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
+            self.t.start()
+        self.lock.release()
+
+    def check_answerd(self,bot,trigger):
+
+        self.lock.acquire()
+        if trigger.bytes.lower() == self.answerd.answerd.lower():
+            # global t
+            self.t.cancel()
+            bot.say("minipunto para " + trigger.nick)
+            self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
+            self.send_question(bot)
+        self.lock.release()
+
+
+    def _show_doc(self, bot, command):
+        """Given an trivial command, say the docstring for the corresponding method."""
+        for line in getattr(self, '_trivial_' + command).__doc__.split('\n'):
+            line = line.strip()
+            if line:
+                bot.reply(line)
+
+    def manage_trivial(self, bot, trigger):
+        """Manage trivial feeds. Usage: .trivial <command>"""
+        text = trigger.group().split()
+        if (len(text) < 2 or text[1] not in self.actions):
+            bot.reply("Usage: .trivial <command>")
+            bot.reply("Available trivial commands: " + ', '.join(self.actions))
+            return
+        getattr(self, '_trivial_' + text[1])(bot, trigger)
+
+    def _trivial_start(self,bot,trigger):
+        """Start trivia game. Usage: .trivial start
+        In a near Future with option to select topic"""
+        if self.running_game == False:
+            self.running_game = True
+            self.send_question(bot)
+        else :
+            bot.say("juego ya ha comenzado")
+    
+    def _trivial_stop(self,bot,trigger):
+        """Stop trivia game. Usage: .trivial stop"""
+        if self.running_game == True:
+            self.running_game == False
+            self.t.cancel()
+
+    def _trivial_pista(self,bot, trigger):
+        """Show a help more. Usage: .trivial pista"""
+        bot.say(self.answerd.show_more_letters())
+
+    def _trivial_score(self,bot, trigger):
+        """Show a score. Usage: .trivial score"""
+        bot.say(str(self.score))
+
+    def _trivial_help(self, bot, trigger):
+        """Get help on any of the trivia game commands. Usage: .trivial help <command>"""
+        command = trigger.group(4)
+        if command in self.actions:
+            self._show_doc(bot, command)
+        else:
+            bot.reply("For help on a command, type: .trivial help <command>")
+            bot.reply("Available trivial commands: " + ', '.join(self.actions))
 
 @rule(".*")
 @check_running_game
 def test(bot, trigger):
-    lock.acquire()
-    if trigger.bytes.lower() == answerd.answerd.lower():
-        # global t
-        t.cancel()
-        bot.say("minipunto para " + trigger.nick)
-        score[trigger.nick]= score.get(trigger.nick,0)+1
-        send_question(bot)
-    lock.release()
-
-def send_question(bot):
-    question = random.choice(list_questions)
-    global answerd
-    answerd = Answerd(question.answerd)
-    bot.say(question.question)
-    # print question.answerd
-    global t
-    t = threading.Timer(INTERVAL, send_pista,(bot,))
-    t.start()
-
-def send_pista(bot):
-    lock.acquire()
-    if answerd.stop():
-        bot.say("Respuesta no acertada. La respuesta era: " + answerd.answerd)
-        send_question(bot)
-    else:
-        bot.say(answerd.show_more_letters())
-        global t
-        t = threading.Timer(INTERVAL, send_pista,(bot,))
-        t.start()
-    lock.release()
+    bot.memory['trivial_manager'].check_answerd(bot,trigger)
