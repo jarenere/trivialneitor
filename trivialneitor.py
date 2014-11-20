@@ -175,7 +175,7 @@ class TrivialManager:
     def _trivial_stop(self,bot,trigger):
         """Stop trivia game. Usage: .trivial stop"""
         if self.running_game == True:
-            self.running_game == False
+            self.running_game = False
             self.t.cancel()
 
     def _trivial_pista(self,bot, trigger):
