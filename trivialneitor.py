@@ -1,9 +1,10 @@
-from willie.module import commands, interval, rule
+from willie.module import commands, rule
 import willie.bot
 import random
 from functools import wraps
 import threading
 import os.path
+import os.walk
 
 # https://docs.python.org/2/library/threading.html
 # http://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python
@@ -16,8 +17,7 @@ import os.path
 # <Zokormazo> Mira en rss.py por ejemplo
 # https://github.com/inspectorvector/avalon/blob/master/avalon.py
 # http://stackoverflow.com/questions/11488877/periodically-execute-function-in-thread-in-real-time-every-n-seconds
-home = os.path.expanduser("~")
-_file_ = os.path.join(home,'proyectos/trivialneitor/questions/[ES]questions')
+
 INTERVAL = 5
 list_questions = []
 running_game = False
@@ -34,6 +34,19 @@ def check_running_game(f):  # pragma: no cover
         else:
             return None
     return decorated_function
+
+
+def configure(config):
+    """
+    | [trivia_game] | example | purpose |
+    | -------- | ------- | ------- |
+    | path | ~/.willie/questions/ | Folder where are the files with the list_questions|
+    | interval | 5 | time to display the next help |
+    """
+    if config.option('Configure trivia game module', False):
+        config.add_section('trivia_game')
+        config.interactive_add('trivia_game', 'path', 'folder path', '~/.willie/questions/')
+        config.interactive_add('trivia_game', 'interval', 'time to display the next help', '5')
 
 class Answerd:
     def __init__(self, answerd):
@@ -83,12 +96,15 @@ def setup(bot):
     lock = threading.Lock()
     global score
     score ={}
-    with open(_file_, 'r') as f:
-        for line in f:
-            l = line.split('*')
-            if len(l)==3:
-                list_questions.append(Question(l))
-
+    for dirname, dirnames, filenames in os.walk(os.path.expanduser(bot.config.trivia_game.path)):
+        for filename in filenames:
+            with open (os.path.join(dirname, filename),'r') as f:
+                for line in f:
+                    l = line.split('*')
+                    if len(l)==3:
+                        list_questions.append(Question(l))
+    global INTERVAL
+    INTERVAL = bot.config.trivia_game.interval
 
 @commands('trivial_start')
 def trivial_start (bot, trigger):
