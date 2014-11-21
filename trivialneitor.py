@@ -6,6 +6,10 @@ import random
 from functools import wraps
 import threading
 import os.path
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf-8')
 
 
 def check_running_game(f):  # pragma: no cover
