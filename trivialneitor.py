@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
 from willie.module import commands, rule
 import willie.bot
 import random
@@ -5,17 +7,6 @@ from functools import wraps
 import threading
 import os.path
 
-# https://docs.python.org/2/library/threading.html
-# http://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python
-# http://stackoverflow.com/questions/16578652/threading-timer
-# http://stackoverflow.com/questions/12435211/python-threading-timer-repeat-function-every-n-seconds
-# <Zokormazo> nu_kru, hay un descriptor, @interval(5)
-# <Zokormazo> Ejecuta la fincion cada 5 segundos
-# <Zokormazo> Puedes usarlo de main loop para la logica
-# <NoPlanB> Buenas vivi666_!
-# <Zokormazo> Mira en rss.py por ejemplo
-# https://github.com/inspectorvector/avalon/blob/master/avalon.py
-# http://stackoverflow.com/questions/11488877/periodically-execute-function-in-thread-in-real-time-every-n-seconds
 
 def check_running_game(f):  # pragma: no cover
     """Checks if the game is running or not"""
@@ -50,7 +41,6 @@ class Answerd:
                 self.mask[i]=True
 
     def show_more_letters(self):
-        # print self.mask.count(True), len(self.answerd)
         if self.mask.count(True)<len(self.answerd):
             i = random.randrange(len(self.answerd))
             while self.mask[i]==True:
@@ -94,8 +84,6 @@ def setup(bot):
         bot.say("No se ha cargado ninguna pregunta")
 
     bot.memory['trivial_manager'] = TrivialManager(bot,list_questions)
-    global INTERVAL
-    INTERVAL = int (bot.config.trivia_game.interval)
 
 
 @commands('trivial')
@@ -120,7 +108,6 @@ class TrivialManager:
         question = random.choice(self.questions)
         self.answerd = Answerd(question.answerd)
         bot.say(question.question)
-        # print question.answerd
         self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
         self.t.start()
 
@@ -139,7 +126,6 @@ class TrivialManager:
 
         self.lock.acquire()
         if trigger.bytes.lower() == self.answerd.answerd.lower():
-            # global t
             self.t.cancel()
             bot.say("minipunto para " + trigger.nick)
             self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
@@ -167,8 +153,11 @@ class TrivialManager:
         """Start trivia game. Usage: .trivial start
         In a near Future with option to select topic"""
         if self.running_game == False:
-            self.running_game = True
-            self.send_question(bot)
+            if len(self.questions)==0:
+                bot.say("no se hay ninguna pregunta cargada")
+            else:
+                self.send_question(bot)
+                self.running_game = True
         else :
             bot.say("juego ya ha comenzado")
     
