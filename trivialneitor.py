@@ -70,22 +70,30 @@ class Answerd:
             return False
 
 class Question:
-    def __init__(self, list):
-        self.theme_autor = list[0]
-        self.question = list[1]
-        self.answerd = list[2].replace('\n','')
+    def __init__(self, str):
+        l = str.split('©')
+        if len (l) != 2: raise Exception('Wrong question format, two or more ©') 
+        self.theme = l[0]
+        l = l[1].split('«')
+        if len (l) != 2: raise Exception('Wrong question format, two or more «')
+        self.autor= l[0]
+        l = l[1].split('*')
+        if len (l) != 2: raise Exception('Wrong question format, two or more *')
+        self.question = l[0]
+        self.answerd = l[1].replace('\n','')
 
 def setup(bot):
     list_questions = []
     for dirname, dirnames, filenames in os.walk(os.path.expanduser(bot.config.trivia_game.path)):
         for filename in filenames:
             with open (os.path.join(dirname, filename),'r') as f:
-                for line in f:
-                    l = line.split('*')
-                    if len(l)==3:
-                        list_questions.append(Question(l))
+                for i,line in enumerate(f):
+                    try:
+                        list_questions.append(Question(line))
+                    except Exception as e:
+                        print "error, file {0}, line {1} ({2}): ".format(os.path.join(dirname, filename),i, e)
     if len(list_questions)==0:
-        bot.say("No se ha cargado ninguna pregunta")
+        print("No se ha cargado ninguna pregunta")
 
     bot.memory['trivial_manager'] = TrivialManager(bot,list_questions)
 

@@ -1,0 +1,2308 @@
+Gastronomia©-«(En inglés) Coffee, whisky, sugar and cream.*irish coffee
+Gastronomia©-«(Jejeje) ¿Qué es una ensaimada?*un donut virgen
+Gastronomia©-«¿A base de qué se hacen los michirones murcianos?*habas secas
+Gastronomia©-«¿A dónde había que ir para comer en El Bulli?*rosas
+Gastronomia©-«¿A qué animal hay que darle una paliza antes de comerlo?*pulpo
+Gastronomia©-«¿A qué denominación de origen calificada (D.O.C.) pertenece el vino Sabatacha de Bodegas San Isidro?*jumilla
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Alex?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Altorreal?*rueda
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Bach Viña Extrísima?*cataluña
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Barbaldos?*cigales
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Blanc Pescador?*ampurdan costa brava
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Cabomar?*tierra de cadiz
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Cartojal?*malaga
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Castillo de San Diego?*tierra de cadiz
+Gastronomia©-«¿A qué denominación de origen pertenece el vino CB?*montilla moriles
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Colegiata?*toro
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Conde de Caralt?*cataluña
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Condes de Albarei?*rias baixas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Condestable?*jumilla
+Gastronomia©-«¿A qué denominación de origen pertenece el vino El Coto?*rioja
+Gastronomia©-«¿A qué denominación de origen pertenece el vino El Grifo?*lanzarote
+Gastronomia©-«¿A qué denominación de origen pertenece el vino El Lomo?*tacoronte acentejo
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Emate?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Estola?*la mancha
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Gomellano?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Gran Feudo?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Irache?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino La Gitana?*manzanilla sanlucar de barrameda
+Gastronomia©-«¿A qué denominación de origen pertenece el vino La Ina?*jerez
+Gastronomia©-«¿A qué denominación de origen pertenece el vino La Sultana?*montilla moriles
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Málaga Virgen?*malaga
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Martín Códax?*rias baixas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Matarromera?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Mayor de Castilla?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Mayoral?*jumilla
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Monasterio de las Viñas?*cariñena
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Monte don Lucio?*la mancha
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Montesierra?*somontano
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Mosen Cleto?*campo de borja
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Muruve?*toro
+Gastronomia©-«¿A qué denominación de origen pertenece el vino O'Ventosela?*ribeiro
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Pazo?*ribeiro
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Pedro Ximénez 1927?*montilla moriles
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Peñarrubia?*jumilla
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Pesquera?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Príncipe de la Paz?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Príncipe de Viana?*navarra
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Protos?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Puerta de Hierro?*vinos de madrid
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Puerta del Sol?*vinos de madrid
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Raimat?*coster del segre
+Gastronomia©-«¿A qué denominación de origen pertenece el vino René Barbier?*penedes
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Ribera de los Molinos?*la mancha
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Río Mayor?*cariñena
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Sangre de Toro?*cataluña
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Sant Llach?*penedes
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Santeiro?*rias baixas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Scala Dei?*priorato
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Señorío de Llanos?*valdepeñas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Señorío de Ojailén?*valdepeñas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Sol de Alicante?*alicante
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Solar de la Vega?*rueda
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Valdoscardos?*toro
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Vega Cedrón?*la mancha
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Vega Cubillas?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Vega Vieja?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Viña Albali?*valdepeñas
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Viña Esmeralda?*penedes
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Viña Mayor?*ribera del duero
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Viña Royuelo?*campo de borja
+Gastronomia©-«¿A qué denominación de origen pertenece el vino Vionta?*rias baixas
+Gastronomia©-«¿A qué denominación de origen pertenecen los vinos producidos en Bollullos?*condado de huelva
+Gastronomia©-«¿A qué elemento químico se debe el color rojo del vino tinto?*hierro
+Gastronomia©-«¿A qué hacen referencia los italianos con "lacryma christi"?*vino dulce
+Gastronomia©-«¿A qué molusco se parecen las zamburiñas?*vieiras
+Gastronomia©-«¿A qué pescado corresponde la variedad más pequeña, llamada abadejo, de inferior calidad?*bacalao
+Gastronomia©-«¿Cómo llamamos a un helado que en vez de con leche se elabora con agua?*sorbete
+Gastronomia©-«¿Cómo llamamos en Deusto a los churros con chocolate?*churros con chocolate
+Gastronomia©-«¿Cómo llamamos los españoles al champán?*cava
+Gastronomia©-«¿Cómo se conoce al cochinillo en Salamanca?*toston
+Gastronomia©-«¿Cómo se denomina a la capa de arroz quemado que queda en el fondo de las paellas?*socarrat
+Gastronomia©-«¿Cómo se denomina a la mezcla de mantequilla y harina que sirve de base a la bechamel?*rouge
+Gastronomia©-«¿Cómo se denomina la aguja metálica delgada en la que se ensartan los alimentos para asarlos?*brocheta
+Gastronomia©-«¿Cómo se denomina, genéricamente, a cualquier guiso elaborado en pedazos menudos?*gigote
+Gastronomia©-«¿Cómo se llama a las tapas en el País Vasco?*pintxos
+Gastronomia©-«¿Cómo se llama a los crepes en Galicia?*filloas
+Gastronomia©-«¿Cómo se llama a los jureles en Cádiz?*chicharros
+Gastronomia©-«¿Cómo se llama al densímetro para determinar la cantidad de glucosa en los mostos?*glucometro
+Gastronomia©-«¿Cómo se llama el arroz hecho con conejo y caracoles, típico de Murcia?*arroz pinoso
+Gastronomia©-«¿Cómo se llama el azúcar de la fruta?*fructosa
+Gastronomia©-«¿Cómo se llama el gazpacho espeso típico de Córdoba?*salmorejo
+Gastronomia©-«¿Cómo se llama el licor que se obtiene tras la fermentación de la savia de la palmera?*legmi
+Gastronomia©-«¿Cómo se llama el licor típico que hacen en Montserrat?*aromes de montserrat
+Gastronomia©-«¿Cómo se llama el plato típico italiano que consiste en láminas de carne cruda finamente cortadas y aliñadas?*carpaccio
+Gastronomia©-«¿Cómo se llama el procedimiento que consiste en destruir todos los microbios que contienen los alimentos para poder conservarlos?*esterilizacion
+Gastronomia©-«¿Cómo se llama el queso asturiano más caro?*gamoneu
+Gastronomia©-«¿Cómo se llama el repollo de color morado?*lombarda
+Gastronomia©-«¿Cómo se llama el restaurante de Pedro Subijana?*akelarre
+Gastronomia©-«¿Cómo se llama en Barcelona a la cerveza con limonada?*clara
+Gastronomia©-«¿Cómo se llama en Hungría al pimentón?*paprika
+Gastronomia©-«¿Cómo se llama esa magnífica bebida italiana elaborada a base de champán y melocotón?*bellini
+Gastronomia©-«¿Cómo se llama genéricamente la uva seca?*pasa
+Gastronomia©-«¿Cómo se llama la bacteria que hay que añadir a la leche para que se convierta en yogur?*lactobacillus acidophilus
+Gastronomia©-«¿Cómo se llaman unos dulces típicos de Asturias parecidos a los crepes?*frixuelos
+Gastronomia©-«¿Con qué fruto se elabora el pacharán?*endrina
+Gastronomia©-«¿Con qué ingrediente creamos la costra para los arroces en costra?*huevo
+Gastronomia©-«¿Con qué otro nombre conocemos a las natillas?*crema inglesa
+Gastronomia©-«¿Con qué otro nombre se conoce al ajonjolí?*sesamo
+Gastronomia©-«¿Con qué se rellenan los famosísimos bollos preñaos?*chorizo
+Gastronomia©-«¿Con qué tipo de arroz se prepara el "arroz a la India"?*basmati
+Gastronomia©-«¿Con qué utensilio se prepara el alioli?*mortero
+Gastronomia©-«¿Con qué verdura se suele acompañar el lacón en Galicia?*grelos
+Gastronomia©-«¿Cuál es el aceite de oliva de graduación más baja?*aceite de orujo
+Gastronomia©-«¿Cuál es el alimento que no puede faltar en una mesa?*pan
+Gastronomia©-«¿Cuál es el alimento típico que caracteriza a Huelva, donde incluso hay una fiesta con su nombre?*choco
+Gastronomia©-«¿Cuál es el código del antioxidante que más se utiliza?*e-330
+Gastronomia©-«¿Cuál es el color que hace diferenciar al bogavante de la langosta?*azul oscuro
+Gastronomia©-«¿Cuál es el edulcorante más consumido del mundo?*azucar
+Gastronomia©-«¿Cuál es el fruto seco más usado en la fabricación del turrón?*almendra
+Gastronomia©-«¿Cuál es el ingrediente básico en la preparación de un daiquiri?*ron
+Gastronomia©-«¿Cuál es el ingrediente común de todos los platos denominados "a la florentina"?*espinacas
+Gastronomia©-«¿Cuál es el ingrediente esencial en el marmitako?*bonito
+Gastronomia©-«¿Cuál es el ingrediente fundamental del empedrat?*judias
+Gastronomia©-«¿Cuál es el ingrediente más importante del pollo al horno?*pollo
+Gastronomia©-«¿Cuál es el ingrediente principal de la fabada asturiana?*fabes
+Gastronomia©-«¿Cuál es el ingrediente principal de la mermelada de fresas?*fresas
+Gastronomia©-«¿Cuál es el ingrediente principal de la paella?*arroz
+Gastronomia©-«¿Cuál es el ingrediente principal del "civet de porc senglar"?*jabali
+Gastronomia©-«¿Cuál es el ingrediente principal del almogrote?*queso
+Gastronomia©-«¿Cuál es el licor típico de la ciudad de Alcoy y que es muy difícil de encontrar fuera de allí?*cafe licor
+Gastronomia©-«¿Cuál es el marisco de mayor tamaño de todos?*bogavante
+Gastronomia©-«¿Cuál es el mejor restaurante madrileño especializado en carne de caza?*horcher
+Gastronomia©-«¿Cuál es el nombre original de la salsa boloñesa, en italiano?*ragu
+Gastronomia©-«¿Cuál es el país del asado?*argentina
+Gastronomia©-«¿Cuál es el país del tequila?*mexico
+Gastronomia©-«¿Cuál es el país que consume más whisky?*francia
+Gastronomia©-«¿Cuál es el país que emplea el chocolate como condimento para elaborar el mole?*mexico
+Gastronomia©-«¿Cuál es el pescado que se hace al pil pil?*bacalao
+Gastronomia©-«¿Cuál es el plato más típico de México?*taco
+Gastronomia©-«¿Cuál es el plato típico de Andalucía (aparte del gazpacho)?*pescaito frito
+Gastronomia©-«¿Cuál es el plato típico en el Valle de Arán?*olla aranesa
+Gastronomia©-«¿Cuál es el postre tradicional español para la Semana Santa?*torrijas
+Gastronomia©-«¿Cuál es el principal ingrediente de los paparajotes murcianos?*hojas de limonero
+Gastronomia©-«¿Cuál es el producto típico de La Roda?*miguelitos
+Gastronomia©-«¿Cuál es el queso azul más famoso de Asturias y, probablemente, de España?*cabrales
+Gastronomia©-«¿Cuál es el queso típico de Galicia?*queso de tetilla
+Gastronomia©-«¿Cuál es el símbolo indiscutible de la cultura mexicana, condimento por excelencia de casi todas sus comidas?*chile
+Gastronomia©-«¿Cuál es la base de la dieta mediterránea?*aceite de oliva
+Gastronomia©-«¿Cuál es la bebida que más se elabora en el Penedés?*cava
+Gastronomia©-«¿Cuál es la capital del ajo?*las pedroñeras
+Gastronomia©-«¿Cuál es la capital del pimiento del piquillo?*lodosa
+Gastronomia©-«¿Cuál es la capital europea en la que puedo comer cabidela, frango na púcara y pasteis?*lisboa
+Gastronomia©-«¿Cuál es la comida de viejas?*lentejas
+Gastronomia©-«¿Cuál es la comida típica en Tarazona (Zaragoza)?*migas
+Gastronomia©-«¿Cuál es la especialidad de los madrileños?*cocido
+Gastronomia©-«¿Cuál es la especialidad navarra de cordero?*cordero al chilindron
+Gastronomia©-«¿Cuál es la frase más famosa de Karlos Arguiñano?*rico rico y con fundamento
+Gastronomia©-«¿Cuál es la función de la lecitina como aditivo alimentario?*antioxidante
+Gastronomia©-«¿Cuál es la función del ácido acético como aditivo alimentario?*conservante
+Gastronomia©-«¿Cuál es la función del agar como aditivo alimentario?*espesante
+Gastronomia©-«¿Cuál es la marca blanca, en alimentación, de Mercadona?*hacendado
+Gastronomia©-«¿Cuál es la mejor raza vacuna española para consumo?*rubia gallega
+Gastronomia©-«¿Cuál es la población de donde son famosos los cochinillos?*segovia
+Gastronomia©-«¿Cuál es la principal localidad productora de jamón con denominación de origen de Teruel?*calamocha
+Gastronomia©-«¿Cuál es la variedad de aceituna más extendida en España?*hojiblanca
+Gastronomia©-«¿Cuál es la vitamina que predomina en el aceite de girasol?*vitamina e
+Gastronomia©-«¿Cuál es un manjar por excelencia en Corea?*carne de perro
+Gastronomia©-«¿Cuál es uno de los mejores rones cubanos que puedes paladear aquí?*havana7
+Gastronomia©-«¿Cuál fue la primera ciudad de Europa en la que se elaboró chocolate?*astorga
+Gastronomia©-«¿Cuál ha sido el más famoso restaurante de Rosas (Gerona)?*el bulli
+Gastronomia©-«¿Cuáles son las dos comidas típicas de Venezuela?*arepas y pabellon
+Gastronomia©-«¿Cuáles son las frutas típicas de los restaurantes chinos en los postres?*lichis
+Gastronomia©-«¿Cuáles son las tres denominaciones de vino más famosas de Aragón?*somontano cariñena y campo de borja
+Gastronomia©-«¿Cuáles son los componentes básicos de la sangría?*vino zumo y azucar
+Gastronomia©-«¿Cuáles son los dos componentes del "bollu preñau"?*pan y chorizo
+Gastronomia©-«¿Cuáles son los dos ingredientes principales de la ensalada griega?*tomate y queso feta
+Gastronomia©-«¿Cuáles son los dos principales ingredientes de la morcilla de Burgos?*sangre y arroz
+Gastronomia©-«¿Cuáles son los ingredientes principales de las patatas a la riojana?*patatas y chorizo
+Gastronomia©-«¿Cuáles son los mariscos que a veces se pueden poner gabardina?*gambas
+Gastronomia©-«¿Cuántos grados tiene el Licor 43?*31
+Gastronomia©-«¿Cuántos ingredientes tiene la salsa boloñesa?*seis
+Gastronomia©-«¿Cuántos litros de mayonesa se pueden llegar a hacer con un solo huevo?*200
+Gastronomia©-«¿De cuántos grados es el vodka de más alta graduación que se puede encontrar en el mercado?*80
+Gastronomia©-«¿De dónde es el queso casín?*asturias
+Gastronomia©-«¿De dónde es el vino de Icod?*tenerife
+Gastronomia©-«¿De dónde es la cerveza O'doul's?*estados unidos
+Gastronomia©-«¿De dónde es la horchata más conocida?*alboraya
+Gastronomia©-«¿De dónde es la mejor llampuga que se come normalmente en septiembre?*baleares
+Gastronomia©-«¿De dónde es originaria la cerveza Foster's?*australia
+Gastronomia©-«¿De dónde es originario el tumbet?*mallorca
+Gastronomia©-«¿De dónde es típica la butigarra de payés?*cataluña
+Gastronomia©-«¿De dónde es típica la carrillada de buey?*palencia
+Gastronomia©-«¿De dónde es típica la pasta?*italia
+Gastronomia©-«¿De dónde es típico el farinato?*salamanca
+Gastronomia©-«¿De dónde es típico el mojo picón?*canarias
+Gastronomia©-«¿De dónde es típico el plato alpujarreño?*alpujarra
+Gastronomia©-«¿De dónde es típico el zarangollo?*murcia
+Gastronomia©-«¿De dónde se produce el mezcal?*agave
+Gastronomia©-«¿De dónde son las pantortillas?*reinosa
+Gastronomia©-«¿De dónde son los exquisitos pasteles de carne?*murcia
+Gastronomia©-«¿De dónde son los mejores pimientos de España?*padron
+Gastronomia©-«¿De dónde son originarios los tacos?*mexico
+Gastronomia©-«¿De dónde son típicas las criadillas de cerdo?*extremadura
+Gastronomia©-«¿De dónde son típicas las empanadas?*galicia
+Gastronomia©-«¿De dónde son típicas las mantecadas?*astorga
+Gastronomia©-«¿De dónde son típicos los boquerones?*malaga
+Gastronomia©-«¿De dónde son típicos los calçots?*cataluña
+Gastronomia©-«¿De dónde son típicos los chicharrones?*extremadura
+Gastronomia©-«¿De dónde son típicos los mostachones?*utrera
+Gastronomia©-«¿De dónde son típicos, concretamente, los calçots?*valls
+Gastronomia©-«¿De dónde viene el bonito del norte (Pista: Está en el norte de Lugo)?*burela
+Gastronomia©-«¿De qué animal se hace el verdadero foie-gras?*oca
+Gastronomia©-«¿De qué ciudad es originario el tiramisú?*venecia
+Gastronomia©-«¿De qué ciudad italiana es originaria la pizza?*napoles
+Gastronomia©-«¿De qué color es el más escaso caviar: blanco, negro o rojo?*blanco
+Gastronomia©-«¿De qué color es la ciruela variedad claudia?*verde
+Gastronomia©-«¿De qué comarca es el vino de Alella?*maresme
+Gastronomia©-«¿De qué comarca española es típico el botillo?*el bierzo
+Gastronomia©-«¿De qué comarca extremeña son famosas sus cerezas?*valle del jerte
+Gastronomia©-«¿De qué comarca proceden los vinos más representativos de Aragón?*cariñena
+Gastronomia©-«¿De qué comunidad autónoma es la denominación de origen Quesos de la Serena?*extremadura
+Gastronomia©-«¿De qué comunidad autónoma es típica la butifarra?*cataluña
+Gastronomia©-«¿De qué comunidad autónoma es típico el chilindrón?*aragon
+Gastronomia©-«¿De qué comunidad autónoma es típico y famoso el ternasco asado?*aragon
+Gastronomia©-«¿De qué comunidad autónoma son originarios los sobaos?*cantabria
+Gastronomia©-«¿De qué comunidad autónoma son típicas las aceitunas muertas?*aragon
+Gastronomia©-«¿De qué comunidad autónoma son típicas las orejas que se comen por Carnaval?*galicia
+Gastronomia©-«¿De qué comunidad es típico el changurro?*pais vasco
+Gastronomia©-«¿De qué comunidad es típico el cochifrito?*aragon
+Gastronomia©-«¿De qué comunidad es típico el pollo al chilindrón?*aragon
+Gastronomia©-«¿De qué denominación de origen es el vino Araluz?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Azai?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Campo Viejo?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Carta de Oro?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Diamante?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Faustino Rivero?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Marqués de Griñón?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Monopole?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Montecillo?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Muga?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Puerta Vieja?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Romeral?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Solar de Carrión?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Viña Alcorta?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Viña Espolón?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Viñadrián?*rioja
+Gastronomia©-«¿De qué denominación de origen es el vino Zaco?*rioja
+Gastronomia©-«¿De qué denominación es el vino Viña Salceda?*rioja
+Gastronomia©-«¿De qué están rellenas las más típicas "casadielles", postre asturiano?*crema de nuez
+Gastronomia©-«¿De qué localidad de Castellón es típico el empedrao?*vall de uxo
+Gastronomia©-«¿De qué localidad es típico el flamenquín?*andujar
+Gastronomia©-«¿De qué localidad malagueña es típico el potaje algarrobeño?*algarrobo
+Gastronomia©-«¿De qué madera deben estar hechos los toneles que se fabrican con el fin de contener whisky?*roble
+Gastronomia©-«¿De qué marca son los bombones After Eight?*nestle
+Gastronomia©-«¿De qué país es el cocinero Arguiñano?*españa
+Gastronomia©-«¿De qué país es originaria la fondue?*suiza
+Gastronomia©-«¿De qué país es originaria la sopa borscht?*rusia
+Gastronomia©-«¿De qué país es originario el asado criollo: Venezuela, Cuba o Colombia?*venezuela
+Gastronomia©-«¿De qué país es originario el biryani (arroz con especias y carne)?*india
+Gastronomia©-«¿De qué país es originario el chucrut?*alemania
+Gastronomia©-«¿De qué país es típica la cassata y los cannoli?*italia
+Gastronomia©-«¿De qué país es típica la dafina?*israel
+Gastronomia©-«¿De qué país es típica la salsa holandesa?*francia
+Gastronomia©-«¿De qué pescado se extraen las verdaderas cocochas, tan apreciadas en gastronomía?*merluza
+Gastronomia©-«¿De qué plato es típica la "pringá"?*cocido
+Gastronomia©-«¿De qué productos está compuesta la tortilla de patatas?*huevos aceite y patatas
+Gastronomia©-«¿De qué provincia es la denominación de origen de vinos Campo de Borja?*zaragoza
+Gastronomia©-«¿De qué provincia es la denominación de origen Quesos de la Serena?*badajoz
+Gastronomia©-«¿De qué provincia es la denominación de origen Torta del Casar?*caceres
+Gastronomia©-«¿De qué provincia es típico el botillo?*leon
+Gastronomia©-«¿De qué provincia es típico el cojondongo?*badajoz
+Gastronomia©-«¿De qué provincia es típico el rinrán?*jaen
+Gastronomia©-«¿De qué provincia española es típica la cecina, embutido creado a partir de la vaca?*leon
+Gastronomia©-«¿De qué provincia española son típicos los salazones?*alicante
+Gastronomia©-«¿De qué provincia son típicas las tortillitas de camarones?*cadiz
+Gastronomia©-«¿De qué región es típico el cerdo con almejas?*alentejo
+Gastronomia©-«¿De qué región española son los vinos: albariños, valdeorras y ribeiro?*galicia
+Gastronomia©-«¿De qué región francesa es originaria la quiche?*lorena
+Gastronomia©-«¿De qué se compone básicamente el pacharán?*anis y endrinas
+Gastronomia©-«¿De qué siglo datan las primeras noticias que se tienen sobre el gazpacho?*i a.c.
+Gastronomia©-«¿De qué son las delicias de Elche?*datil y bacon
+Gastronomia©-«¿De qué tipo de plato existe una variante llamada 'Waldorf'?*ensalada
+Gastronomia©-«¿De qué vegetales de Padrón se dice que "unos pican y otros no"?*pimientos
+Gastronomia©-«¿Desde qué año existe la cerveza Amstel?*1870
+Gastronomia©-«¿Desde qué año se hace la cerveza Grimbergen?*1128
+Gastronomia©-«¿Dónde beberías retzina?*grecia
+Gastronomia©-«¿Dónde comemos arròs amb fessols i naps?*valencia
+Gastronomia©-«¿Dónde comerías "escudella" por Navidad?*cataluña
+Gastronomia©-«¿Dónde comerías el sacher más típico?*viena
+Gastronomia©-«¿Dónde comerías michirones?*murcia
+Gastronomia©-«¿Dónde es típico el plato de lomo con pimientos?*la rioja
+Gastronomia©-«¿Dónde es típico, gastronómicamente, el canguro?*australia
+Gastronomia©-«¿Dónde está el mayor restaurante de marisco del mundo?*vigo
+Gastronomia©-«¿Dónde está el restaurante de Karlos Arguiñano?*zarauz
+Gastronomia©-«¿Dónde me encuentro si estoy comiendo escalivada?*cataluña
+Gastronomia©-«¿Dónde se celebra anualmente el concurso internacional de fideuá?*gandia
+Gastronomia©-«¿Dónde se celebra la Feria del Embutido?*bescano
+Gastronomia©-«¿Dónde se come "el rajol"?*granollers
+Gastronomia©-«¿Dónde se come "shepherd's pie"?*inglaterra
+Gastronomia©-«¿Dónde se comen fabes con amaxueles?*asturias
+Gastronomia©-«¿Dónde se comen los bollos preñaos?*asturias
+Gastronomia©-«¿Dónde se elabora cada año la tortilla más grande del mundo?*carcacia
+Gastronomia©-«¿En las riberas de qué río se produce más vino en Galicia?*sil
+Gastronomia©-«¿En qué año se abren en España las primeras cafeterías?*1943
+Gastronomia©-«¿En qué autonomía se comen más lacones?*galicia
+Gastronomia©-«¿En qué bebida alcohólica se emplea el lúpulo?*cerveza
+Gastronomia©-«¿En qué ciudad española se fabrica el Licor 43?*cartagena
+Gastronomia©-«¿En qué ciudad española te comerías un cocido maragato?*astorga
+Gastronomia©-«¿En qué ciudad nació la Coca-Cola?*atlanta
+Gastronomia©-«¿En qué ciudad podrás degustar "les bacores" durante la plantá de las hogueras?*alicante
+Gastronomia©-«¿En qué ciudad podrás degustar la "coca en toñina" durante la plantá de las hogueras?*alicante
+Gastronomia©-«¿En qué ciudad se encuentra la fábrica de Anís del Mono?*badalona
+Gastronomia©-«¿En qué ciudad se inventaron las galletas chinas de la fortuna?*san francisco
+Gastronomia©-«¿En qué ciudad son famosas las coffee shops?*amsterdam
+Gastronomia©-«¿En qué ciudad te comerías una tortilla del Sacromonte?*granada
+Gastronomia©-«¿En qué comunidad autónoma puedes comer "papas arrugadas con mojo"?*canarias
+Gastronomia©-«¿En qué comunidad autónoma se degusta la borraja, ambrosía de dioses y manjar de ninfas?*aragon
+Gastronomia©-«¿En qué comunidad hay más monas por Pascua?*cataluña
+Gastronomia©-«¿En qué comunidad puedes comer unas papas con mojo?*canarias
+Gastronomia©-«¿En qué comunidad se celebra "el desarme" con un menú a base de garbanzos con bacalao, callos y arroz con leche?*asturias
+Gastronomia©-«¿En qué consiste el llamado "desayuno español"?*chocolate con churros
+Gastronomia©-«¿En qué dos zonas se dividen algunos restaurantes?*fumadores y no fumadores
+Gastronomia©-«¿En qué es rica la granada?*bromuros
+Gastronomia©-«¿En qué es rico el brécol?*vitamina c
+Gastronomia©-«¿En qué islas portuguesas se fabrica el mejor vino?*madeira
+Gastronomia©-«¿En qué lugar visitarías las bodegas Osborne?*el puerto de santa maria
+Gastronomia©-«¿En qué país de la UE se come más pollo?*españa
+Gastronomia©-«¿En qué país es tradición celebrar una barbacoa el día de Navidad?*australia
+Gastronomia©-«¿En qué país eslavo el "rakjia" es un orujo muy fuerte?*serbia
+Gastronomia©-«¿En qué país se come sushi?*japon
+Gastronomia©-«¿En qué país se comen más frijoles?*mexico
+Gastronomia©-«¿En qué país se considera al murciélago como un manjar?*australia
+Gastronomia©-«¿En qué país se inventó el café instantáneo?*suiza
+Gastronomia©-«¿En qué población tarraconense puedes comer el típico "menjar blanc" (comida blanca)?*reus
+Gastronomia©-«¿En qué provincia puedes comer el mejor "arros a banda" (arroz a banda)?*tarragona
+Gastronomia©-«¿En qué provincia se cultiva el pimiento romesco?*tarragona
+Gastronomia©-«¿En qué provincia se hace el ribeiro?*orense
+Gastronomia©-«¿En qué región española puedo beber el mejor priorato?*cataluña
+Gastronomia©-«¿En qué restaurante de Segovia se come el mejor cochinillo?*candido
+Gastronomia©-«¿En qué se diferencia el aceite de una aceituna recolectada del árbol al de la recogida del suelo?*acidez
+Gastronomia©-«¿En qué se transforma la sacarosa cuando se la calienta a temperaturas superiores a 180 ºC?*caramelo
+Gastronomia©-«¿En qué son ricas las acelgas?*calcio
+Gastronomia©-«¿En qué son ricas las zarzamoras?*vitamina a
+Gastronomia©-«¿En qué va envuelta la carne con costra?*hojaldre
+Gastronomia©-«¿Para qué es buen remedio el pacharán?*dolor de estomago
+Gastronomia©-«¿Para qué le echan azúcar a los cerdos en Lepe? Para después tener...*jamon dulce
+Gastronomia©-«¿Por qué no se pueden comer chanquetes?*porque estan protegidos
+Gastronomia©-«¿Qué alimento es el más emblemático de Italia?*pasta
+Gastronomia©-«¿Qué alimento es perfecto para dietas de adelgazamiento debido a que favorece el tracto intestinal, contiene poca grasa y posee un gran poder saciante?*algas
+Gastronomia©-«¿Qué animal es mayormente ingerido por los estadounidenses el Día de Acción de Gracias?*pavo
+Gastronomia©-«¿Qué arte se encarga de presentar apetitosamente los alimentos?*gastronomia
+Gastronomia©-«¿Qué bebida alcohólica fue la primera que se extrajo de la manzana?*sidra
+Gastronomia©-«¿Qué bebida es coñac, Cointreau, calvados y Pernod?*block and fall
+Gastronomia©-«¿Qué bebida española lleva un número primo de dos dígitos en su nombre?*licor 43
+Gastronomia©-«¿Qué bebida fermentada se extrae de las flores del cocotero?*vino de palma
+Gastronomia©-«¿Qué bebida tienen como objeto de estudio los enólogos?*vino
+Gastronomia©-«¿Qué cerveza es "la más fina"?*coronita
+Gastronomia©-«¿Qué ciudad es la única de España que tiene arroz con denominación de origen?*calasparra
+Gastronomia©-«¿Qué ciudad francesa es famosa por sus ensaladas?*niza
+Gastronomia©-«¿Qué comerías en Salamanca el Lunes de Aguas?*hornazo
+Gastronomia©-«¿Qué comida es típica del día de Navidad en Cataluña?*sopa de galets
+Gastronomia©-«¿Qué comida son las navajas?*marisco
+Gastronomia©-«¿Qué condimento tomado en cantidades exageradas es venenoso?*nuez moscada
+Gastronomia©-«¿Qué curioso alimento patentó el japonés Yoshimi en 1979?*yogur en polvo
+Gastronomia©-«¿Qué denominación de origen tiene el vino Torres?*penedes
+Gastronomia©-«¿Qué diferencia a un solomillo "tournedo" de un solomillo normal?*esta envuelto en grasa
+Gastronomia©-«¿Qué dos cosas te traerías de Mallorca?*ensaimadas y sobrasada
+Gastronomia©-«¿Qué dos pueblos cordobeses tienen denominación de origen en sus aceites?*baena y priego de cordoba
+Gastronomia©-«¿Qué dos quesos son los más famosos de Holanda?*edam y gouda
+Gastronomia©-«¿Qué dulce se come el día de difuntos?*huesos de santo
+Gastronomia©-«¿Qué dulce típico se come en Cataluña para Todos los Santos?*panellets
+Gastronomia©-«¿Qué dulces son típicos de Oviedo?*carbayones
+Gastronomia©-«¿Qué empieza así: Mouchos, curuxas, sapos e bruxas. Demos, trasgos e diaños, espiritos das nevadas meigas...?*o conxuro da queimada
+Gastronomia©-«¿Qué empresa fue la inventora del café instantáneo?*nestle
+Gastronomia©-«¿Qué es el "tête de moine"?*queso
+Gastronomia©-«¿Qué es el atole?*bebida caliente de maiz
+Gastronomia©-«¿Qué es el carpaccio?*lonchas de buey crudo
+Gastronomia©-«¿Qué es el caviar?*huevas de esturion
+Gastronomia©-«¿Qué es el Chianti?*vino
+Gastronomia©-«¿Qué es el coulis?*jugo de tomate
+Gastronomia©-«¿Qué es el foul?*plato nacional egipcio
+Gastronomia©-«¿Qué es el frangollo?*postre tipico canario
+Gastronomia©-«¿Qué es el lacryma christi?*vino italiano
+Gastronomia©-«¿Qué es el ñame?*tuberculo
+Gastronomia©-«¿Qué es el rodaballo?*pescado
+Gastronomia©-«¿Qué es lo más típico de Padrón?*pimientos
+Gastronomia©-«¿Qué es lo más típico que puedes beber en Lituania, Dinamarca, Letonia, Uzbequistán...?*vodka
+Gastronomia©-«¿Qué es peor que encontrarse un gusano al morder una manzana?*encontrarse medio
+Gastronomia©-«¿Qué es un camaleón?*coctel
+Gastronomia©-«¿Qué es un puntito verde en una esquina de la cocina?*un guisante castigado
+Gastronomia©-«¿Qué es una pijota?*merluza pequeña
+Gastronomia©-«¿Qué especia se suele echar al arroz con leche y a las natillas?*canela
+Gastronomia©-«¿Qué especialidades gastronómicas son típicas de Dijon?*mostaza y pan de especias
+Gastronomia©-«¿Qué famoso plato es llamado en inglés "spanish omelette"?*tortilla de patata
+Gastronomia©-«¿Qué fruta acentúa el sabor del champán?*fresa
+Gastronomia©-«¿Qué fruta se conoce como la "naranja enana"?*kumquat
+Gastronomia©-«¿Qué fruta se suele (y debe) poner en el arroz a la cubana?*platano frito
+Gastronomia©-«¿Qué fruto tiene una variedad llamada 'cantalupo'?*melon
+Gastronomia©-«¿Qué fruto tiene una variedad llamada claudia?*ciruela
+Gastronomia©-«¿Qué ingrediente diferencia a los callos de Galicia de los de Madrid?*garbanzos
+Gastronomia©-«¿Qué ingrediente diferencia al CroqueMadame del CroqueMonsieur?*huevo
+Gastronomia©-«¿Qué ingrediente falta para preparar un "polbo a feira": sal, aceite, pimentón y...?*pulpo
+Gastronomia©-«¿Qué ingredientes tiene el goxua?*nata crema y bizcocho
+Gastronomia©-«¿Qué les falta a las naranjas navel?*pepitas
+Gastronomia©-«¿Qué lleva cualquier refresco con gas?*agua carbonatada
+Gastronomia©-«¿Qué localidad madrileña es famosa por sus destilerías de anís?*chinchon
+Gastronomia©-«¿Qué localidad madrileña es famosa por sus melones?*villaconejos
+Gastronomia©-«¿Qué localidad navarra es famosa por su producción de pimientos y otros productos de huerta?*lodosa
+Gastronomia©-«¿Qué marisco provocó en 1981 una intoxicación masiva que afectó al menos a 5000 personas en 24 provincias españolas?*mejillon
+Gastronomia©-«¿Qué material llevan las sartenes antiadherentes?*teflon
+Gastronomia©-«¿Qué me falta si quiero preparar un arroz a la italiana: arroz blanco, salsa de tomate, mantequilla y...?*queso rallado
+Gastronomia©-«¿Qué molusco es típico comer en la zona llamada La Piedra (Vigo)?*ostra
+Gastronomia©-«¿Qué museo irías a visitar en Haro?*museo del vino
+Gastronomia©-«¿Qué nombre recibe la nata montada con azúcar?*chantilly
+Gastronomia©-«¿Qué ocurrirá si mastico chicle mientras pelo una cebolla?*no llorare
+Gastronomia©-«¿Qué otro producto de fama mundial, aparte del foie-gras, se fabrica en la región del Perigord?*coñac
+Gastronomia©-«¿Qué país es el mayor productor de pistachos?*iran
+Gastronomia©-«¿Qué parte de cualquier fruta es más dulce?*inferior
+Gastronomia©-«¿Qué parte del percebe es la que se come?*pedunculo
+Gastronomia©-«¿Qué pescado se usa habitualmente para rellenar las aceitunas?*anchoa
+Gastronomia©-«¿Qué pescado se utiliza para preparar el auténtico "all i pebre" de la Ribera, en Valencia?*anguila
+Gastronomia©-«¿Qué plato es típico en Sitges y en Vilanova i la Geltrú?*xato
+Gastronomia©-«¿Qué población del sur de Madrid destaca por sus espárragos y fresas?*aranjuez
+Gastronomia©-«¿Qué producto de la bollería mallorquina se prepara con la incorporación a la masa de grasa de cerdo?*ensaimada
+Gastronomia©-«¿Qué producto es típico de Mazarrón?*tomate
+Gastronomia©-«¿Qué producto gastronómico se ensalza en la Fiesta de Bandeira (Pontevedra)?*empanada
+Gastronomia©-«¿Qué proviene del hígado cebado del ganso?*foie gras
+Gastronomia©-«¿Qué puede ser chino, de Ceilán o moruno?*te
+Gastronomia©-«¿Qué restaurante con 3 estrellas en Michelin estaba junto a Rosas?*el bulli
+Gastronomia©-«¿Qué restaurante madrileño figura en el Guinness como el más antiguo del mundo?*casa botin
+Gastronomia©-«¿Qué sabor tiene el ajenjo?*amargo
+Gastronomia©-«¿Qué salsa acompaña a los calçots?*romesco
+Gastronomia©-«¿Qué salsa obtenemos si a una holandesa le añadimos estragón?*bearnesa
+Gastronomia©-«¿Qué salsa obtenemos si a una holandesa le añadimos nata?*muselina
+Gastronomia©-«¿Qué se come el 6 de enero?*roscon de reyes
+Gastronomia©-«¿Qué se come en Cataluña el día 31 de octubre por la noche y el 1 de noviembre?*castañas boniatos y panellets
+Gastronomia©-«¿Qué se desayuna generalmente un día de caza mayor?*migas
+Gastronomia©-«¿Qué se hace con leche, harina, huevos, sal, canela y limón?*crepes
+Gastronomia©-«¿Qué se hace cuando se flambea algo?*se le prende fuego
+Gastronomia©-«¿Qué se produce en el valle del Jerte?*cerezas
+Gastronomia©-«¿Qué se produce en Pals?*arroz
+Gastronomia©-«¿Qué se puede agregar en pequeña cantidad a las claras para que se monten más firmes?*sal o vinagre
+Gastronomia©-«¿Qué se suele considerar que son las "espardenyes"?*marisco
+Gastronomia©-«¿Qué significa "al dente"?*en su punto
+Gastronomia©-«¿Qué significa "allioli"?*ajo y aceite
+Gastronomia©-«¿Qué son la colmenilla, la platera, la galamperna, la senderuela...?*setas
+Gastronomia©-«¿Qué son las filloas?*crepes
+Gastronomia©-«¿Qué son las llanegas?*setas
+Gastronomia©-«¿Qué son los grelos?*hojas de los nabos
+Gastronomia©-«¿Qué son los moixerdons?*setas
+Gastronomia©-«¿Qué son los 'quaker oats'?*copos de avena
+Gastronomia©-«¿Qué son los tirabeques?*guisantes
+Gastronomia©-«¿Qué son, en francés, los "petits pois"?*guisantes
+Gastronomia©-«¿Qué te ponen para comer calçots?*babero
+Gastronomia©-«¿Qué tía da nombre a un licor?*tia maria
+Gastronomia©-«¿Qué tiene menos calorías: el jamón o el pan?*jamon
+Gastronomia©-«¿Qué tienen las españolas que no las francesas?*patata
+Gastronomia©-«¿Qué tienes que comer si visitas la ciudad de Lérida?*caracoles
+Gastronomia©-«¿Qué tipo de bebida alcohólica es la manzanilla?*vino
+Gastronomia©-«¿Qué tipo de bebida es un chardonnay?*vino
+Gastronomia©-«¿Qué tipo de salsas conviene usar con la carne de caza?*salsas dulces
+Gastronomia©-«¿Qué tipo de vino es Peñascal?*vino de aguja
+Gastronomia©-«¿Qué vegetal es verde por fuera, rojo por dentro y de sabor dulce?*sandia
+Gastronomia©-«¿Qué vegetal verde no puede faltar en una salsa verde?*perejil
+Gastronomia©-«¿Qué verdura nos hace llorar cuando la pelamos?*cebolla
+Gastronomia©-«¿Qué vitamina tiene el arroz?*b
+Gastronomia©-«¿Qué vitamina tienen las almendras?*b
+Gastronomia©-«¿Qué vitamina tienen las castañas?*b
+Gastronomia©-«¿Qué vitaminas tiene el plátano?*a y c
+Gastronomia©-«¿Qué vitaminas tiene la lechuga?*a b c y k
+Gastronomia©-«¿Qué vitaminas tiene la piña?*a b y c
+Gastronomia©-«¿Qué vitaminas tiene la zanahoria?*a b y c
+Gastronomia©-«¿Qué vitaminas tienen las espinacas?*a b c y k
+Gastronomia©-«¿Qué vitaminas tienen las patatas?*b y c
+Gastronomia©-«¿Quién es el autor de "Fast food (El lado oscuro de la comida rápida)"?*eric schlosser
+Gastronomia©-«¿Quién es el fabricante de las galletas Princesa?*artiach
+Gastronomia©-«¿Quién exportó por primera vez, y por la fuerza, el vino de Jerez (Sherry) a Inglaterra?*francis drake
+Gastronomia©-«¿Quién fue el famoso gastrónomo medieval que "asó la manteca"?*martinez de mantiño
+Gastronomia©-«¿Quién fue el inventor del bocata, para poder jugar a las cartas y comer a la vez?*sandwich
+Gastronomia©-«Aceite obtenido de la primera presión de la aceituna.*aceite virgen
+Gastronomia©-«Actriz autora del libro de recetas "¡Que aproveche!".*florinda chico
+Gastronomia©-«Aditivos: Colorante E-150, color marrón, agente saborizante, se halla en pasteles.*caramelo
+Gastronomia©-«Aditivos: Cómo se llama el colorante E-122, azocolorante sintético, para dar el color rojo... como la salsa marrón.*carmoisina
+Gastronomia©-«Aguardiente de uva peruano.*pisco
+Gastronomia©-«Aguardiente dulce anisado con nombre de pueblo malagueño.*ojen
+Gastronomia©-«Alimento animal comestible en contraposición a la carne.*pescado
+Gastronomia©-«Alimento hecho de masa seca que constituye la base de buena parte de la cocina italiana, así como de muchos platos chinos, indonesios, japoneses y vietnamitas.*pasta
+Gastronomia©-«Almíbar ligero hecho con agua y azúcar que se utiliza en repostería.*sirope
+Gastronomia©-«Año en que ha tenido lugar la vendimia a partir de la cual se ha elaborado un vino. Sinónimos: vendimia, cosecha.*añada
+Gastronomia©-«Arguiñano dice: "Rico, rico y...".*con fundamento
+Gastronomia©-«Arroz, pollo, conejo, tomate, bachoqueta, garrofón... ¿De qué plato hablo?*paella valenciana
+Gastronomia©-«Atributo que presenta un vino en cuanto a su aspecto, correspondiente a la radiación luminosa del espectro visible por él reflejada.*color
+Gastronomia©-«Bares asturianos en los que se sirve sidrina, y no es sidrería, dilo'n asturianu.*chigres
+Gastronomia©-«Bebida resultante de mezclar Licor 43 con Cointreau.*cua-cua
+Gastronomia©-«Bebida típica japonesa con la que se suele terminar la comida.*sake
+Gastronomia©-«Beluga es un tipo de...*caviar
+Gastronomia©-«Berros con nata y naranja, ingredientes:...*berros nata y naranja
+Gastronomia©-«Bombones más famosillos de Nestlé.*caja roja
+Gastronomia©-«Bramante para atar o bordar alimentos.*liz
+Gastronomia©-«Cadena de restaurantes de comida rápida de origen estadounidense que tiene sucursales en al menos la mitad de los países del mundo.*mcdonald's
+Gastronomia©-«Calificativo que reciben algunos vinos olorosos ligeramente dulces de la zona de Jerez.*amoroso
+Gastronomia©-«Calificativo que se aplica al vino de poco color.*abierto
+Gastronomia©-«Camarero, camarero, ¿qué significa esta mosca en mi sopa? -No lo sé, señor, no soy echador...*de fortunas
+Gastronomia©-«Capa exterior, rica en fibra, del grano, subproducto de la producción de harina.*salvado
+Gastronomia©-«Caracteres de un vino que denotan su escasa edad.*juventud
+Gastronomia©-«Característico en algunos vinos generosos. Aromas y sabores que recuerdan a los de las almendras amargas.*almendrado
+Gastronomia©-«Carne de la espalda y costillas de la res, próxima al pescuezo.*badal
+Gastronomia©-«Carne rebozada con jamón y queso dentro.*sanjacobo
+Gastronomia©-«Cerveza alemana, rubia tipo bock, dorada y transparente, aroma malteado y sabor ligeramente dulce y herbáceo.*bitburger
+Gastronomia©-«Cerveza belga de 5 por ciento, tipo gueuze, con color, aroma y sabor de cereza.*kriek
+Gastronomia©-«Cerveza belga de 8 por ciento, color ámbar oscuro, de aroma malteado, sabor picante y tostado.*augustijn
+Gastronomia©-«Cerveza belga trapense de 5 por ciento, color albaricoque oscuro, aroma especiado y sabor muy amargo.*orval
+Gastronomia©-«Cerveza de origen danés, rubia, sabor lupulizado, potente, seco y notablemente amarga.*carlsberg
+Gastronomia©-«Cerveza francesa de 12 por ciento, dorada y de aroma picante, suave final pero sabor fuerte.*la biere du demon
+Gastronomia©-«Cerveza típicamente belga de 8 por ciento, color ocre dorado, con abundante espuma, aroma espirituoso y bien lupulizada.*duvel
+Gastronomia©-«Chipirones muy pequeños, que se comen fritos.*chopitos
+Gastronomia©-«Citas: El rico come, el pobre...*se alimenta
+Gastronomia©-«Ciudad española famosa por sus paellas.*valencia
+Gastronomia©-«Color de la raíz de las zanahorias.*naranja
+Gastronomia©-«Come más que el gato de...*arguiñano
+Gastronomia©-«Comida típica de Córdoba.*flamenquin
+Gastronomia©-«Comida típica de Jaén consistente en tomate, pimiento verde, cebolla, ajo, huevo y aceite de oliva.*pipirrana
+Gastronomia©-«Comida típica de Jaén que se sirve fría y está elaborada principalmente con tomate maduro y ajo.*salmorejo
+Gastronomia©-«Comida típica de la Cerdaña.*trinxat
+Gastronomia©-«Comida típica de los árabes elaborada con sémola.*cuscus
+Gastronomia©-«Comida típica de Valls (en catalán).*calçots
+Gastronomia©-«Comida típica del Bierzo leonés.*botillo
+Gastronomia©-«Comunidad orensana famosa por su pan.*cea
+Gastronomia©-«Con la leche de qué animal se elabora la auténtica mozzarella.*bufala
+Gastronomia©-«Con los alimentos refrigerados y congelados se recomienda que no se rompa desde la producción hasta el momento de consumirlos.*cadena de frio
+Gastronomia©-«Condimento utilizado en cocina para aromatizar dulces y otros manjares.*canela
+Gastronomia©-«Conjunto de los diferentes ácidos orgánicos que se encuentran en el mosto o en el vino.*acidez
+Gastronomia©-«Conjunto de sensaciones naturales propias y positivas de un vino.*aroma
+Gastronomia©-«Conocida marca de cerveza estadounidense.*budweiser
+Gastronomia©-«Cortar en lonchas finas el pescado marinado o ahumado.*trinchar
+Gastronomia©-«Crema ligera hecha a base de yemas de huevo y vino o licor.*sabayon
+Gastronomia©-«Crustáceo menor que el langostino e igual de sabroso a la plancha.*gamba
+Gastronomia©-«Cuando hablamos del 'aceto balsamico' de Módena hablamos de...*vinagre
+Gastronomia©-«Cuando la salsa mahonesa se os haya cortado podéis solucionarlo fácilmente poniéndole...*una tirita
+Gastronomia©-«Cuando vayas a Italia, tendrías que probar este aguardiente cuya base son orujos y hollejos de uvas, que se someten a un proceso de destilación.*grappa
+Gastronomia©-«Cubrir las pechugas de un ave o una pieza de carne con lonchas de beicon (tocino).*albardar
+Gastronomia©-«Dar brillo a pasteles, asados u otras preparaciones con gelatina, mermelada, mantequilla fundida o almíbar.*abrillantar
+Gastronomia©-«Dar color a un caldo o salsa utilizando una cebolla, huesos horneados, caramelo oscuro, azafrán, etc.*colorear
+Gastronomia©-«De La Escala (Gerona) son famosas sus...*anchoas
+Gastronomia©-«Definiciones: Copa de cristal fino, para examinar, probar y oler los mostos y vinos.*catavino
+Gastronomia©-«Definiciones: Rebanada de pan especial, tostada, que puede conservarse durante mucho tiempo.*biscote
+Gastronomia©-«Degustación de vinos realizada en grupo, variando de establecimiento.*chateo
+Gastronomia©-«Denominación de origen de la provincia de Córdoba en aceite de oliva.*baena
+Gastronomia©-«Denominación de origen del vino CampoNaraya.*bierzo
+Gastronomia©-«Denominación de origen del vino Pirubí.*la mancha
+Gastronomia©-«Dorar una carne a fuego vivo para cerrar los poros y evitar que pierda jugos.*sellar
+Gastronomia©-«Dulce navideño.*polvoron
+Gastronomia©-«Dulce típico de Aix-en-Provence.*calissons
+Gastronomia©-«El aceite de denominación de origen Baena, ¿con qué variedad de aceituna se hace?*picual
+Gastronomia©-«El arroz tres delicias está hecho de zanahoria, guisantes, tortilla, pollo, salsa de soja y...*arroz
+Gastronomia©-«El cocinero vasco televisivo más famoso.*karlos arguiñano
+Gastronomia©-«El mejor pimentón es el de...*la vera
+Gastronomia©-«El mejor turrón que existe, ¿de qué ciudad es?*jijona
+Gastronomia©-«El origen de las angulas de Aguinaga está en el...*delta del ebro
+Gastronomia©-«El potaje gallego es típico de...*galicia
+Gastronomia©-«El pozole es típico de...*mexico
+Gastronomia©-«El rabo de toro es un plato típico de...*cordoba
+Gastronomia©-«El salmorejo es típico de...*cordoba
+Gastronomia©-«El salmorejo es una...*sopa fria
+Gastronomia©-«El tamari y el koikuchi son dos variaciones muy usadas de este aliño.*salsa de soja
+Gastronomia©-«El tiznao se compone fundamentalmente de...*bacalao
+Gastronomia©-«El vino puede ser de muchos sitios, pero, ¿qué comunidad española destaca?*la rioja
+Gastronomia©-«Embutido parecido al chorizo que se come con patatas por la parte de Orense.*androia
+Gastronomia©-«Embutido típico de Cataluña.*butifarra
+Gastronomia©-«En algunos monasterios benedictinos, dispersos en Europa, los monjes elaboran y venden un famoso licor de hierbas que se llama...*benedictine
+Gastronomia©-«En el Bierzo se producen dos productos, ¿cuáles?*cerezas y castañas
+Gastronomia©-«En el tradicional menú de sidrería vasco no puede faltar...*revuelto de bacalao
+Gastronomia©-«En España: Cabrales, en Francia: Roquefort... ¿y en Italia?*gorgonzola
+Gastronomia©-«En Hautvillers está la estatua de Perignon, primero que embotelló una botella de champán. ¿A qué orden monástica pertenecía?*benedictinos
+Gastronomia©-«En León, zona de tapeo y para "mojar" la garganta.*el humedo
+Gastronomia©-«Encurtido, normalmente dulce y picante, de verdura o de fruta.*chutney
+Gastronomia©-«Especia aromática y alucinógeno si se abusa.*nuez moscada
+Gastronomia©-«Especia de las más apreciadas por los cocineros.*azafran
+Gastronomia©-«Especia indispensable en el pulpo a la gallega.*pimenton
+Gastronomia©-«Especia parecida en aspecto al perejil que se utiliza especialmente en el sur.*cilantro
+Gastronomia©-«Especia que es la yema floral seca de un árbol originario de las Molucas.*clavo
+Gastronomia©-«Especialista en la valoración organoléptica del vino, actividad que encierra grandes dificultades y requiere una larga experiencia y una especial formación técnica.*catador
+Gastronomia©-«Especie de gazpacho granadino hecho con almendras, ajo y harina de habas.*ajo blanco
+Gastronomia©-«Estás ante un entrecot a la pimienta... ¿Qué es esa salsa blanca?*nata
+Gastronomia©-«Estofado de alubias y arroz, típico de Portugal y Brasil.*feijoada
+Gastronomia©-«Extracto gelatinoso de frutas que se obtiene mediante reducción al fuego.*jalea
+Gastronomia©-«Fabada: Si las fabes son el componente principal, ¿cómo se llama al resto del plato?*compangu
+Gastronomia©-«Famoso vino tinto de la Toscana.*chianti
+Gastronomia©-«Fiesta típica de Orense en donde se asan castañas.*magosto
+Gastronomia©-«Fórmula culinaria.*receta
+Gastronomia©-«Freír ligeramente.*saltear
+Gastronomia©-«Fruta tropical.*coco
+Gastronomia©-«Fruto seco que se añade a la ensalada Waldorf.*nuez
+Gastronomia©-«Galicia: Con sangre de cerdo, harina, leche y azúcar, se hacen...*filloas
+Gastronomia©-«Grasa de cerdo que se utiliza en la preparación de algunos platos regionales, como el caldo gallego.*unto
+Gastronomia©-«Grasa láctea solidificada que se usa como producto alimenticio y proviene, en su mayoría, de la leche de vaca.*mantequilla
+Gastronomia©-«Guisantes con jamón. Ingredientes:...*guisantes y jamon
+Gastronomia©-«Harina molida y tostada, alimento esencial en la dieta aborigen canaria, muy consumida aún en nuestros días.*gofio
+Gastronomia©-«Hay quien no lo sabe pero los huevos destinados al consumo no están...*fecundados
+Gastronomia©-«Hielo triturado de limón.*granizado de limon
+Gastronomia©-«Ingrediente espeso, graso y de color amarillo suave, que procede de la leche, a partir del cual se obtiene la mantequilla.*nata
+Gastronomia©-«Ingrediente fundamental de la ensaladilla rusa.*patata
+Gastronomia©-«Ingrediente principal de la esqueixada.*bacalao
+Gastronomia©-«Ingrediente principal de la salsa austríaca.*caldo de ave
+Gastronomia©-«Ingrediente principal de la vichysoisse.*puerro
+Gastronomia©-«Ingrediente principal del puré solferino.*tomate
+Gastronomia©-«Ingredientes de la escalivada (orden alfabético).*berenjena cebolla pimiento y tomate
+Gastronomia©-«Ingredientes de la leche merengada.*leche azucar claras canela y limon
+Gastronomia©-«Ingredientes de las patatas fritas.*patatas aceite y sal
+Gastronomia©-«Ingredientes del "pa amb tomaquet".*pan tomate sal y aceite
+Gastronomia©-«Ingredientes del mazapán.*almendra azucar y clara de huevo
+Gastronomia©-«Ingredientes principales del marmitako.*patata y bonito
+Gastronomia©-«Instrumento para abrir latas de conserva.*abrelatas
+Gastronomia©-«Intensidad del color de un vino.*capa
+Gastronomia©-«Introducir tiras de grasa en una carne cruda, para que no se reseque al cocinarla.*mechar
+Gastronomia©-«Juegos de palabras: Licor compuesto de alcohol, anís, azúcar, agua, y otros tres elementos más.*anisiete
+Gastronomia©-«La azofaifa es...*judias con alfalfa
+Gastronomia©-«La cerveza suele contener vitamina C (como antioxidante). En la etiqueta se indica como...*e-300
+Gastronomia©-«La crema praliné se obtiene con nata, azúcar y...*almendras
+Gastronomia©-«La dorada, pez de carne muy estimada, debe su nombre a la mancha dorada que tiene...*entre los ojos
+Gastronomia©-«La mayoría de almejas que comemos proceden de...*chile
+Gastronomia©-«La paella nació en la Albufera de Valencia y cuentan que originalmente no llevaba pollo ni conejo sino...*pato y rata de agua
+Gastronomia©-«La pinot noir es una variedad de...*uva
+Gastronomia©-«La que forman las burbujas de un buen espumoso en la copa al llegar a la superficie.*corona
+Gastronomia©-«La rica salsa canaria se llama...*mojo picon
+Gastronomia©-«La sidra asturiana es famosa en todo el mundo. Pero, ¿sabes el nombre del licor que se elabora en Normandía con el mismo fruto?*calvados
+Gastronomia©-«La sidra asturiana se hace con manzanas procedentes de las provincias de...*gerona y lerida
+Gastronomia©-«La trucha a la navarra se realiza rellenándola de...*jamon
+Gastronomia©-«La variedad burlat, ¿de qué fruta es?*cereza
+Gastronomia©-«Las pipas pueden ser de girasol o de...*calabaza
+Gastronomia©-«Leche, cacao, avellanas y azúcar... Es...*nocilla
+Gastronomia©-«Leche, cacao, avellanas y...*azucar
+Gastronomia©-«León: ¿Dónde se celebra la tradicional fiesta del botillo?*bembibre
+Gastronomia©-«Licor de hierbas típico de Hungría.*unicum
+Gastronomia©-«Licor italiano utilizado para confeccionar el tiramisú.*amaretto
+Gastronomia©-«Líquido viscoso de color castaño oscuro que se obtiene como producto secundario en la fabricación del azúcar de caña.*melaza
+Gastronomia©-«Localidad coruñesa famosa por su exaltación del percebe.*aguiño
+Gastronomia©-«Los adoquines son de...*zaragoza
+Gastronomia©-«Los cinco restaurantes con el máximo distintivo de la guía Michelin 2012 son: Arzak, Martín Berasategui, Sant Pau, Akelarre y...*el celler de can roca
+Gastronomia©-«Los mazapanes más famosos son los de...*consuegra
+Gastronomia©-«Los plátanos más famosos de España son de...*canarias
+Gastronomia©-«Los platos más conocidos de esta región son el gazpacho, los fritos y dulces, que tienen como ingredientes básicos: miel, almendras y piñones.*andalucia
+Gastronomia©-«Los sobaos son del...*valle del pas
+Gastronomia©-«Los tamales son típicos de qué país.*mexico
+Gastronomia©-«Los vinos de esta región son recios y sabrosos como el Cariñena y el Borja.*aragon
+Gastronomia©-«Los vinos de Jumilla son de...*murcia
+Gastronomia©-«Lugar donde se inventó el helado.*china
+Gastronomia©-«-Mamá, mamá, dame chorizo de este. -No, que pica. -Tranquila que lo...*cojo por la cuerda
+Gastronomia©-«Manera de preparar los alimentos asados en una parrilla o gratinados.*al grill
+Gastronomia©-«Matiz de color de algunos vinos rosados. Aroma que presentan a veces los vinos muy jóvenes.*fresa
+Gastronomia©-«Matiz en la coloración de los vinos blancos jóvenes más pálidos que recuerda al brillo del acero.*acerado
+Gastronomia©-«Me estoy comiendo un arroz burt. ¿Dónde estoy?*palma de mallorca
+Gastronomia©-«Medida muy utilizada para el vino en muchas comarcas españolas. Generalmente equivale a 16 litros.*arroba
+Gastronomia©-«Mejor región limonera.*murcia
+Gastronomia©-«Menú de verano. Bocadillo de atún. Ingredientes: Pan y...*atun
+Gastronomia©-«Merluza: Pescado azul o pescado blanco.*pescado blanco
+Gastronomia©-«Mezcla horneada de claras de huevo a punto de nieve y azúcar.*merengue
+Gastronomia©-«Nacionalidad de los canelones Rossini.*francesa
+Gastronomia©-«Nombre alternativo de la especia conocida como coriandro.*cilantro
+Gastronomia©-«Nombre completo de Arzak.*juan mari arzak arratibel
+Gastronomia©-«Nombre común de animales acuáticos comestibles muy diversos. Entre ellos se encuentran las ostras, las almejas y casi todos los demás moluscos, así como varios crustáceos, como los cangrejos y las langostas.*marisco
+Gastronomia©-«Nombre dado a la mezcla de vino manzanilla y Seven Up tomado en las ferias de Andalucía.*rebujito
+Gastronomia©-«Nombre de una bebida alcohólica elaborada por la fermentación de soluciones obtenidas de cereales y otros granos que contienen almidón.*cerveza
+Gastronomia©-«Nombre por el que se conoce a los nocivos ácidos grasos que se producen al hidrogenar aceites, como en la elaboración de margarina.*grasas trans
+Gastronomia©-«Nombre que recibe la flor de la especia más cara del mundo.*rosa del azafran
+Gastronomia©-«Nombre que se aplica a las verduras, frutos o legumbres, cocidas o crudas, que se conservan adobadas en vinagre.*encurtido
+Gastronomia©-«Nombre que se da a la tortilla que sólo lleva huevo.*tortilla francesa
+Gastronomia©-«Operación de trasiego de un vino viejo de la botella a otro recipiente con el fin de eliminar depósitos sólidos alojados en el fondo.*decantacion
+Gastronomia©-«Otro nombre de la pasta quebrada.*pasta brise
+Gastronomia©-«Otro nombre que se da a las semillas de sésamo.*ajonjoli
+Gastronomia©-«Paella valenciana no mixta: Cebolla, pimiento, mariscos varios, sal, mejillones, azafrán, guisantes, cebolla y...*arroz
+Gastronomia©-«País de origen de la ensaladilla rusa.*españa
+Gastronomia©-«Palamós es famoso por las...*gambas
+Gastronomia©-«Pan seco, ajo, cebolla y un poco de aceite y obtenemos...*migas
+Gastronomia©-«Pan, tomate, pimiento, pepino, ajo, aceite, vinagre, sal y agua, todo triturado. Hablamos de...*gazpacho andaluz
+Gastronomia©-«Panecillo de poca cochura, forma ovalada, blanco, común en Andalucía.*mollete
+Gastronomia©-«Pareja de cocineros vascos (apellidos).*arguiñano y arzak
+Gastronomia©-«Parte sólida y grasa de la leche obtenida por coagulación natural.*cuajada
+Gastronomia©-«Pasar por harina, huevo batido y pan rallado.*empanar
+Gastronomia©-«Pasta italiana con forma tubular y alargada.*macarrones
+Gastronomia©-«Pequeña calabaza cilíndrica de corteza verde y pulpa blanca.*calabacin
+Gastronomia©-«Pequeña porción de comida, acompañando a la bebida, antes de las principales comidas del día. Costumbre generalizada en casi toda España.*tapa
+Gastronomia©-«Perejil, cilantro, apio, estragón, salvia, cebollino, tomillo, menta, hinojo, etc.*hierbas aromaticas
+Gastronomia©-«Personalidad o singularidad de un vino.*caracter
+Gastronomia©-«Pez comestible parecido al atún, pero más pequeño.*bonito
+Gastronomia©-«Pimiento típico de la región de Murcia.*ñora
+Gastronomia©-«Pinche de cocina.*marmiton
+Gastronomia©-«Planta de la familia de las liliáceas, con aspecto de una cebolla pequeña, cuyo sabor se asemeja al de la cebolla, con un ligero gusto a ajo, pero más suave.*chalote
+Gastronomia©-«Planta umbelífera de flores blancas, se come cocida o en ensalada, y sirve de condimento.*apio
+Gastronomia©-«Plato catalán similar a la pizza.*coca de recapta
+Gastronomia©-«Plato de origen italiano en capas. Entre láminas de pasta se ponen verduras, carne picada, etc.*lasaña
+Gastronomia©-«Plato de origen italiano, láminas de pasta enrollada en forma de tubo conteniendo dentro un relleno.*canelones
+Gastronomia©-«Plato de pasta italiana.*macarrones
+Gastronomia©-«Plato de verduras típico de Aragón y Navarra.*borrajas
+Gastronomia©-«Plato nacional de Cuba.*moros y cristianos
+Gastronomia©-«Plato nacional de Venezuela.*pabellon
+Gastronomia©-«Plato peruano hecho a base de pescado crudo.*cebiche
+Gastronomia©-«Plato típico catalán del día de Navidad.*escudella i carn d'olla
+Gastronomia©-«Plato típico catalán.*botifarra amb faves
+Gastronomia©-«Plato típico de Antequera.*porra antequerana
+Gastronomia©-«Plato típico de Asturias realizado con sidra y chorizo.*chorizos a la sidra
+Gastronomia©-«Plato típico de Italia elaborado con arroz, caldo, vino blanco y queso.*risotto
+Gastronomia©-«Plato típico de la comarca de la Liébana.*cocido lebaniego
+Gastronomia©-«Plato típico de la zona de pescadores de Murcia elaborado con arroz y caldo de pescado.*caldero
+Gastronomia©-«Plato típico de las ferias gallegas.*pulpo a feira
+Gastronomia©-«Plato típico de las fiestas de San Isidro.*gallinejas y entresijos
+Gastronomia©-«Plato típico de Puigcerdá.*jabali
+Gastronomia©-«Plato típico de varios pueblos de la provincia de Jaén.*andrajos
+Gastronomia©-«Plato típico de Vic.*mongetes seques amb botifarra
+Gastronomia©-«Plato típico griego, elaborado con berenjenas, carne picada y queso en varias capas.*musaka
+Gastronomia©-«Plato típico italiano cuyo nombre se debe a una reina italiana.*pizza margarita
+Gastronomia©-«Plato típico navideño venezolano.*hallaca
+Gastronomia©-«Plato típico valenciano compuesto por pimiento rojo y bacalao.*esgarraet
+Gastronomia©-«Plato típico valenciano con la anguila de principal ingrediente.*all i pebre
+Gastronomia©-«Población del Ripollés famosa por sus patatas.*camprodon
+Gastronomia©-«Población que produce más aceite de oliva en el mundo.*martos
+Gastronomia©-«Poner a punto de sal o color un preparado.*rectificar
+Gastronomia©-«Postre ibicenco hecho con queso y hierbabuena.*flao
+Gastronomia©-«Postre típico antequerano.*bienmesabe
+Gastronomia©-«Postre típico de Montserrat.*mel i mato
+Gastronomia©-«Postre típico murciano mezcla de salado y dulce.*pastel cierva
+Gastronomia©-«Postres típicos de carnaval en Galicia.*filloas y orejas
+Gastronomia©-«Preparación fría y espumosa.*biscuit
+Gastronomia©-«Primer plato de una comida que antiguamente se servía después de la sopa o consomé.*entrada
+Gastronomia©-«Primera región vitivinícola de España y segunda del mundo.*la rioja
+Gastronomia©-«Principal componente del cóctel margarita.*tequila
+Gastronomia©-«Principal ingrediente de los tocinillos de cielo.*yema de huevo
+Gastronomia©-«Principal ingrediente del risotto.*arroz
+Gastronomia©-«Producto alimenticio sólido o semisólido que se obtiene separando los componentes sólidos de la leche, la cuajada, de los líquidos, el suero.*queso
+Gastronomia©-«Producto típico de Chinchón (Madrid).*anis
+Gastronomia©-«Qué es el cuchuco, plato de Colombia: sopa de carne de ........ y cebada.*cerdo
+Gastronomia©-«Queso francés de corteza blanca y blanda, con moho blanco, poco curado y de textura suave.*brie
+Gastronomia©-«Queso franco-suizo de pasta blanda.*vacherin
+Gastronomia©-«Queso italiano con enmohecimiento interno.*gorgonzola
+Gastronomia©-«Recipiente de madera de roble que se emplea para la crianza del vino.*barrica
+Gastronomia©-«Recipiente de madera de roble, castaño, etc., de unos 600 litros de capacidad, adecuado para el almacenado de vinos.*bocoy
+Gastronomia©-«Recipiente donde se guarda la sal.*salero
+Gastronomia©-«Recipiente donde se pisa la uva, se prensa la aceituna, la manzana, etc.*lagar
+Gastronomia©-«Recipiente vinario de vidrio de pequeño tamaño (generalmente de 3/8 de litro a 2 litros).*botella
+Gastronomia©-«Recubrir con una capa de almíbar o de azúcar glas.*glasear
+Gastronomia©-«Región francesa famosa por su hígado de oca.*perigord
+Gastronomia©-«Rehogar.*sofreir
+Gastronomia©-«Restaurante de Ferran Adrià. Estuvo abierto entre 1962 y 2011.*el bulli
+Gastronomia©-«Restaurante de Sergi Arola.*gastro
+Gastronomia©-«Salar la carne y curarla al humo.*acecinar
+Gastronomia©-«Salchicha blanca tipo frankfurt.*bratswurt
+Gastronomia©-«Salsa de pescado parecida al paté muy apreciada en el Imperio Romano.*garum
+Gastronomia©-«Salsa de tomate, azúcar, sal, vinagre y especias.*ketchup
+Gastronomia©-«Salsa hecha con un caldo al que se agrega un fondo rubio para espesarlo.*veloute
+Gastronomia©-«Salsa italiana a base de aceite de oliva y albahaca.*pesto
+Gastronomia©-«Salsa provenzal a base de aceitunas negras.*tapenade
+Gastronomia©-«Sazonar un manjar para mejorar su sabor.*aderezar
+Gastronomia©-«Se aplica a los alimentos que son condimentados o aliñados a voluntad del que los toma.*al gusto
+Gastronomia©-«Se celebra la fiesta del marisco ahí.*el grove
+Gastronomia©-«Según los entendidos, si cocinas un plato de pasta en una salsa de pescado, qué ingrediente habitual debes descartar.*queso
+Gastronomia©-«Sensación de estrechamiento que se aprecia en los tejidos de la boca al paso de algunos vinos.*astringencia
+Gastronomia©-«Sensación de leves pinchazos en el paladar producida por algunos vinos que contienen burbujas de carbónico.*aguja
+Gastronomia©-«Sensación que forma parte del bouquet de vinos de gran crianza.*balsamico
+Gastronomia©-«Sensaciones últimas que se aprecian al degustar un vino.*final de boca
+Gastronomia©-«Sevilla, Casa Ruperto, las mejores...*codornices
+Gastronomia©-«Si comes "cargols a la llauna", estás comiendo...*caracoles a la lata
+Gastronomia©-«Si comes all i pebre, ¿en qué zona de Valencia estás?*la albufera
+Gastronomia©-«Si digo Rusia y bebida blanca...*vodka
+Gastronomia©-«Si en un restaurante te sirven especialidades alsacianas, en qué estado europeo crees que estás.*francia
+Gastronomia©-«Si estás comiendo "rossinyols", estás comiendo...*setas
+Gastronomia©-«Si estás en Valencia, ¿qué beberías en Alboraya?*horchata
+Gastronomia©-«Si me preparo un buen plato de lentejas con chorizo, a la riojana, con pan y ajo, ¿de qué comunidad autónoma es típico?*la rioja
+Gastronomia©-«Si mezclamos una parte de vodka con cuatro de jugo de naranja, tendremos un...*destornillador
+Gastronomia©-«Si mezclo papas, acelgas y judías...*gases todo el dia
+Gastronomia©-«Si pides un pitarra, ¿qué te darán?*vino
+Gastronomia©-«Sidra asturiana famosa en el mundo entero.*el gaitero
+Gastronomia©-«Sopa caliente con huevos, yema y clara cuajada, aderezada con limón o vinagre.*gazpachuelo
+Gastronomia©-«Sopa fría de tomates, ajo, etc.*gazpacho
+Gastronomia©-«Sustancia excitante que contiene el té.*teina
+Gastronomia©-«Término que en Francia define a los vinos de calidad superior procedentes de viñedos determinados.*cru
+Gastronomia©-«Término utilizado para definir un vino noble, suave y fino a la vez.*aterciopelado
+Gastronomia©-«Testículo de los animales de matadero.*criadilla
+Gastronomia©-«Tienda donde se expende aceite, vinagre, legumbres secas, bacalao, etc.*abaceria
+Gastronomia©-«Típica brocheta de cordero turca.*kebab
+Gastronomia©-«Típicas tortitas francesas a la naranja.*crepes suzette
+Gastronomia©-«Tipo de manzana de "sangre real".*reineta
+Gastronomia©-«Tipo de pimentón fuertemente picante.*cayena
+Gastronomia©-«Todos los elementos que forman parte de una receta.*ingredientes
+Gastronomia©-«Tortilla mexicana de maíz doblada y rellena de carne, pollo, queso y cebolla, etc.*taco
+Gastronomia©-«Tortilla típica granadina.*tortilla sacromonte
+Gastronomia©-«Tratamiento que se aplica a la leche para impedir que las grasas de la nata se separen del resto del producto.*homogeneizacion
+Gastronomia©-«Trigo machacado que se utiliza para preparar el cuscús árabe.*semola
+Gastronomia©-«Tripas de cordero enrolladas en sarmiento, adobadas y fritas, típicas de Cuenca.*zarajo
+Gastronomia©-«Un cortadito es un...*cafe con leche
+Gastronomia©-«Un vino famoso de la provincia de Tarragona es el...*priorato
+Gastronomia©-«Uno de los mejores caldos de la ribera del Duero.*tinto pesquera
+Gastronomia©-«Uno de los postres típicos de Venezuela.*dulce de lechosa
+Gastronomia©-«Valle navarro en el que se elabora un famoso queso.*roncal
+Gastronomia©-«Variedad de col, de raíz muy gruesa.*colinabo
+Gastronomia©-«Variedad de judía en la paella valenciana.*garrofon
+Gastronomia©-«Variedad de melocotón, no un híbrido con ciruela como se suele creer.*nectarina
+Gastronomia©-«Variedad de melón con pulpa anaranjada y corteza reticulada.*cantalupo
+Gastronomia©-«Variedad de melón muy cultivada en España, de piel rayada con tonos verdosos.*piel de sapo
+Gastronomia©-«Variedad de pimiento muy extendida en Hungría. Se utiliza seco y pulverizado como el pimentón.*paprika
+Gastronomia©-«Variedad de whisky originaria del sur de los Estados Unidos.*bourbon
+Gastronomia©-«Verdura típica de Galicia.*grelos
+Gastronomia©-«Vino a la vez áspero y ácido. Muy duro al paladar.*acerbo
+Gastronomia©-«Vino con caracteres aromáticos o gustativos fugaces o poco intensos.*corto
+Gastronomia©-«Vino con escasa proporción de azúcares.*seco
+Gastronomia©-«Vino con evidentes síntomas de avinagramiento.*picado
+Gastronomia©-«Vino de aspecto oleoso debido a una enfermedad.*aceitoso
+Gastronomia©-«Vino de elevada graduación alcohólica.*espirituoso
+Gastronomia©-«Vino de marcada astringencia causada por exceso de taninos o de componentes herbáceos procedentes del raspón, de las pepitas o de los hollejos.*aspero
+Gastronomia©-«Vino débil pequeño, que puede ser agradable pero que tiene poco alcohol y poco extracto.*ligero
+Gastronomia©-«Vino desequilibrado por falta de extracto o alcohol. Da una sensación análoga a la del vino aguado.*acuoso
+Gastronomia©-«Vino elegante y con delicadas y sugerentes sensaciones en nariz y boca.*elegante
+Gastronomia©-«Vino en el que el sabor ácido aparece exageradamente destacado.*verde
+Gastronomia©-«Vino espumoso natural que contiene una proporción de azúcares inferior a 15 gr/litro.*brut
+Gastronomia©-«Vino generoso de graduación alcohólica entre el 16 y el 22 por ciento vol., de color oro o ámbar, aroma punzante, seco, suave, de sabor avellanado y poco ácido.*amontillado
+Gastronomia©-«Vino generoso similar al fino, elaborado exclusivamente en Sanlúcar de Barrameda (Cádiz).*manzanilla
+Gastronomia©-«Vino ligero, fresco, fácil de tomar, con buen paso de boca y sin complejidad de aromas.*alegre
+Gastronomia©-«Vino nuevo del año, sin crianza.*joven
+Gastronomia©-«Vino que al trasluz se presenta completamente limpio y transparente.*brillante
+Gastronomia©-«Vino que ha sido sometido a un proceso de envejecimiento en barrica o botella, o en ambas, durante al menos tres años. Sinónimo: vino viejo.*añejo
+Gastronomia©-«Vino que mantiene sus cualidades y caracteres sin cambios negativos.*estable
+Gastronomia©-«Vino recio, con mucho cuerpo y densidad.*espeso
+Gastronomia©-«Vino tinto de poco color.*clarete
+Gastronomia©-«Vino totalmente desequilibrado por exceso de edad.*decrepito
+Gastronomia©-«Vino, vinito... que entras por la boca y sales por...*el pito
+Gastronomia©-«Visito las entrañas del macizo de Cambalou, Francia, y me hacen degustar un famoso queso. ¿Conoces su nombre?*roquefort
+Gastronomia©[Striker]«¿Cómo se conoce a la comida rápida?*fast food
+Gastronomia©[Striker]«¿Cómo se llama a la cantidad de sidra que se echa en un vaso?*culin
+Gastronomia©[Striker]«¿Cómo se llama la peculiar forma de echar la sidra en el vaso?*escanciar
+Gastronomia©[Striker]«¿Cuál es el ingrediente secreto de la Coca-Cola?*no se sabe
+Gastronomia©[Striker]«¿Qué ingredientes procedentes del cerdo se usan para hacer una buena fabada (en orden alfabético)?*chorizo lacon morcilla y tocino
+Gastronomia©[Striker]«Principales ingredientes de la fabada asturiana (aparte de las habas).*chorizo morcilla y lacon
+Gastronomia©[Zelig]«¿Cómo se conoce también a las "fabes, patates y verdura"?*pote asturiano
+Gastronomia©[Zelig]«¿Cómo se llaman esos equinodermos tan deliciosos que frecuentan las aguas frías?*erizos de mar
+Gastronomia©[Zelig]«¿Qué es la boroña?*pan de harina de maiz
+Gastronomia©[Zelig]«¿Qué nombre recibe el pimiento, cebolla, tomate y otros fritos juntos y despacito?*pisto
+Gastronomia©[Zelig]«Además de la fabada, ¿qué otro plato tradicional asturiano se hace con fabes?*fabes con almejes
+Gastronomia©[Zelig]«Si juntas rape, lubina, chopa, besugo, almejas, centollo, nécora, langosta... y un suculento caldo donde se cocina todo, ¿qué tienes?*caldereta de pescados y mariscos
+Gastronomia©]Ryback[«¿De qué comunidad autónoma es típico el pa amb tomaquet?*cataluña
+Gastronomia©^laura«¿Cuál es la base del "cremat"?*ron granos de cafe y limon
+Gastronomia©^laura«¿Dónde se elabora el queso gamonedo?*asturias
+Gastronomia©^laura«Se elabora con cava brut nature, brandy, grand marnier, granadina y media naranja.*pick me up
+Gastronomia©^Tafira«¿Cómo se le llama también a la mazorca de maíz?*panocha
+Gastronomia©^Tafira«¿Cómo se llama un famoso licor de hierbas que se hace en las islas Baleares?*palo
+Gastronomia©^Tafira«Colorante amarillo o naranja empleado en alimentos y condimentos, y antiguamente, en tintes.*curcuma
+Gastronomia©^Tafira«Derivado híbrido del pomelo, semejante a este, pero algo mayor y de piel más gruesa.*toronja
+Gastronomia©^Tafira«Harina cocida con agua hasta formar una pasta... Se sirven con leche, miel, picantes, etc...*gachas
+Gastronomia©^Tafira«La raíz de esta planta se tuesta y se muele, y el producto obtenido se emplea como sucedáneo del café.*achicoria
+Gastronomia©^Tafira«Plato típico de Cuenca.*zarajos
+Gastronomia©^Tafira«Sopa de pan, ajo, aceite y naranja amarga.*cachorreña
+Gastronomia©^Tafira«Técnica vinícola usada para finos y olorosos consistente en añadir alcohol de vino para elevar su graduación.*encabezado
+Gastronomia©^Tafira«Tipo de uva usada en la elaboración de ciertos vinos de Valdepeñas.*cencibel
+Gastronomia©^Tafira«Uno de los platos típicos canarios, elaborado con pescado.*sancocho
+Gastronomia©^Tafira«Uno de los platos típicos de Extremadura, elaborado fundamentalmente con cordero y pimentón.*frite
+Gastronomia©_Sibila_«¿De qué lugar es originaria la pericana?*alcoy
+Gastronomia©_Sibila_«¿En qué zona de Escocia se concentran las mejores destilerías de whisky?*valle del spey
+Gastronomia©{Murciano«¿Cómo se llama la mezcla de fresas, nata y azúcar?*fresas con nata
+Gastronomia©{Murciano«¿Qué comida típica de Murcia está compuesta de harina, aceite, boquerón, ajos, tocino y un poco de sal?*migas
+Gastronomia©{Murciano«¿Qué ensalada es típica en Murcia?*ensalada murciana
+Gastronomia©{Murciano«¿Qué famosa comida se hace con carne picada, leche, pasta y salsa picante?*lasaña
+Gastronomia©{Murciano«¿Qué haríamos con patatas, garbanzos, espinacas, hoja de laurel y azúcar?*olla gitana
+Gastronomia©Acuarios«¿De qué país proceden las naranjas californianas?*estados unidos
+Gastronomia©Aiarako«Ingrediente fundamental del pesto genovese.*albahaca
+Gastronomia©Aiarako«La salsa boloñesa, qué lleva junto al tomate en el sofrito.*carne picada
+Gastronomia©Aker«En Asturias decimos 'al pan pan y al vino vino', pero beber, bebemos...*sidra
+Gastronomia©Akka«¿Qué es el poteen?*alcohol de patata
+Gastronomia©Akka«¿Qué especialidad culinaria ha dado fama a Oxford?*mermelada de naranja
+Gastronomia©aligator_«¿Cuáles son los principales componentes de la Coca-Cola?*agua y azucar
+Gastronomia©Alkaid«¿Cuál es el país suramericano que fabrica pisco a base de uvas?*chile
+Gastronomia©Alkaid«¿En qué país salió al mercado la primera cerveza enlatada?*estados unidos
+Gastronomia©Anghara«¡Sorpresa! ¿De dónde es originario el plato de dorada a la sal?*murcia
+Gastronomia©anghara«¿Cómo se comen los espárragos correctamente, según las más estrictas normas de protocolo?*con las manos
+Gastronomia©Anghara«¿Cómo son los vinos de Rueda fundamentalmente?*blancos
+Gastronomia©anghara«¿Cuál es la cadena de restaurantes más grande del mundo?*mcdonald's
+Gastronomia©Anghara«¿De dónde es el ajilimójili?*andalucia
+Gastronomia©Anghara«¿De dónde es el arroz rosetxat?*valencia
+Gastronomia©Anghara«¿De dónde es el cabello de ángel?*murcia
+Gastronomia©Anghara«¿De dónde es el dulce llamado flores?*extremadura
+Gastronomia©Anghara«¿De dónde es el guisado de caracoles?*andalucia
+Gastronomia©Anghara«¿De dónde es el menudo gitano?*andalucia
+Gastronomia©Anghara«¿De dónde es el oliaigua?*baleares
+Gastronomia©Anghara«¿De dónde es el plato sang i fetge?*cataluña
+Gastronomia©Anghara«¿De dónde es el postre llamado bollo de chicharrones?*extremadura
+Gastronomia©Anghara«¿De dónde es la boronía (calabaza, berenjenas, pimientos, tomate, membrillo...)?*andalucia
+Gastronomia©Anghara«¿De dónde es la chanfaina (con gallina, cerdo, morcilla, etc.)?*andalucia
+Gastronomia©Anghara«¿De dónde es la ensalada xató?*cataluña
+Gastronomia©Anghara«¿De dónde es la llengua de vedella amb rovellons?*cataluña
+Gastronomia©Anghara«¿De dónde es la olla podrida?*cantabria
+Gastronomia©anghara«¿De dónde es originaria la hamburguesa?*estados unidos
+Gastronomia©Anghara«¿De dónde es originario el estragón?*rusia
+Gastronomia©Anghara«¿De dónde es originario el gazpacho?*andalucia
+Gastronomia©Anghara«¿De dónde es originario el jengibre?*china
+Gastronomia©Anghara«¿De dónde es originario el queso brie?*francia
+Gastronomia©Anghara«¿De dónde es originario el queso cherry bell?*sudafrica
+Gastronomia©Anghara«¿De dónde es originario el queso epicure?*nueva zelanda
+Gastronomia©Anghara«¿De dónde es originario el queso Remoudou?*belgica
+Gastronomia©Anghara«¿De dónde es típica la fabada?*asturias
+Gastronomia©Anghara«¿De dónde es típico el cocido montañés?*cantabria
+Gastronomia©Anghara«¿De dónde es típico el queso pasiego?*cantabria
+Gastronomia©Anghara«¿De dónde proviene la salsa montori?*cataluña
+Gastronomia©anghara«¿De dónde son las Bratwurst?*alemania
+Gastronomia©Anghara«¿De dónde son las castañas con leche?*galicia
+Gastronomia©Anghara«¿De dónde son las codornices con pochas?*navarra
+Gastronomia©Anghara«¿De dónde son las ensaimadas de Tudela?*navarra
+Gastronomia©Anghara«¿De dónde son las fanfarronas (¡ojo! que es un dulce :-))?*murcia
+Gastronomia©Anghara«¿De dónde son las gachas con arrope?*murcia
+Gastronomia©Anghara«¿De dónde son las habas con jamón de Trevélez?*andalucia
+Gastronomia©Anghara«¿De dónde son las marañuelas?*asturias
+Gastronomia©Anghara«¿De dónde son las patatas en paseo?*andalucia
+Gastronomia©Anghara«¿De dónde son las perdices con chocolate?*navarra
+Gastronomia©Anghara«¿De dónde son los chocos?*andalucia
+Gastronomia©Anghara«¿De dónde son los cocs farcits?*baleares
+Gastronomia©Anghara«¿De dónde son los frixuelos?*asturias
+Gastronomia©Anghara«¿De dónde son típicas las migas?*extremadura
+Gastronomia©Anghara«¿De qué ciudad alemana es originaria la cerveza Bock?*munich
+Gastronomia©Anghara«¿De qué parte de la ternera sale la babilla?*patas
+Gastronomia©Anghara«¿De qué provincia procede la mayoría del turrón?*alicante
+Gastronomia©anghara«¿Dónde comen codillo a todas horas?*alemania
+Gastronomia©Anghara«¿Dónde comen los "huesecillos"?*extremadura
+Gastronomia©Anghara«¿Dónde comes caracoles con pimientos, tomates, tocino, jamón, manteca de cerdo, etc.?*la rioja
+Gastronomia©Anghara«¿Dónde están los viñedos de Valdeorras?*el barco
+Gastronomia©Anghara«¿Dónde se hace kulibiac de salmón?*rusia
+Gastronomia©Anghara«¿Dónde se prepara una cazuela con hígado, sangre y manteca de cerdo, ajo, nuez moscada, canela, sal, pimienta, cominos y perejil?*aragon
+Gastronomia©Anghara«¿En qué isla balear preparan un cordero típico para chuparse los deditos?*menorca
+Gastronomia©anghara«¿Qué estarías comiendo si pidieras una japuta en un restaurante?*pescado
+Gastronomia©Anghara«¿Qué lleva la bebida llamada alexander?*coñac crema de cacao y nata
+Gastronomia©Anghara«¿Qué lleva la bebida llamada block and fall?*coñac cointreau calvados y pernod
+Gastronomia©Anghara«¿Qué quiere decir "farsa" en lenguaje culinario?*relleno
+Gastronomia©Anghara«¿Qué sale de mezclar ron, Bacardi, Cointreau, brandy y zumo de limón?*between the sheets
+Gastronomia©Anghara«¿Qué se hace con angulas, aceite, ajo y guindilla?*angulas a la bilbaina
+Gastronomia©Anghara«¿Qué significa el término "lager" en una cerveza?*baja fermentacion
+Gastronomia©Anghara«Besugo con ajo, limón, vino blanco, pan rallado, salsa de tomate, perejil, aceite y sal.*besugo a la madrileña
+Gastronomia©Anghara«Comer níscalos es típico de...*segovia
+Gastronomia©anghara«Con alcachofas jamás debo beber...*vino tinto
+Gastronomia©Anghara«Con harina, leche, levadura, mantequilla, azúcar, sal y aceite en EEUU hacen los famosos...*donuts
+Gastronomia©Anghara«Con huevo, azúcar, almendras, harina, sal, anís y un cocinero gallego :))) hacemos...*melindres
+Gastronomia©Anghara«Con jarrete de ternera se hace un plato típico italiano que es el...*ossobuco
+Gastronomia©anghara«Con salsas al madeira jamás debo beber...*vino blanco
+Gastronomia©Anghara«Dulce con manteca de cerdo, harina, vino blanco y canela.*mantecados manchegos
+Gastronomia©Anghara«El aligot es típico de...*francia
+Gastronomia©Anghara«El arroz en caldero está buenísimo en la región de...*murcia
+Gastronomia©Anghara«El atún a la mahonesa es típico de...*baleares
+Gastronomia©Anghara«El azúcar en polvo fino se llama...*glas
+Gastronomia©Anghara«El caldo hecho con desperdicios de carne o pescado que sirve de fondo para salsas se llama...*fumet
+Gastronomia©anghara«El caldo más conocido (con berzas) es de...*galicia
+Gastronomia©Anghara«El carre de cerdo con ciruelas es típico de...*dinamarca
+Gastronomia©Anghara«El cebiche de pollo es típico de...*ecuador
+Gastronomia©Anghara«El cóctel madison se compone fundamentalmente de...*vodka
+Gastronomia©Anghara«El kebab es típico de...*turquia
+Gastronomia©Anghara«El mencía y el godello son vinos de...*galicia
+Gastronomia©Anghara«El plato fiskesalat, con bacalao, es típico de...*noruega
+Gastronomia©Anghara«El plato que se compone de perdices, cebollas, ajos, zanahorias, laurel, aceite, vino blanco, pimienta y sal es de...*toledo
+Gastronomia©Anghara«El pollo al cacahuete es típico de...*senegal
+Gastronomia©Anghara«El pollo campurriano es de...*cantabria
+Gastronomia©anghara«El postre más conocido de los VIPS.*tortitas con nata
+Gastronomia©Anghara«El Vega Sicilia es un vino de la...*ribera del duero
+Gastronomia©Anghara«El vino de Valdejalón es de...*zaragoza
+Gastronomia©Anghara«El vino tinto de Somontano es de...*huesca
+Gastronomia©Anghara«En Argentina, con leche, azúcar, bicarbonato y vainilla hacen...*dulce de leche
+Gastronomia©Anghara«En Argentina, con ternera, cebollas, tomates, perejil, ajo, sal, orégano, aceite y guindilla hacen...*matahambre
+Gastronomia©Anghara«En Asturias, con harina de maíz, leche, mantequilla y sal hacen...*fariñes
+Gastronomia©Anghara«En Chile con levadura prensada, manteca de cerdo, harina, agua y sal se hacen...*empanadas chilenas
+Gastronomia©Anghara«En degustación de vinos, cómo se llama el gusto final en que domina la influencia de los taninos.*retrogusto
+Gastronomia©Anghara«En el País Vasco con bonito, cebollas, patatas, ajo, pan, aceite, laurel y sal hacen...*marmitako
+Gastronomia©Anghara«En el País Vasco con ciruelas pasas, orejones, azúcar moreno, vino tinto, canela y limón hacen...*zurracapote
+Gastronomia©Anghara«En Francia mezclan cebolla, caldo de ave, mantequilla, aceite, queso, etc. y tienen...*sopa de cebolla
+Gastronomia©Anghara«En Murcia con azúcar, avellanas y agua hacen...*picardias
+Gastronomia©Anghara«En Murcia con habas secas, chorizo, pimiento, hueso de jamón, laurel, pimienta y sal hacen...*michirones
+Gastronomia©Anghara«En Murcia si nos ponen un postre con cabello de ángel, obleas, almendras, huevos, etc. son las...*cordiales
+Gastronomia©Anghara«En Navarra con manteca, longaniza, huevos, pan rallado, sal y aceite hacen...*huevos roncaleses
+Gastronomia©Anghara«Huevos con queso, tomates, aceite, pan rallado, ajo, azúcar, pimienta y sal es de...*burgos
+Gastronomia©Anghara«Inglaterra: Rebanadas de pan, mantequilla, cerveza, mostaza, queso y cayena.*welsh rarebit
+Gastronomia©Anghara«La carajaca, compuesta fundamentalmente por hígado de ternera, es de...*canarias
+Gastronomia©Anghara«La carbonada flamenca es típica de...*belgica
+Gastronomia©Anghara«La cerveza ale (inglesa) es una cerveza de fermentación...*alta
+Gastronomia©Anghara«La cerveza Pilsener (Checa) es de fermentación...*baja
+Gastronomia©Anghara«La crema fría de remolacha se come mucho en...*rusia
+Gastronomia©Anghara«La fideuá es valenciana, pero concretamente de...*gandia
+Gastronomia©anghara«La leberwurst es de...*alemania
+Gastronomia©Anghara«La olla gitana es de...*murcia
+Gastronomia©Anghara«La quesada es típica de...*cantabria
+Gastronomia©Anghara«La sopa de centeno es típica de...*galicia
+Gastronomia©Anghara«La sopa de cerveza (Biersuppe) es típica de...*alemania
+Gastronomia©Anghara«La sopa de tortuga es un plato típico...*ingles
+Gastronomia©Anghara«La terrina de los Polders es un plato típico de...*holanda
+Gastronomia©Anghara«La torta pascualina es típica de...*argentina
+Gastronomia©Anghara«Las lenguas con granadas son típicas de...*baleares
+Gastronomia©Anghara«Las mantecadas de Astorga son de...*castilla y leon
+Gastronomia©Anghara«Las migas canas son de...*leon
+Gastronomia©Anghara«Las patatas con arroz y bacalao se comen mucho en...*extremadura
+Gastronomia©Anghara«Los anticuchos son típicos de...*peru
+Gastronomia©Anghara«Los buñuelos de boniato son típicos de...*castilla y leon
+Gastronomia©Anghara«Los chapatis (harina, mantequilla y agua) son típicos de qué país.*india
+Gastronomia©Anghara«Los pimientos de Lorca son de...*murcia
+Gastronomia©Anghara«Los platos con áspic son platos que llevan...*gelatina
+Gastronomia©Anghara«Los repápalos se comen en...*extremadura
+Gastronomia©Anghara«Los vinos de Méntrida son de...*toledo
+Gastronomia©Anghara«Los vinos del Valle de Monterrey son de...*orense
+Gastronomia©Anghara«Mezclo whisky, vermut rojo, angostura y marrasquino para hacer un...*manhattan
+Gastronomia©Anghara«Nombre de la fondue de carne.*bourgignon
+Gastronomia©Anghara«Origen de la salsa all i oli.*cataluña
+Gastronomia©Anghara«País Vasco: Cebolla, calabacín, pimientos verdes, tomates, jamón, huevos, azúcar, sal y aceite.*piparrada vasca
+Gastronomia©Anghara«Patatas con puerros, manteca de cerdo, sal, caldo y pimienta.*potaje palentino
+Gastronomia©Anghara«Pirojkis y twarogue son platos de...*rusia
+Gastronomia©Anghara«Plato alemán de repollo.*sauerkraut
+Gastronomia©Anghara«Plato gallego con centollos, puerro, laurel, mostaza, yemas de huevo, limón, aceite.*centollo dos salsas
+Gastronomia©Anghara«Plato superconocido de Galicia con cerdo, lacón, chorizo, grelos y cachelos.*lacon con grelos
+Gastronomia©Anghara«Plato típico de Bulgaria con nata, pepino, yogures, etc.*pepino con yogur
+Gastronomia©Anghara«Plato típico del norte de África que aquí se hace con arroz.*cuscus
+Gastronomia©Anghara«Postre típico catalán.*crema catalana
+Gastronomia©Anghara«Provincia catalana donde preparan de maravilla el bacalao.*lerida
+Gastronomia©Anghara«Si combino vodka, salsa Perrys y zumo de tomate obtengo un...*bloody mary
+Gastronomia©Anghara«Si como en Valencia bacalao con arroz, alubias, tomates, ajo, azafrán, aceite y sal, se trata de...*empedrat
+Gastronomia©Anghara«Si como judías blancas con butifarra estoy en...*cataluña
+Gastronomia©Anghara«Si cuezo frutas en almíbar muy espeso estoy...*confitandolas
+Gastronomia©anghara«Si en Ecuador pido un kilo de 'guineos' me refiero a...*platanos
+Gastronomia©Anghara«Si estoy en Galicia comiendo un plato compuesto por vieiras, cebolla, ajo, perejil, pimienta, aceite y clavo, se trata de...*vieiras a la viguesa
+Gastronomia©Anghara«Si hablo de pantortillas de Reinosa estoy refiriéndome a la comunidad de...*cantabria
+Gastronomia©Anghara«Si juntamos merluza, mero, rape, rodaballo, cachelos, aceite, vinagre, ajo, pimentón dulce y sal, estamos comiendo...*caldeirada gallega
+Gastronomia©Anghara«Si junto bonito, pimientos, tomates, cebolla, calabacín, berenjena, aceite, sal y azúcar, estoy comiendo una...*fritanga alicantina
+Gastronomia©anghara«Si me pido un Big Mac estoy en...*mcdonald's
+Gastronomia©anghara«Si me pido un Whopper estoy en...*burger king
+Gastronomia©Anghara«Si mezclas quesos emmental, gruyer, mantequilla, vino blanco, ajo, queso de barra, sal y pimienta, tienes...*fondue
+Gastronomia©Anghara«Si mezclo ginebra, vermut seco y corteza de limón, tengo un...*dry martini
+Gastronomia©Anghara«Si mezclo harina, azúcar, almíbar, aceite, ajonjolí y aguardiente, tengo...*rosquillas manchegas
+Gastronomia©Anghara«Si mezclo ron blanco, zumo de piña, granadina y marrasquino tengo un...*mary pickford
+Gastronomia©Anghara«Si prendo un licor sobre cualquier alimento, es una comida...*flambeada
+Gastronomia©Anghara«Si tengo caracoles, tocino de jamón, aceite, sal, pimientos choriceros, jamón, guindilla, puerros, cebollas, vino blanco, laurel, perejil, vinagre y rebanadas de pan, estoy haciendo...*caracoles a la vizcaina
+Gastronomia©Anghara«Si tengo garbanzos, chorizo, morcilla, jamón y de primero una sopa, estoy comiendo...*cocido madrileño
+Gastronomia©Anghara«Sopa con cebollas, pimientos rojos, buey, manteca, aceite, harina, pimentón, ajos, orégano, etc., de Argentina.*sopa criolla
+Gastronomia©Anghara«Sopa de pescado en Francia (españolizado).*bullabesa
+Gastronomia©Anghara«Sopa fría (normalmente) con puerros, mantequilla, maicena, nata y cebollino, originaria de Francia.*vichyssoise
+Gastronomia©Anghara«Sopa típica de Andalucía con un fruto seco.*sopa de almendras
+Gastronomia©Anghara«Típico desayuno inglés.*porridge
+Gastronomia©Anghara«Típico plato de las 7 de la mañana, el día de Año Nuevo :))), con agua, harina, aceite, azúcar y sal.*churros
+Gastronomia©Anghara«Típico plato suizo con queso, maíz, etc.*raclette
+Gastronomia©Anghara«Típicos dulces argentinos, algunos con chocolate, crema, etc.*alfajores
+Gastronomia©Anghara«Un cóctel "bobby burns" lleva fundamentalmente...*whisky
+Gastronomia©anghara«Una dieta de menos de 1500 cal/día es...*hipocalorica
+Gastronomia©Anghara«Venga, dedos rápidos... la paella es de...*valencia
+Gastronomia©Attica«¿Con qué se suelen rellenar las aceitunas?*anchoa o pimiento
+Gastronomia©Attica«¿Qué hotel vienés es famoso por su tarta de chocolate?*sacher
+Gastronomia©Attica«Cocer brevemente un alimento para ablandarlo, limpiar de sangre o desalar.*blanquear
+Gastronomia©Attica«Plato consistente en trozos de carne adobada con aceite, pimentón, orégano y sal, ensartados en una brocheta.*pinchos morunos
+Gastronomia©Attica«Postre cuya base son las claras a punto de nieve, el azúcar, la cola de pescado y alguna fruta o dulce.*bavaroise
+Gastronomia©Attica«Si metemos un pulpo (muerto, claro) varias veces en agua hirviendo para que se ablande, estamos...*espantandolo
+Gastronomia©Attica«Si pones boquerones crudos, vinagre y un poco de sal en un cuenco y luego te olvidas de ello un día o dos, ¿obtienes?*boquerones en vinagre
+Gastronomia©Attica«Tarta vienesa de almendra y mermelada de frambuesas.*linzertarte
+Gastronomia©AWELETE«Dulce de pastelería más famoso de la provincia de Guadalajara.*bizcocho borracho
+Gastronomia©AWELETE«El mejor vino de las Rías Bajas.*albariño
+Gastronomia©axexina«¿Con qué flores se cocinan los paparajotes?*naranjo o limonero
+Gastronomia©axexina«¿En qué comunidad autónoma se producen los quesucos de Liébana?*cantabria
+Gastronomia©axexina«¿Qué bebida se utiliza para acompañar a las tortillas en Rusia?*vodka helado
+Gastronomia©axexina«¿Qué significan las siglas DOP?*denominacion de origen protegida
+Gastronomia©axexina«¿Qué vamos a comer si pedimos "udon" en un restaurante japonés?*sopa de fideos con verduras y pescados
+Gastronomia©B_Bolson«¿De qué comunidad autónoma son típicas las ensaimadas?*baleares
+Gastronomia©Basic«¿A qué fruta pertenece la variedad Granny Smith?*manzana
+Gastronomia©Basic«¿Con qué licor se prepara la "caipirinha"?*ron de caña
+Gastronomia©Basic«¿Cuál fue el primer edulcorante natural usado por el hombre?*miel
+Gastronomia©Basic«¿De qué cereal se elabora el sake (bebida japonesa)?*arroz
+Gastronomia©Basic«¿Qué cóctel lleva zumos de naranja, piña y melocotón y jarabe de grosella?*san francisco
+Gastronomia©Basic«¿Qué marca de licor tiene de logotipo un murciélago?*bacardi
+Gastronomia©Basic«A partir de qué cereal se obtiene la cerveza.*cebada
+Gastronomia©BBoy«¿De qué ciudad es la cerveza Newcastle brown ale?*newcastle
+Gastronomia©BBoy«¿De qué color era originalmente la Coca-Cola?*verde
+Gastronomia©BBoy«¿De qué color es la cerveza belga hoegaarden?*blanco
+Gastronomia©BBoy«¿De qué país es la cerveza Judas?*belgica
+Gastronomia©BBoy«¿Qué animal aparece en las cajas de Frosties?*tigre
+Gastronomia©borali«¿De qué isla es propia la caldereta de langosta?*menorca
+Gastronomia©Brayan«Si en un bar pido "Staropramen", estoy pidiendo...*cerveza
+Gastronomia©BRUJI«¿Dónde se encuentra la zona de viticultivo denominada La Geria?*lanzarote
+Gastronomia©bruji«Dicho popular: Uvas con queso...*saben a beso
+Gastronomia©buganviya«Famoso dulce de Medina Sidonia.*alfajor
+Gastronomia©Buzzati«¿Cómo se llama el más famoso queso con agujeros?*emmental
+Gastronomia©Buzzati«¿Qué parte grasa del 'cielo' se suele emplear como postre?*tocino
+Gastronomia©Buzzati«¿Qué partes de Santa Teresa nos gusta comer?*yemas
+Gastronomia©Buzzati«Al pedir bebidas, ¿cómo dicen en Hispanoamérica "con hielo"?*en las rocas
+Gastronomia©Buzzati«Alimento curado al humo.*ahumado
+Gastronomia©Buzzati«Asar ligeramente.*soasar
+Gastronomia©Buzzati«Carne salada, enjuta y secada al aire, al sol o al humo.*cecina
+Gastronomia©Buzzati«Embutido preparado con carne de cerdo picada y condimentada con sal y pimentón.*chorizo
+Gastronomia©Buzzati«Fritura ligera de varios ingredientes, generalmente con cebolla y ajo, que sirve para condimentar un guiso.*sofrito
+Gastronomia©Buzzati«Fruto originario de China, de corteza marrón y pulpa de color verde.*kiwi
+Gastronomia©Buzzati«Fruto seco, obtenido del alfóncigo, originario de Oriente Próximo.*pistacho
+Gastronomia©Buzzati«Pedacitos de jamón o pan frito que se añaden a las sopas o guisos.*tropezones
+Gastronomia©Buzzati«Pierna de cerdo curada.*jamon
+Gastronomia©Buzzati«Poner carne o pescado crudos en una mezcla especiada durante un cierto tiempo antes de guisarlos o freírlos.*adobar
+Gastronomia©Buzzati«Producto obtenido por maduración de la cuajada de la leche.*queso
+Gastronomia©Buzzati«Remedio para no llorar mientras se pela una cebolla.*masticar chicle
+Gastronomia©Buzzati«Se dice del alimento que se ha vuelto blando y correoso a causa del calor o la humedad.*revenido
+Gastronomia©Buzzati«Se prepara con aguardiente de caña, zumo de lima, azúcar y cubitos de hielo.*caipiriña
+Gastronomia©Buzzati«Se prepara con ron blanco, zumo de limón, agua de seltz, hierbabuena y azúcar.*mojito
+Gastronomia©Buzzati«Se prepara con ron blanco, zumo de limón, azúcar y hielo batido. Se mezcla en coctelera y se sirve en copa de cava.*daiquiri
+Gastronomia©Buzzati«Uva roja, tirando a morada, muy fina, de muy buen gusto y muy dulce. Se cultiva principalmente en Cataluña, Navarra y Aragón.*garnacha
+Gastronomia©Buzzati«Uva temprana.*tempranilla
+Gastronomia©Buzzati«Variedad de manzana, gruesa, aromática, de color dorado y carne amarillenta.*reineta
+Gastronomia©Buzzati«Variedad de uva blanca o morada, de grano redondeado, que produce un vino muy dulce, típico de Málaga y Valencia.*moscatel
+Gastronomia©calce«¿De qué ingredientes se compone un cuba libre?*ron y cola
+Gastronomia©calce«Postre compuesto de diversas frutas con almíbar.*macedonia
+Gastronomia©Canon«¿Cuál es el principal ingrediente de la bullabesa?*pescado
+Gastronomia©Canon«¿Cuál es la primera comarca vinícola de Cataluña?*penedes
+Gastronomia©Canon«¿Cuál fue el primer café instantáneo?*nescafe
+Gastronomia©Canon«¿De qué leche procede el queso de Burgos?*oveja
+Gastronomia©Canon«¿De qué pez procede el auténtico caviar?*esturion
+Gastronomia©Canon«¿Qué alimento introdujo Marco Polo en Italia desde la corte de Kublai Kan?*pasta
+Gastronomia©Canon«¿Qué bebida compuesta por vodka y naranja fue inventada por un petrolero que usaba sus herramientas para removerla?*destornillador
+Gastronomia©Canon«¿Qué bebida es "la chispa de la vida"?*coca cola
+Gastronomia©Canon«¿Qué bebida está hecha de ron, leche, coco y piña?*piña colada
+Gastronomia©Canon«¿Qué bebidas hay que mezclar para hacer un lugumba?*batido de cacao y coñac
+Gastronomia©Canon«¿Qué compañía abasteció de vodka a la corte imperial rusa desde 1886 hasta 1917?*smirnoff
+Gastronomia©Canon«¿Qué contiene mayor número de calorías: la mantequilla o el aceite de oliva?*aceite de oliva
+Gastronomia©Canon«¿Qué es el alioli?*mayonesa con ajo
+Gastronomia©Canon«¿Qué es un Black & White?*whisky
+Gastronomia©Canon«¿Qué estarías probando si utilizaras un catavino?*vino
+Gastronomia©Canon«¿Qué fruta contiene más calorías?*aguacate
+Gastronomia©Canon«¿Qué galicismo se aplica al aroma del vino?*bouquet
+Gastronomia©Canon«¿Qué nombre recibe la mezcla de ginebra y tónica?*gin tonic
+Gastronomia©Canon«¿Qué nombre reciben los calamares pequeños?*chipirones
+Gastronomia©Canon«¿Qué obtienes añadiendo Lactobacillus acidophilus a la leche?*yogur
+Gastronomia©Canon«¿Qué obtienes si añades fruta fresca al vino tinto?*sangria
+Gastronomia©Canon«¿Qué pata del pollo es la más tierna?*izquierda
+Gastronomia©Canon«¿Qué proporciona mayor cantidad de calorías: el jamón serrano o el pan blanco?*pan blanco
+Gastronomia©Canon«¿Qué significa la palabra "dry" que aparece en las botellas de algunas bebidas alcohólicas?*seco
+Gastronomia©cass_«Autora de "1080 recetas de cocina".*simone ortega
+Gastronomia©catia«¿De qué provincia es el asado conocido como "Dios nos libre"?*zamora
+Gastronomia©CHARCO«Proceso de esterilización de la leche en el que es sometida a más de 140 ºC durante poco más de un segundo.*uht
+Gastronomia©CHARCO«Si fueses capaz de comerte un Palinurus argus recién pescado, ¿qué estarías comiendo?*langosta
+Gastronomia©ChArLiEs«La piel que recubre los chorizos y morcillas, de qué parte del cerdo sale.*intestino delgado
+Gastronomia©ChArLiEs«Principal ingrediente del morteruelo.*higado de cerdo
+Gastronomia©CHESARE«¿Cómo se llama la bebida típica de Cuenca?*resoli
+Gastronomia©CHESARE«Curiosidades: Si como a mí, te gusta leer las etiquetas de las botellas, sabrás que la mayoría de las aguas minerales españolas han sido analizadas en el laboratorio del Dr...*oliver rodes
+Gastronomia©CHESARE«Especial Navidad: Almendras, claras de huevo, miel, azúcar granulada y obleas. Comemos...*turron de almendra
+Gastronomia©CHESARE«Especial Navidad: Cardo, harina, leche, ajo, aceite y sal. Comemos...*cardo de navidad
+Gastronomia©CHESARE«Especial Navidad: Escarola, granada, aceite de oliva, vinagre de Jerez, ajo, sal y comino. Comemos...*ensalada de navidad
+Gastronomia©CHESARE«Especial Navidad: Galletas de trigo trituradas, ciruelas pasas, cerezas picadas, nueces trituradas, masmelos y mantequilla. Comemos...*rollo de navidad
+Gastronomia©CHESARE«Especial Navidad: Gallina o pollo, mayonesa, papas cocidas, zanahoria, pepinillos, aceitunas, huevos duros, sal, manzana, petit pois, nueces y lechuga. Comemos...*ensalada navideña
+Gastronomia©CHESARE«Especial Navidad: Harina, frutas escarchadas, levadura, azúcar, leche, ron, huevos, agua de azahar, mantequilla, ralladura de naranja y limón, sal y una sorpresa. Comemos...*roscon de reyes
+Gastronomia©CHESARE«Especial Navidad: Harina, maicena, huevo y yemas, fruta confitada, pasas, crema, nueces, almendras, leche, piñones, manteca, sal fina, esencia de vainilla. Comemos...*mazapan
+Gastronomia©CHESARE«Especial Navidad: Huevos duros, gambas, jamón serrano, jamón dulce, patatas, guisantes, olivas negras y verdes, pimiento rojo, salsa de tomate y salsa mahonesa. Comemos...*huevos escondidos
+Gastronomia©CHESARE«Especial Navidad: Leche, pasta de almendra, cáscara de limón, canela en rama, piñones, almendras, rebanadas de pan, canela en polvo y azúcar. Comemos...*sopa de almendra
+Gastronomia©CHESARE«Especial Navidad: Mantequilla, azúcar, esencia de almendras, harina de trigo y cerezas marrasquinas. Comemos...*polvorones
+Gastronomia©CHESARE«Especial Navidad: Pavo, aceite, coñac, vino, sal, pimienta, cebolla, ajos, pan, chorizo cantimpalos, jamón serrano, aceitunas, huevo duro y Jerez. Comemos...*pavo relleno
+Gastronomia©CHESARE«Especial Navidad: Pierna de cordero, aceite de oliva, sal, ajos, caldo, agua, vino blanco, vinagre, zumo de limón, patatas, pimienta, cebollas y tomates. Comemos...*cordero de reyes
+Gastronomia©CHESARE«Especial Navidad: Típico dulce de Castilla y León elaborado con azúcar, harina, mantequilla y huevos...*mantecadas de astorga
+Gastronomia©CHESARE«Ingrediente principal de las gachas manchegas.*harina de almorta
+Gastronomia©Chispita«¿Qué es el mazapán?*dulce navideño
+Gastronomia©Chispita«¿Qué es la salsa mayonesa con ajos (nombre españolizado)?*alioli
+Gastronomia©Chispita«¿Qué otro nombre recibe el fruto llamado damasquillo?*albaricoque
+Gastronomia©chispy«A la costilla asada también se le llama...*churrasco
+Gastronomia©chispy«Animal al que hay que mazarle la cabeza para poder comerlo.*pulpo
+Gastronomia©chispy«Nombre de la vasija de barro usada para guardar miel.*orza
+Gastronomia©Cletus«Dulce típico de Cuenca.*alaju
+Gastronomia©Cletus«Especie de paté que es plato típico de Cuenca.*morteruelo
+Gastronomia©cobie«¿Cómo se llama el color de la fruta cuando empieza a madurar?*envero
+Gastronomia©cobie«¿Cómo se llama el dulce que se hace con un calabaza especial?*cabello de angel
+Gastronomia©cobie«¿Cómo se llama la conserva hecha de frutas trituradas y azúcar?*mermelada
+Gastronomia©cobie«¿Con qué otro nombre llamamos a la col?*repollo
+Gastronomia©cobie«¿Cuál es la variedad de aguacate con la piel rugosa?*hass
+Gastronomia©cobie«¿Cuántas calorías tiene medio litro de agua?*ninguna
+Gastronomia©cobie«¿De qué dos materias primas se obtiene principalmente el azúcar?*caña de azucar y remolacha
+Gastronomia©cobie«¿De qué leche se fabrica el queso manchego?*oveja
+Gastronomia©cobie«¿Qué es la cebada germinada artificialmente y tostada?*malta
+Gastronomia©cobie«¿Qué variedad de mango es más sabrosa?*keith
+Gastronomia©cobie«Bollo típico de Jaén.*ochio
+Gastronomia©cobie«Nombre de variedad de aguacate similar a un tipo de carne.*bacon
+Gastronomia©cobie«Si mezclamos aceite, ajo, pan, tomate, pepino, pimiento, agua y un poco de vinagre, estamos haciendo un...*gazpacho
+Gastronomia©Cocoman«Plato más famoso de Madrid.*cocido madrileño
+Gastronomia©Cort«¿De qué país procede originariamente la pasta?*china
+Gastronomia©Crawler«¿Cuál es la cerveza negra más famosa del mundo?*guinness
+Gastronomia©Crawler«Principales ingredientes del postre conocido como bienmesabe.*huevo y azucar
+Gastronomia©Crazy64«¿De qué comunidad autónoma es típico el lacón con grelos?*galicia
+Gastronomia©CyBeRLoKa«¿Cómo se llama la masa de carne que, ensartada en una varilla, se asa haciéndose girar ante una fuente de calor?*doner kebab
+Gastronomia©CyBeRLoKa«¿Cómo se llama la persona que tiene como profesión hacer dulces y tartas?*repostero
+Gastronomia©CyBeRLoKa«¿Cómo se llama la sopa hecha con trozos de diferentes verduras?*juliana
+Gastronomia©CyBeRLoKa«¿Qué adjetivo se utiliza para designar al vino tinto de color muy claro?*aloque
+Gastronomia©CyBeRLoKa«¿Qué expresión se utiliza para designar al aceite de oliva más puro?*virgen extra
+Gastronomia©CyBeRLoKa«¿Qué fruta tiene una variedad llamada tempranilla?*uva
+Gastronomia©Cymbeline«Fritada de calabacín, cebolla y, a veces, tomate, originaria de Murcia.*zarangollo
+Gastronomia©Dactylis«¿Por qué se sube más la sangría que el vino solo?*por el azucar
+Gastronomia©Dactylis«Ablandar por inmersión prolongada en un líquido.*macerar
+Gastronomia©Dactylis«Acción de hincharse una masa por efecto del calor o de la levadura.*subir
+Gastronomia©Dactylis«Acción de interrumpir la cocción de un bizcocho por enfriamiento repentino del horno.*espantar
+Gastronomia©Dactylis«Acción de pasar un líquido por el tamiz para eliminar impurezas.*colar
+Gastronomia©Dactylis«Agregar líquido a una preparación.*mojar
+Gastronomia©Dactylis«Agregar un aroma a una preparación.*perfumar
+Gastronomia©Dactylis«Almendra cortada en láminas finas.*fileteada
+Gastronomia©Dactylis«Almíbar aromatizado por infusión de frutas o condimentos o por adición de zumos o licores.*jarabe
+Gastronomia©Dactylis«Batir fuertemente yemas hasta que quedan como una espuma blanca.*blanquear
+Gastronomia©Dactylis«Dar consistencia espumosa a un líquido (nata, claras, etc.) batiéndolo vigorosamente.*montar
+Gastronomia©Dactylis«Dar forma a una fruta o verdura con el cuchillo.*tornear
+Gastronomia©Dactylis«Dar forma a una masa con un molde, con las manos o con la manga pastelera.*moldear
+Gastronomia©Dactylis«El fruto de qué árbol se utiliza en la elaboración de la ginebra.*enebro
+Gastronomia©Dactylis«Eliminar la espuma, nata e impurezas de la superficie de un líquido durante la cocción.*espumar
+Gastronomia©Dactylis«Eliminar la monda de una fruta.*mondar
+Gastronomia©Dactylis«Eliminar las impurezas de un líquido.*clarificar
+Gastronomia©Dactylis«Eliminar los hilos de caramelo o chocolate.*desbarbar
+Gastronomia©Dactylis«Forma de calentar un líquido en un recipiente, sumergido en otro de agua hirviendo.*baño maria
+Gastronomia©Dactylis«Formar pequeños salientes en el borde de una masa para decorarla.*pinzar
+Gastronomia©Dactylis«Frutas o verduras cortadas en dados de 1 cm de lado.*macedonia
+Gastronomia©Dactylis«Guisar un producto con poco aceite o mantequilla a fuego suave.*rehogar
+Gastronomia©Dactylis«Hacer cocer al horno.*hornear
+Gastronomia©Dactylis«Hacer cocer suavemente en olla semitapada, con muy poco líquido.*estofar
+Gastronomia©Dactylis«Hacer migas con mantequilla y harina, para confeccionar la pasta quebrada.*migar
+Gastronomia©Dactylis«Hacer salir una preparación de su molde.*desmoldar
+Gastronomia©Dactylis«Hacer surcos en la superficie de una fruta para hacer más decorativas las rodajas.*acanalar
+Gastronomia©Dactylis«Harina dispuesta en círculo para incorporar ingredientes líquidos.*fuente
+Gastronomia©Dactylis«Introducir una preparación en otra.*rellenar
+Gastronomia©Dactylis«Materia gelatinosa obtenida por infusión de frutas ricas en pectina en un almíbar.*jalea
+Gastronomia©Dactylis«Mezcla en suspensión de un líquido en otro.*emulsion
+Gastronomia©Dactylis«Mezclar, unir dos preparaciones.*incorporar
+Gastronomia©Dactylis«Mojar una preparación con un líquido hasta la saturación.*embeber
+Gastronomia©Dactylis«Preparación de chocolate, rica en manteca de cacao, especialmente apta para recubrir.*cobertura
+Gastronomia©Dactylis«Puré de frutas, pasado por el tamiz, con azúcar glas o almíbar.*coulis
+Gastronomia©Dactylis«Recubrir completamente con varias sustancias, líquidas o pastosas.*napar
+Gastronomia©Dactylis«Recubrir de caramelo el fondo de un molde.*caramelizar
+Gastronomia©Dactylis«Recubrir de huevo y pan rallado una masa antes de freírla.*empanar
+Gastronomia©Dactylis«Recubrir un sólido con una masa viscosa.*bañar
+Gastronomia©Dactylis«Reducir un producto a trozos pequeños.*picar
+Gastronomia©Dactylis«Regar un preparado con un licor caliente y en llamas.*flambear
+Gastronomia©Dactylis«Se dice cuando la preparación después de horneada, no mantiene el volumen.*caerse
+Gastronomia©Dactylis«Se dice de un líquido que apenas llega a hervir.*estremecerse
+Gastronomia©Dactylis«Se dice de una emulsión (Ej.: mayonesa) cuyos componentes se han separado.*cortarse
+Gastronomia©Dactylis«Solidificarse un líquido, por acción del calor, del frío o de sus componentes gelificantes.*cuajar
+Gastronomia©Dactylis«Tostar la superficie de un preparado recubierta de azúcar, con una plancha.*planchar
+Gastronomia©Dalgliesh«El berro mayor.*canonigo
+Gastronomia©dannae«¿A qué hora se pesca mejor el camarón?*medianoche
+Gastronomia©dannae«¿A qué pastel dio nombre la actriz Sarah Bernhardt?*sara
+Gastronomia©dannae«¿Cómo se califica a los alimentos artificiales bajos en calorías?*light
+Gastronomia©dannae«¿Con qué fruta se elabora la sidra?*manzana
+Gastronomia©dannae«¿Con qué rabo se suele hacer una buena sopa?*rabo de buey
+Gastronomia©dannae«¿Cuál es el arte de elaborar vinos?*enotecnia
+Gastronomia©dannae«¿Cuál es el condimento más usado?*sal
+Gastronomia©dannae«¿Cuál es el principal ingrediente de la Coca-Cola?*agua
+Gastronomia©dannae«¿Cuál es el típico aguardiente de México?*tequila
+Gastronomia©dannae«¿Cuál es la fruta con la que se elabora el cava?*uva
+Gastronomia©dannae«¿De qué planta se obtiene el ron?*caña de azucar
+Gastronomia©dannae«¿Dónde podrás degustar el auténtico vino de Cacabelos?*leon
+Gastronomia©dannae«¿En qué comunidad autónoma comerías queso de servilleta?*comunidad valenciana
+Gastronomia©dannae«¿En qué época del año se recoge la castaña?*otoño
+Gastronomia©dannae«¿En qué país hispano se celebra la fiesta de la cerveza?*argentina
+Gastronomia©dannae«¿Qué componente del cacao se elimina para elaborar el polvo de cacao?*grasa
+Gastronomia©dannae«¿Qué nombre recibe el poso del vino?*zupia
+Gastronomia©dannae«¿Qué parte del tiburón es un delicado manjar en China?*aletas
+Gastronomia©dannae«¿Qué porción de la zanahoria es comestible?*raiz
+Gastronomia©dannae«¿Qué típica bebida pedirías en Moscú?*vodka
+Gastronomia©dannae«¿Qué tubérculo se utiliza para elaborar la horchata?*chufa
+Gastronomia©dannae«La piel de qué fruta se usa para elaborar el curasao.*naranja
+Gastronomia©dassler«¿Cómo se llama a aromatizar con hierbas, especias y jugo de limón el pescado?*marinar
+Gastronomia©dassler«¿Cómo se llama a freír un alimento ligeramente con fuego moderado?*sofreir
+Gastronomia©dassler«¿Cómo se llama a la rodaja gruesa de un pescado redondo y grande?*darne
+Gastronomia©dassler«¿Cómo se llama al untar la carne con miga de pan y clara de huevo antes de asarla?*empanar
+Gastronomia©dassler«¿Cómo se llama el adorno de papel colocado en el extremo de los huesos de las chuletas?*papillote
+Gastronomia©dassler«¿Cómo se llama el caldo preparado con agua, harina y jugo de limón?*blanc
+Gastronomia©dassler«¿Cómo se llama el grano rojo que se prepara con aceite vegetal para darle color a las comidas?*achiote
+Gastronomia©dassler«¿Cómo se llama el helado italiano hecho en molde de paredes bajas y lisas, con una cubierta de helado y un relleno suave?*cassatta
+Gastronomia©dassler«¿Cómo se llama el papel generalmente blanco con remate de puntilla, utilizado para recubrir las bandejas donde se presentan las tartas, los platos de fritura y canapés?*blonda
+Gastronomia©dassler«¿Cómo se llama el pez andaluz anacanto, parecido al lenguado, pero con escamas más unidas y fuertes?*acedia
+Gastronomia©dassler«¿Cómo se llama el plato andaluz que es un potaje de habichuelas blancas, carne de cerdo y hortalizas?*olla gaditana
+Gastronomia©dassler«¿Cómo se llama el plato frío compuesto de vegetales crudos, cortados de distintas formas (juliana, rodajas, rallados) y aderezados o acompañados de alguna salsa?*crudites
+Gastronomia©dassler«¿Cómo se llama el plato turco elaborado con hojas de parra rellenas de carne de cordero, arroz cocido y especias?*dolmas
+Gastronomia©dassler«¿Cómo se llama el postre elaborado en Navarra con los chicharrones del cerdo?*txantxigorri
+Gastronomia©dassler«¿Cómo se llama el postre manchego hecho con leche, azúcar, corteza de limón, aceite de oliva, harina y huevos?*leche frita
+Gastronomia©dassler«¿Cómo se llama el queso cremoso de leche de vaca con pequeños agujeros en su interior?*gouda
+Gastronomia©dassler«¿Cómo se llama el queso duro de leche de vaca con color anaranjado brillante?*cheddar
+Gastronomia©dassler«¿Cómo se llama el residuo de la oliva molida y prensada?*orujo de oliva
+Gastronomia©dassler«¿Cómo se llama el vino vasco joven ligeramente carbónico y afrutado?*chacoli
+Gastronomia©dassler«¿Cómo se llama en Galicia a las patatas con o sin piel cortadas en dos o más trozos y cocidas en agua y sal?*cachelos
+Gastronomia©dassler«¿Cómo se llama la masa muy delgada hecha con harina y agua?*oblea
+Gastronomia©dassler«¿Cómo se llama la pasta que se rellena de carne, queso o vegetales, y se cubre con cualquier salsa para hornearse?*manicotti
+Gastronomia©dassler«¿Cómo se llama la rebanada de pan cortada de forma regular, frita y que acompaña o adorna platos como consomés, purés de verduras, cremas de legumbres, ensaladas...?*croston
+Gastronomia©dassler«¿Cómo se llama la rosquilla típica de Navidad a base de almendras, almíbar, miel y especias?*alfajor
+Gastronomia©dassler«¿Cómo se llama la tarta vasca compuesta por nata, crema pastelera y bizcocho?*gotxua
+Gastronomia©dassler«¿Cómo se llaman las carnes de vaca y de buey en Asturias?*carnes roxas
+Gastronomia©dassler«¿Cómo se llaman las tiras finas y delicadas de pasta que se sirven con salsas livianas o caldos sencillos?*cabello de angel
+Gastronomia©dassler«¿Cómo se llaman los buñuelos perfumados con azahar y ron?*orejetas
+Gastronomia©dassler«¿Cuál es la pasta de huevo típica de Alemania?*fideos de huevo grande
+Gastronomia©dassler«¿De dónde son típicas las casadielles?*asturias
+Gastronomia©dassler«¿De qué comunidad procede el gofio (harina de maíz o trigo tostada)?*canarias
+Gastronomia©Dassler«¿Qué nombre se da al bollo de pan mal hecho?*birriñaque
+Gastronomia©dassler«¿Qué nombre tiene la acción de macerar y conservar en vinagre pepinillos u otros frutos o legumbres?*encurtir
+Gastronomia©dassler«Pasta con grietas o agujeros que la hacen perfecta para cualquier salsa.*rigatoni
+Gastronomia©dassler«Pasta ideal para platos salteados orientales.*ruote
+Gastronomia©dassler«Pasta pequeña en forma de grano que puede cubrirse con cualquier salsa.*orzo
+Gastronomia©dassler«Presentación de la carne cubierta con pan rallado y frito.*milanesa
+Gastronomia©dassler«Si cocinamos fabes, berza, chorizo, lacón, patatas... ¿qué plato hemos preparado?*pote asturiano
+Gastronomia©depeche«¿Qué colorante contiene la Coca-Cola?*e-150d
+Gastronomia©dies«¿Qué acompaña a la mayoría de los platos en Sudamérica?*arroz blanco
+Gastronomia©dies«¿Qué comes si estás comiendo callos?*estomago de vaca
+Gastronomia©dies«¿Qué es el bofe?*pulmon
+Gastronomia©dies«¿Qué es el pisco sour?*coctel
+Gastronomia©dies«¿Qué son listas y tontas?*rosquillas de san isidro
+Gastronomia©dies«Bebida típica de Brasil.*caipiriña
+Gastronomia©dies«Ingredientes del destornillador.*vodka y naranja
+Gastronomia©DonNadie«¿Cómo estornuda un tomate?*¡ketchup!
+Gastronomia©DonNadie«¿Cómo llamamos en España al "cordon bleu"?*sanjacobo
+Gastronomia©DonNadie«¿Cómo llaman por ahí fuera al sanjacobo?*cordon bleu
+Gastronomia©DonNadie«¿Qué "cubiertos" usan los chinos?*palillos
+Gastronomia©DonNadie«Al porcentaje de alcohol que contiene una bebida se le denomina...*graduacion alcoholica
+Gastronomia©DonNadie«Aromatizantes de origen vegetal, normalmente semillas y cortezas.*especias
+Gastronomia©DonNadie«Cabernet-Sauvignon es una variedad de...*uva
+Gastronomia©DonNadie«Dar comida a los animales para aumentar su peso.*cebar
+Gastronomia©DonNadie«Especie de sartén con poco fondo y dos asas, especial para hacer paellas.*paellera
+Gastronomia©DonNadie«La garnacha es una variedad de...*uva
+Gastronomia©DonNadie«Masa hecha de harina, huevos y azúcar que se cuece en hornos pequeños.*bizcocho
+Gastronomia©DonNadie«Merlot es una variedad de...*uva
+Gastronomia©DonNadie«Si en Italia comes "penne", ¿qué estás comiendo?*pasta
+Gastronomia©DonNadie«Syrah es una variedad de...*uva
+Gastronomia©DRAE«Bebida que se hace mezclando ron u otro licor espiritoso con agua, limón y azúcar.*ponche
+Gastronomia©DUBLINERS«¿Cuál es el componente de la cerveza que le da ese sabor un poco amargo?*lupulo
+Gastronomia©DUBLINERS«Además de una forma de encestar, el mate es una...*bebida
+Gastronomia©DUBLINERS«Bebida italiana espirituosa.*grappa
+Gastronomia©DUBLINERS«Comedor de carne humana.*antropofago
+Gastronomia©DUBLINERS«Condimentar un alimento para darle aroma y sabor.*sazonar
+Gastronomia©DUBLINERS«Deshidratar mediante temperaturas muy bajas productos o elementos orgánicos para conservarlos por más tiempo.*liofilizar
+Gastronomia©DUBLINERS«El "blue mountain" es el mejor y el más caro de los cafés. ¿De qué país es?*jamaica
+Gastronomia©DUBLINERS«Forma de cortar las diferentes verduras dándoles forma alargada y fina. En...*juliana
+Gastronomia©DUBLINERS«Subproducto de la caña de azúcar llamado "miel de caña".*melaza
+Gastronomia©DUBLINERS«Sujetar las patas y alas de un ave al cuerpo normalmente con hilo de algodón y aguja.*bridar
+Gastronomia©DUBLINERS«Un bife se compone principalmente de...*carne
+Gastronomia©duende1«¿Cómo se llama la pasta de azúcar disuelta en agua y cocida?*caramelo
+Gastronomia©duende1«¿Por qué es famosa Villafranca del Penedés?*vinos
+Gastronomia©dY||siS^«¿Qué queso se produce en el Oberland suizo?*emmental
+Gastronomia©EME^«¿De dónde es originario el cacao?*america
+Gastronomia©EME^«Cierto embutido que se hace principalmente en Baleares, Valencia y Cataluña.*butifarra
+Gastronomia©EME^«Fruta de sartén que se hace de masa de harina bien batida y frita en aceite.*buñuelo
+Gastronomia©EME^«Nombre dado a la crema de chocolate y almendra o avellana.*praline
+Gastronomia©EME^«Pasta hecha con almendras molidas y azúcar pulverizado.*mazapan
+Gastronomia©EvA^^«Bebida hecha de aguardiente, agua, azúcar y canela.*mistela
+Gastronomia©Flagg«¿Cuál es el primer ingrediente que aparece en una lata de Coca-Cola?*agua carbonatada
+Gastronomia©Flagg«¿Cuántos centilitros caben en una lata de Coca-Cola?*33
+Gastronomia©Flagg«¿En qué se basaron para diseñar la botella de Coca-Cola?*una mujer
+Gastronomia©Flagg«¿Qué enzima digestiva lleva la Pepsi-Cola?*pepsina
+Gastronomia©Fortuna--«¿Cómo se llama a cualquier acompañamiento en un plato de la carne?*guarnicion
+Gastronomia©Fortuna--«¿Cómo se llama al pimiento picante de la cocina mexicana?*chile
+Gastronomia©Fortuna--«¿Cómo se llama al que se alimenta sólo y exclusivamente de frutas?*frugivoro
+Gastronomia©Fortuna--«¿Cuál es el ingrediente principal de las torrijas?*pan
+Gastronomia©Fortuna--«¿Cuál es el pescado más común que comeríamos en Ceuta?*caballa
+Gastronomia©Fortuna--«¿Cuál es el pescado más típico de Málaga?*boqueron
+Gastronomia©Fortuna--«¿De dónde procede el conocido café llamado moka?*arabia
+Gastronomia©Fortuna--«¿De qué municipio malagueño son las sopas perotas?*alora
+Gastronomia©Fortuna--«¿De qué provincia son típicas las manzanas del mazapán?*huesca
+Gastronomia©Fortuna--«El arroz a banda, de pescado y marisco, es un plato típico de...*valencia
+Gastronomia©Fortuna--«El vino Montilla-Moriles oloroso, de la zona de Montilla, de color caoba, tiene sabor...*seco
+Gastronomia©Fortuna--«La variedad de vino de Jerez de color oro, con más cuerpo que el fino se llama...*amontillado
+Gastronomia©Frigotora«¿Cuál es la "salsa de los infiernos"?*salsa tartara
+Gastronomia©Frigotora«¿Qué dos alimentos son los más completos?*huevos y leche
+Gastronomia©Frigotora«¿Qué sabor tiene el cacao sin tratar?*muy amargo
+Gastronomia©furilllo«¿Quién fundó los rones Bacardi en 1862?*facundo bacardi
+Gastronomia©furilllo«País de procedencia del ron Cacique.*venezuela
+Gastronomia©Gallifan«¿Cuál es la crema pastelera hecha de nata batida?*chantilly
+Gastronomia©Gallifan«¿Por qué prohibieron las judías en los conventos en la Edad Media?*por afrodisiacas
+Gastronomia©Gallifan«¿Qué licor fabrican los padres cartujos de Tarragona?*chartreuse
+Gastronomia©Gallifan«Bebida centroamericana hecha con maíz, chile y cacao.*chilate
+Gastronomia©gigapop«¿En qué región comen "viejas"?*canarias
+Gastronomia©gigapop«Ingrediente principal de la musaka.*berenjena
+Gastronomia©gigapop«Ingredientes de los Conguitos.*cacahuetes y chocolate
+Gastronomia©Goo«¿De dónde es originario el café?*arabia
+Gastronomia©Goo«¿De qué país es originario el mango?*india
+Gastronomia©Goo«¿Qué es la trufa?*hongo
+Gastronomia©Goo«Tienda donde se venden mantequilla, quesos, fiambres y otros artículos semejantes.*mantequeria
+Gastronomia©guatemusicturadio.com«En qué lugar de Guatemala preparan el patín.*solola
+Gastronomia©guatemusicturadio.com«Guatemala: De qué lugar es la comida típica de pan de coco.*izabal
+Gastronomia©guatemusicturadio.com«Guatemala: El chicharrón con yuca es originario de...*zacapa
+Gastronomia©guatemusicturadio.com«Guatemala: En qué lugar sus platos son elaborados a base de muchas verduras y hierbas.*chimaltenango
+Gastronomia©guatemusicturadio.com«Guatemala: Los tamales de papa se conocen con el nombre de...*paches
+Gastronomia©guatemusicturadio.com«Guatemala: Qué es el cack-ik.*caldo de chompipe
+Gastronomia©guatemusicturadio.com«Guatemala: San Pedro, San Marcos es famoso por las...*shecas
+Gastronomia©guatemusicturadio.com«Guatemala: Se dice que el mejor queso es el de...*taxisco
+Gastronomia©guatemusicturadio.com«La cadena Pollo Campero es originaria de...*guatemala
+Gastronomia©Hamilton_«¿De dónde es el queso Caerphilly?*inglaterra
+Gastronomia©Hamilton_«¿De dónde es el whisky?*irlanda
+Gastronomia©Hamilton_«¿De dónde es típica la papilla de avena llamada porridge?*escocia
+Gastronomia©Hamilton_«¿Qué son la Barley wine, bitter, mild, old pecuiler y porter?*cervezas inglesas
+Gastronomia©Hamilton_«Los escoceses se comen un estómago de cordero relleno que llaman...*haggis
+Gastronomia©Hamilton_«Si te estás tomando una anguila enrollada, que has pedido por el nombre de "rulleal", estás en...*dinamarca
+Gastronomia©Hamilton_«Whisky con azúcar, zumo de limón y soda, es un cóctel llamado...*whisky collins
+Gastronomia©HdosO«¿A qué familia de plantas pertenece la vainilla?*orquideas
+Gastronomia©HdosO«¿Cómo se denomina al pan de trigo sin levadura?*acimo
+Gastronomia©HdosO«¿Cómo se llama el lugar donde se pisa la uva para la elaboración del vino?*lagar
+Gastronomia©HdosO«¿Cómo se llaman los profesionales del vino?*enologos
+Gastronomia©HdosO«¿Cuál es la parte comestible de la planta de la acelga?*hojas
+Gastronomia©HdosO«¿Cuál es la seta comestible más común en España?*niscalo
+Gastronomia©HdosO«¿De dónde son típicas las fabes con almejas?*asturias
+Gastronomia©HdosO«¿De qué planta procede la malta?*cebada
+Gastronomia©HdosO«¿Qué es el sushi?*pescado crudo
+Gastronomia©HdosO«¿Qué pueblo sevillano con nombre de región rusa es famoso por sus dulces de Navidad?*estepa
+Gastronomia©helvetis«Fruta tropical de piel verde, pulpa blanca muy dulce y pepitas negras.*chirimoya
+Gastronomia©helvetis«Nombre italiano del helado de nata con trozos de chocolate negro.*stracciatella
+Gastronomia©helvetis«Pastel típico de Santa Fe (Granada) con nombre de papa.*pionono
+Gastronomia©hurricane«¿Cuáles son los ingredientes principales de la paella (la genuina)?*arroz pollo conejo y verduras
+Gastronomia©hurricane«Plato típico de Baleares.*caldereta de langosta
+Gastronomia©Iff-F«Hortaliza típica de Lugo.*nabo
+Gastronomia©Iff-F«Si pides "frango" en Portugal, ¿qué te sirven?*pollo
+Gastronomia©Indra^^«¿Qué huevos de tortuga son muy codiciados en gastronomía?*huevos de paslama
+Gastronomia©Indra^^«Ummmmm... Comida típica latinoamericana: Carne de cerdo con masa de maíz, envuelto en hoja de plátano.*nacatamal
+Gastronomia©Ingusetia«¿De dónde es el vodka Danzka?*dinamarca
+Gastronomia©Ingusetia«¿De dónde es el vodka Moskovskaya?*rusia
+Gastronomia©Ingusetia«¿De dónde es el vodka Stolichnaya?*rusia
+Gastronomia©Ingusetia«¿De dónde es el whisky Jack Daniels?*tennessee
+Gastronomia©Ingusetia«¿De dónde es la cerveza Bass?*inglaterra
+Gastronomia©Ingusetia«¿De dónde es la cerveza Paulaner?*alemania
+Gastronomia©Ingusetia«¿De qué estado americano procede el bourbon?*kentucky
+Gastronomia©intel«Inventor del champán.*dom perignon
+Gastronomia©intel«Plato típico menorquín cuyos principales ingredientes son aceite y agua.*oliago
+Gastronomia©ipy«¿Qué país consume la mayor cantidad de vino per cápita?*italia
+Gastronomia©ipy«Fruta que más comemos en España.*naranja
+Gastronomia©ipy«Hortaliza de más consumo en España.*tomate
+Gastronomia©Irhene«Nombre que recibe el pan que tiene en la masa mantequilla en lugar de aceite.*baguette
+Gastronomia©ISA«Cocer carnes, pescados, legumbres, etc. sólo con agua y sal.*salcochar
+Gastronomia©Isis^«¿Qué dos bebidas mezcla la pomada?*ginebra y limonada
+Gastronomia©Isis^«¿Qué salsa recibe el gentilicio de una ciudad balear?*mahonesa
+Gastronomia©Isis^«Bebida típica de Menorca.*pomada
+Gastronomia©Isis^«Plato típico de Menorca.*caldereta de langosta
+Gastronomia©JAVEA«¿Cuál fue la primera región vinícola que recibió su denominación de origen en 1991?*la rioja
+Gastronomia©JAVEA«Septiembre-1947: De qué fruta es el concentrado que se fabrica en EEUU por primera vez.*naranja
+Gastronomia©Joselete«¿Cuál es la bebida no alcohólica más popular en los EEUU?*leche
+Gastronomia©Joselete«¿Cuántas calorías tiene un vaso de agua?*ninguna
+Gastronomia©Joselete«¿De qué color es el interior de un pistacho?*verde
+Gastronomia©Joselete«¿De qué comunidad autónoma es el queso de Cabrales?*asturias
+Gastronomia©Joselete«¿De qué comunidad autónoma es típico el cocido?*madrid
+Gastronomia©Joselete«¿De qué está hecho el licor kirsch?*cerezas
+Gastronomia©Joselete«¿De qué país procede el curry?*india
+Gastronomia©Joselete«¿De qué parte del cerdo se hace el queso de cerdo?*cabeza
+Gastronomia©Joselete«¿De qué región española es típica la sidra?*asturias
+Gastronomia©Joselete«¿De qué región española son los vinos del Marqués de Monistrol?*cataluña
+Gastronomia©Joselete«¿En qué distrito suizo se fabricaba originalmente el queso gruyer?*gruyere
+Gastronomia©Joselete«¿Qué es un carajillo?*cafe solo y coñac
+Gastronomia©Joselete«¿Qué es un J.B.?*whisky
+Gastronomia©Joselete«¿Qué es un manchado?*cafe manchado con leche
+Gastronomia©Joselete«¿Qué licor tiene 98 grados?*alcohol de patata
+Gastronomia©Joselete«¿Qué nombre recibe la soda embotellada en un sifón?*agua de seltz
+Gastronomia©Joselete«¿Qué nombre se da al pollo castrado y que se ceba?*capon
+Gastronomia©Joselete«¿Qué otro nombre recibe un filete empanado?*escalope
+Gastronomia©Joselete«¿Qué país consume mayor cantidad de queso per cápita?*francia
+Gastronomia©Joselete«¿Qué país es conocido por su sopa de nido de pájaro?*china
+Gastronomia©Joselete«¿Qué país es el primer exportador de ancas de rana?*japon
+Gastronomia©Joselete«¿Qué país tiene el más alto consumo de cerveza per cápita?*alemania
+Gastronomia©Joselete«¿Qué parte del buey se utiliza para hacer una sopa típica?*rabo
+Gastronomia©Joselete«¿Qué postre tiene nombre de parte del cuerpo de una raza?*brazo de gitano
+Gastronomia©Joselete«¿Qué término se aplica a la consistencia, densidad y sustancia de un vino?*cuerpo
+Gastronomia©Joselete«¿Qué tipo de queso es el Villalón: blando, semiduro o duro?*blando
+Gastronomia©Joselete«¿Qué vocablo francés se utiliza para designar al amante de la buena cocina?*gourmet
+Gastronomia©JoTaKe-«¿A qué se le llama 'agua de Bilbao'?*champan
+Gastronomia©JoTaKe-«¿Cómo se hace el bacalao en Bilbao?*al pil pil
+Gastronomia©JoTaKe-«¿Cuál es el color del plato 'chipirones en su tinta'?*negro
+Gastronomia©JoTaKe-«¿Qué nombre recibe la mezcla de vino con Kas?*pitilingorri
+Gastronomia©jugamabu«¿En qué ciudad se encuentra el restaurante Maxim's?*paris
+Gastronomia©Julen___«¿Qué especialidad de bacalao es típica del País Vasco?*bacalao al pil pil
+Gastronomia©kainn«Ingredientes de las gachasmigas.*harina agua sal y ajos
+Gastronomia©karima«Bebida típica de Galicia.*queimada
+Gastronomia©karima«Un filete con jamón y queso es... (nombre original francés).*cordon bleu
+Gastronomia©karlitoxZ«¿Qué gritó en 1898 un soldado americano destinado en Cuba al beber cola y ron con hielo?*por cuba libre
+Gastronomia©karlitoxZ«Bebida isotónica a base de vino y cola.*calimocho
+Gastronomia©Karmo«¿De qué época del año son tradicionales los buñuelos?*semana santa
+Gastronomia©Kirei«Salteado de verduras chino.*chop suey
+Gastronomia©kokoliso«¿De dónde es originario el vino de pitarra?*extremadura
+Gastronomia©kokoliso«¿De qué comunidad autónoma es originario el queso Ibores?*extremadura
+Gastronomia©kokoliso«¿Dónde se celebra la feria internacional del queso?*trujillo
+Gastronomia©kokoliso«Aliño de pescado originario de la península Ibérica muy apreciado por los romanos.*garum
+Gastronomia©kokoliso«Almejas de tamaño reducido.*chirlas
+Gastronomia©kokoliso«Bacalao de los caminos, preparado con ajo y guindilla.*bacalao al ajoarriero
+Gastronomia©kokoliso«Completar: Sardinas las de Santurce, merluzas las de ...........*bermeo
+Gastronomia©kokoliso«Completar: Txakoli Gorri de Bakio, y los tomates de...*deusto
+Gastronomia©kokoliso«La base de la salsa del bacalao a la vizcaína es el...*tomate
+Gastronomia©kokoliso«País especializado en la preparación de 1001 recetas de bacalao.*portugal
+Gastronomia©kokoliso«Plato muy apreciado por los egipcios.*lentejas
+Gastronomia©krispin«¿Cuál es el elemento característico de los espaguetis a la 'costonara'?*hachis
+Gastronomia©Kurosawa«¿Cuál es el ingrediente principal de la morcilla de arroz?*sangre
+Gastronomia©Kurosawa«¿Cuál es el ingrediente principal de una pomarada?*manzanas
+Gastronomia©Kwahamot«¿Cómo debe tomarse un zumo de naranja para que no pierda sus vitaminas?*recien exprimido
+Gastronomia©Kwahamot«¿Cómo se llama la sopa que lleva principalmente fideos, huevo duro y jamón?*sopa de picadillo
+Gastronomia©Kwahamot«¿Cuál es el ingrediente principal e imprescindible de cualquier tipo de revuelto?*huevo
+Gastronomia©Kwahamot«¿Cuáles son los dos ingredientes básicos de cualquier ensalada típica y tópica?*lechuga y tomate
+Gastronomia©Kwahamot«¿De dónde son las fabes más conocidas?*asturias
+Gastronomia©Kwahamot«¿De dónde son originarios los crepes?*francia
+Gastronomia©Kwahamot«¿De qué comunidad autónoma es propio el pan untado con tomate?*cataluña
+Gastronomia©Kwahamot«¿Dónde tomarías perretsikus?*alava
+Gastronomia©Kwahamot«¿Qué callos son los más famosos?*madrileños
+Gastronomia©Kwahamot«¿Qué dulce es el más típico de Utrera?*mostachones
+Gastronomia©Kwahamot«¿Qué hacen en Cuenca con miel de romero, miga de pan y nueces?*alaju
+Gastronomia©Kwahamot«¿Qué nombre reciben los productos derivados de la leche?*lacteos
+Gastronomia©Kwahamot«¿Qué otro nombre recibe la tortilla de patatas?*tortilla española
+Gastronomia©Kwahamot«¿Qué parte del huevo se monta a punto de nieve?*clara
+Gastronomia©Kwahamot«¿Qué se prepara con hielo machacado y zumo de frutas?*granizado
+Gastronomia©Kwahamot«En qué dos clases se dividen normalmente los pescados.*azules y blancos
+Gastronomia©Kwahamot«Los dos tipos de jamón serrano más conocidos son el jamón de Jabugo y el jamón de...*teruel
+Gastronomia©Kwahamot«Los fresones más grandes y jugosos proceden de...*huelva
+Gastronomia©Kwahamot«Si el vino tinto se sirve con la carne, el vino blanco, ¿con qué se sirve?*pescado
+Gastronomia©Lady Pol«¿A qué marisco se llama "txangurro" en el País Vasco?*centollo
+Gastronomia©Lady Pol«¿Qué es el Glühwein?*vino caliente especiado
+Gastronomia©latigoo«¿De dónde es el vino Valdeorras?*barco de valdeorras
+Gastronomia©latigoo«¿De dónde son típicas las ñoras?*murcia
+Gastronomia©latigoo«¿De qué región de Francia son típicos los crêpes?*bretaña
+Gastronomia©latigoo«Es una desgracia si no hincha en el horno.*souffle
+Gastronomia©latigoo«Famoso vino francés.*burdeos
+Gastronomia©latigoo«Localidad gallega famosa por las ostras.*arcade
+Gastronomia©latigoo«Si estuvieses en Francia qué tomarías antes del postre.*queso
+Gastronomia©latribu«¿De qué país es originaria la variedad moka del café?*yemen
+Gastronomia©lea«¿De qué país es típica la ratatouille?*francia
+Gastronomia©lea«¿En qué país se elabora el queso gorgonzola?*italia
+Gastronomia©lea«¿En qué país se puede degustar el "bacalhau a padeira"?*portugal
+Gastronomia©lea«¿En qué país se puede degustar la bullabesa?*francia
+Gastronomia©lea«¿Qué pastel comen los ingleses por Navidad?*christmas pudding
+Gastronomia©Lillu«¿Cuáles son los dos postres típicos de los carnavales gallegos?*orejas y filloas
+Gastronomia©Lillu«¿Qué es la páprika?*pimiento rojo molido
+Gastronomia©LinceIber«¿Cómo se llama al café con leche condensada?*cafe bombon
+Gastronomia©LinceIber«¿Cómo se llama la salsa compuesta de nata, beicon, huevo y pimienta?*carbonara
+Gastronomia©LinceIber«¿Cuántos cl tenían las antiguas botellas grandes de cristal de Coca-Cola?*33
+Gastronomia©LinceIber«¿Por qué producto chacinero es más famoso el municipio de Cantimpalos?*chorizo
+Gastronomia©LinceIber«¿Qué ingredientes componen el ajo blanco?*almendras ajo y aceite
+Gastronomia©LinceIber«¿Qué se guarda en una alcuza?*aceite
+Gastronomia©Lipin«¿Qué vinos son los más famosos de Orense?*ribeiro y valdeorras
+Gastronomia©LOBOLOPEZ«Puchero andaluz, también conocido como...*berza gaditana
+Gastronomia©lobonegro«¿Cuál es la bebida orgánica más común del mundo?*cafe
+Gastronomia©Locko«¿Cuál, según los especialistas en endocrinología, es la dieta más sana?*mediterranea
+Gastronomia©Locko«¿Cuáles son los principales ingredientes del all i oli?*ajo aceite y sal
+Gastronomia©Locko«¿Cuáles son los restaurantes más abundantes en el mundo?*chinos
+Gastronomia©Locko«¿Qué es el coriandro?*especia
+Gastronomia©Locko«¿Qué es el gazpacho?*sopa fria
+Gastronomia©Locko«¿Qué especia es la más utilizada en España?*ajo
+Gastronomia©Locko«De la mar el mero y de la tierra...*el cordero
+Gastronomia©Lopes_«¿Cuál es el secreto para saber si las gambas están frescas?*si los bigotes no estan rotos
+Gastronomia©Lopes_«¿Qué es el pan de Cádiz?*mazapan
+Gastronomia©Lopes_«Plato típico catalán compuesto de cebolla, pimiento rojo y berenjena.*escalivada
+Gastronomia©luigi«¿De qué comunidad autónoma es típico el pulpo a feira?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Abona?*canarias
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Alella?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Almansa?*castilla la mancha
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Bierzo?*castilla y leon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Bullas?*murcia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Calatayud?*aragon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Campo de Borja?*aragon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Cariñena?*aragon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Cigales?*castilla y leon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Conca de Barberà?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Condado de Huelva?*andalucia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Costers del Segre?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen El Hierro?*canarias
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Jerez?*andalucia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Jumilla?*murcia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen La Mancha?*castilla la mancha
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Málaga?*andalucia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Méntrida?*castilla la mancha
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Mondéjar?*castilla la mancha
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Monterrei?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Montilla-Moriles?*andalucia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Penedés?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Pla de Bages?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Priorato?*cataluña
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Rias Baixas?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Ribeira Sacra?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Ribeiro?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Rueda?*castilla y leon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Somontano?*aragon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Tacoronte-Acentejo?*canarias
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Toro?*castilla y leon
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Utiel-Requena?*comunidad valenciana
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Valdeorras?*galicia
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Valdepeñas?*castilla la mancha
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Valle de Güímar?*canarias
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Valle de la Orotava?*canarias
+Gastronomia©Luik«¿De qué comunidad autónoma es la denominación de origen Yecla?*murcia
+Gastronomia©LULAA«Zumo de la uva antes de fermentar.*mosto
+Gastronomia©lusie«Bebida refrescante que se elabora con harina de maíz tostado, cacao, achiote y azúcar.*tiste
+Gastronomia©lusie«Gracias a qué repostero francés podemos hacer conservas enlatadas, aunque no se le reconoció el invento porque no lo patentó.*appert
+Gastronomia©Makarenko«¿De qué es el escabeche estofado que los alemanes llaman "sauerbraten"?*caballo
+Gastronomia©Makarenko«¿En qué país es típica una ensalada de pepino con yogur y eneldo?*bulgaria
+Gastronomia©Makarenko«¿Qué es la chucrut?*col fermentada
+Gastronomia©Makarenko«¿Qué tienes que pedir en Cádiz si quieres comer caracoles?*cabrillas
+Gastronomia©Makarenko«Carne de marisco limpita, enlatada, rusa, y carísima.*chatka
+Gastronomia©Makarenko«Cocina inglesa: Carne picada sin nada más tras una hora en el horno.*shepherd's pie
+Gastronomia©Makarenko«Derivado lácteo que se usa mucho en el este de Europa, necesario para la confección de los blinis.*kefir
+Gastronomia©Makarenko«Empalagoso vino blanco siciliano.*lacryma christi
+Gastronomia©Makarenko«En Argentina, las judías secas se llaman...*porotos
+Gastronomia©Makarenko«Fruta parecida al mango (pero mas aromática) muy consumida en el este de Asia.*bavaco
+Gastronomia©Makarenko«Ingredientes básicos del estofado irlandés.*cordero patatas y menta
+Gastronomia©Makarenko«La más famosa receta portuguesa de callos.*tripas a moda do porto
+Gastronomia©Makarenko«Nombre alemán del chucrut.*sauerkraut
+Gastronomia©Makarenko«Pasta rusa rellena de carne (como ravioli pero en grande).*vareniki
+Gastronomia©Makarenko«Pescado similar al mero muy popular en China.*garupa
+Gastronomia©Makarenko«Receta rusa de patata rallada, frita con ajo y aceite, y regada con nata.*diruni
+Gastronomia©Makarenko«Sopa nacional belga.*waterzooi
+Gastronomia©Makarenko«Suecia: Buffet frío de pescados.*smogarsbord
+Gastronomia©Makarenko«Una fondue de queso en los Alpes franceses se llama...*raclette
+Gastronomia©malila«¿Con qué nombre se conoce a la pescadilla en Andalucía?*pijota
+Gastronomia©malila«¿Con qué nombre se conoce al boquerón en Cantabria?*bocarte
+Gastronomia©malila«¿Con qué nombre se conoce al boquerón en el País Vasco?*anchoa
+Gastronomia©malila«¿Con qué nombre se conoce al rape en Asturias?*pixin
+Gastronomia©malila«¿Qué debes pedir en Santander para comer calamares a la romana?*rabas
+Gastronomia©malila«¿Qué son las tortas del Casar?*queso
+Gastronomia©malila«Capital manzanera de España.*villaviciosa
+Gastronomia©malila«Dulce típico de Albacete.*miguelitos
+Gastronomia©malila«Dulce típico de Boñar.*nicanores
+Gastronomia©malila«Exquisitos bollos valencianos para acompañar a la horchata.*fartons
+Gastronomia©malila«Ingrediente básico de la horchata.*chufa
+Gastronomia©Malversan«Si pides un "steak tartar", ¿qué vas a comer?*carne cruda
+Gastronomia©Malversan«Si te zampas un plato de criadillas, ¿qué has comido?*testiculos
+Gastronomia©Malversan«Si tu estómago está digiriendo otro estómago es porque has comido...*callos
+Gastronomia©MarcaAcme«¿De qué país es originaria la cerveza Heineken?*holanda
+Gastronomia©MarCris«¿Qué nombre recibe el cargo más alto que podemos encontrar dentro de una cocina (restaurante, hotel...)?*jefe de cocina
+Gastronomia©MARdeJAVA«¿Cómo se llama el fruto seco con el cual se elabora una bebida típica valenciana?*chufa
+Gastronomia©MARdeJAVA«¿Cómo se llama el lomo del atún salado y secado, de textura parecida a la de los jamones o cecinas, que puede llegar a costar en el mercado lo mismo que los mejores jamones ibéricos?*mojama
+Gastronomia©MARdeJAVA«¿Cómo se llama la masa de harina de trigo o de sémola, ingrediente fundamental de los platos italianos más conocidos y que se puede presentar bajo diversas formas: fideos, macarrones, tallarines...?*pasta
+Gastronomia©MARdeJAVA«¿Cuál es uno de los platos más típicos y baratos de Cataluña (en catalán)?*pa amb tomaquet
+Gastronomia©MARdeJAVA«¿Qué alimento se nombra muchas veces en la Biblia y está elaborado con harina amasada con agua, generalmente fermentada y cocida al horno?*pan
+Gastronomia©MARdeJAVA«¿Qué bebida de infusión puede ser de los siguientes tipos: orange pekoe, pekoe, congou, souchong y oolong?*te
+Gastronomia©MARdeJAVA«¿Qué nombre recibe el embutido en tripa delgada, generalmente de carne de cerdo magra y gorda, bien picada, que se suele freír o cocer para ser consumido?*salchicha
+Gastronomia©MARdeJAVA«¿Qué planta umbelífera y herbácea, de tallos angulosos y ramificados, fue durante un tiempo el condimento favorito de Karlos Arguiñano para sus platos?*perejil
+Gastronomia©MARdeJAVA«¿Qué son sevruga, osetra y beluga?*tipos de caviar
+Gastronomia©MARdeJAVA«¿Qué son: orange pekoe, pekoe, congou, souchong y oolong?*tipos de te
+Gastronomia©MARdeJAVA«¿Qué tubérculo es el alimento básico en casi todos los países templados del mundo?*patata
+Gastronomia©MARdeJAVA«Los tres tipos de caviar más importantes son: sevruga, osetra y...*beluga
+Gastronomia©MARdeJAVA«Según los estudios nutricionales, qué leche tiene un valor nutritivo superior y es más digerible, la de vaca o la de cabra.*cabra
+Gastronomia©MARINERO-«¿Qué producto da el popular sabor picante al mojo picón?*pimienta picona
+Gastronomia©MARINERO-«Ingrediente principal del mojo verde.*cilantro
+Gastronomia©martuniki«Si decimos macabea y tempranilla, hablamos de...*uvas
+Gastronomia©martuniki«Si hablamos de picual y gordal, hablamos de...*aceitunas
+Gastronomia©Mento«Ciudad alemana en que se bebe más durante el Festival de la Cerveza.*munich
+Gastronomia©Mento«Ciudad francesa centro mundial de producción del champán.*reims
+Gastronomia©Mento«Único país que presume de un queso para cada día del año.*francia
+Gastronomia©Mercedes«¿De qué población es el típico dulce conocido como picardías (riquísimo por cierto)...?*abaran
+Gastronomia©Mercedes«Cuando llueve en Murcia la tradición obliga a cocinar un plato que en la costa se hace con sardinas y en interior con marrano. ¿De qué plato hablamos?*migas ruleras
+Gastronomia©Mercedes«Dulce típico del campo de Cartagena.*flores
+Gastronomia©Mercedes«El dulce típico de Caravaca de la Cruz es la...*yema de caravaca
+Gastronomia©Mercedes«El truco gastronómico de las torrijas consiste en utilizar para su elaboración...*pan de ayer
+Gastronomia©Mercedes«En Puerto Lumbreras, al guiso de mondongo (estómago de vaca, agggg) no le echan arroz, le echan...*trigo
+Gastronomia©Mercedes«La carne de qué animal de caza era empleada en un guiso huertano.*faisan
+Gastronomia©Mercedes«La olla gitana sin ............. no es olla gitana.*calabaza
+Gastronomia©Mercedes«La pipirrana era el plato de posguerra por excelencia. Sabrías decirnos los ingredientes.*tomate pimiento morron ajo aceite y sal
+Gastronomia©Mercedes«La típica salsa del conejo al ajo cabañil (que te chupas los dedos) está hecha a base de...*ajo machacado y vinagre
+Gastronomia©Mercedes«La tortilla campesina debe su característico dulzor a las...*pasas
+Gastronomia©Mercedes«Las ruedas de prensa de Federico Trillo se caracterizaban por invitar a los periodistas a comer michirones, pero qué son los michirones.*habas cocidas
+Gastronomia©Mercedes«Los indescriptibles sequillos son el dulce típico de...*jumilla
+Gastronomia©Mercedes«Por tradición, en las pedidas de mano de la novia en Murcia se elabora un dulce que a veces contiene una hebra de lana (ese para las solteras significa que se casarán pronto).*buñuelos de viento
+Gastronomia©Mercedes«Postre típico de Murcia que consiste en una hoja de limonero rebozada en una masa y frito, con canela y azúcar.*paparajote
+Gastronomia©Mercedes«Principal ingrediente del típico zarangollo murciano.*calabacin
+Gastronomia©Mercedes«Si en un restaurante murciano ves en la sección de entremeses "perdices", no se están refiriendo al ave. ¿Qué te servirán?*corazones de lechuga con aliño
+Gastronomia©Mercedes«Si vas al mercado de abastos y alguien le pide al tendero "alcaciles", está pidiendo lo que en Valladolid echan a las cabras de pasto (qué pena). En realidad lo que está pidiendo es...*alcachofas
+Gastronomia©Mercedes«Único ingrediente principal junto al arroz, que no es verdura, en el arroz huertano.*boqueron o sardina
+Gastronomia©michael_«¿Qué lleva un ginlet?*ginebra y lima
+Gastronomia©michael_«¿Qué nombre recibe la salsa compuesta por harina, mantequilla, aceite, leche y sal?*bechamel
+Gastronomia©Monteso«¿De qué país es originaria la musaka?*grecia
+Gastronomia©Monteso«¿De qué país es originaria la pizza?*italia
+Gastronomia©Monteso«¿De qué país es originaria la tortilla de patatas?*españa
+Gastronomia©Monteso«¿De qué país es originario el "roast beef"?*reino unido
+Gastronomia©Monteso«¿De qué país es originario el bami goreng?*indonesia
+Gastronomia©Monteso«¿De qué país es originario el caviar?*rusia
+Gastronomia©Monteso«¿De qué país es originario el churrasco?*argentina
+Gastronomia©Monteso«¿De qué país es originario el coñac?*francia
+Gastronomia©Monteso«¿De qué país es originario el cuscús?*marruecos
+Gastronomia©Monteso«¿De qué país es originario el gulash?*hungria
+Gastronomia©Monteso«¿De qué país es originario el rollo de primavera?*china
+Gastronomia©Monteso«¿De qué país es originario el ron?*jamaica
+Gastronomia©Monteso«¿De qué país es originario el smorgarsbord?*suecia
+Gastronomia©Monteso«¿De qué países es originario el pisco?*chile y peru
+Gastronomia©Mow«¿En qué población palentina se hacen las galletas más Ricas y Famosas (dedicado a George Cukor)?*aguilar de campoo
+Gastronomia©Mow«Aparte de las castañas, ingredientes necesarios para hacer un pastel de castañas.*huevos mantequilla y azucar
+Gastronomia©Mow«Dulce típico de Santander similar a la tarta de queso.*quesada
+Gastronomia©Mow«Dulces típicos de Astorga.*hojaldres y mantecadas
+Gastronomia©MuXaKALmA«¿Cuántas hamburguesas lleva un Big Mac?*dos
+Gastronomia©NaTa«¿Cómo se llama cierto producto gelatinoso que se extrae de unas algas marinas?*agar
+Gastronomia©NaTa«¿Cuál es el producto más cultivado y más comido?*trigo
+Gastronomia©NaTa«¿De qué color es la leche de yak?*rosa
+Gastronomia©NaTa«¿De qué color son las botellas de vino del Rin?*marron
+Gastronomia©NaTa«¿De qué población madrileña son los espárragos más famosos?*aranjuez
+Gastronomia©NaTa«¿En qué ciudad tiene su origen el brandy?*cognac
+Gastronomia©NaTa«¿En qué comarca española se hallan las bodegas del vino Paternina?*la rioja
+Gastronomia©NaTa«¿En qué comunidad el Asón es más salmonero?*cantabria
+Gastronomia©NaTa«¿En qué tipo de restaurante sirven un aperitivo llamado antipasto?*italiano
+Gastronomia©NaTa«¿Qué anglicismo utilizamos para nombrar al tocino del cerdo?*bacon
+Gastronomia©NaTa«¿Qué animal es utilizado para localizar las trufas?*perro
+Gastronomia©NaTa«¿Qué ensalada, típicamente española, tiene en su nombre otra nacionalidad?*ensaladilla rusa
+Gastronomia©NaTa«¿Qué es 550 veces más dulce que el azúcar de caña?*sacarina
+Gastronomia©NaTa«¿Qué es lo que consigues mezclando ginebra y vermut?*martini
+Gastronomia©NaTa«¿Qué mezclas con Tía María para hacer un black russian?*vodka
+Gastronomia©NaTa«¿Qué plato de marisco tiene nombre de género lírico?*zarzuela
+Gastronomia©NaTa«¿Qué región de Francia es famosa por su cocina del vino?*burdeos
+Gastronomia©NaTa«¿Qué región española es la principal productora de pimentón?*murcia
+Gastronomia©NaTa«¿Qué villa de Huelva es famosa por su jamones y embutidos?*jabugo
+Gastronomia©NaTa«Achicoria cultivada que tomamos en la ensalada.*escarola
+Gastronomia©NaTa«Departamento al este de Francia, famoso por su elaboración del queso gruyer.*doubs
+Gastronomia©NaTa«Especie de langostino grande de color claro y caparazón duro.*cigala
+Gastronomia©NaTa«La invención de qué bebida es atribuida al legendario rey germánico Gambrino.*cerveza
+Gastronomia©NaTa«Lonja de carne asada o frita.*bistec
+Gastronomia©NaTa«Lugar subterráneo donde se guardan los vinos o provisiones.*cava
+Gastronomia©NaTa«Nombre dado a la planta que vive en sitios húmedos y cuyas hojas, de sabor picante, se comen en ensalada.*berro
+Gastronomia©NaTa«Una "Kartoffel" en Hamburgo es una...*patata
+Gastronomia©Nicky^«A quienes no les gusta el pan con tomate dicen que eso sabe a...*pan mojado
+Gastronomia©Nicky^«Albariño y ribeiro son vinos típicos de...*galicia
+Gastronomia©Nicky^«Típica infusión muy amarga que se toma en Argentina.*mate
+Gastronomia©nisehe«¿Qué es un bikini?*sandwich de jamon york y queso
+Gastronomia©Nordik«¿Qué nombre reciben las alubias rojas en La Rioja?*caparrones
+Gastronomia©Nordik«Las patatas con chorizo son típicas de...*la rioja
+Gastronomia©Nordik«Nombre que recibe la cuajada casera en el País Vasco.*mamia
+Gastronomia©nuni«¿De dónde es originaria la calabaza?*america
+Gastronomia©nuni«¿De dónde es originaria la sandía?*africa
+Gastronomia©nuni«¿De dónde es originario el pepino?*asia
+Gastronomia©nuni«¿De qué continente es originario el melón?*asia
+Gastronomia©nuni«Árbol de corteza blanca con cuya savia azucarada se obtiene un original vino.*abedul
+Gastronomia©nusky«¿Qué pescado se prepara al ajoarriero?*bacalao
+Gastronomia©olguita«¿En qué ciudad estoy si he comido en el Mesón del Cid en la plaza de Santa María?*burgos
+Gastronomia©PEDROC«Plato típico de los pueblos costeros de Alicante.*caldero
+Gastronomia©Psico666«¿Cómo se llama a la sensación áspera y amarga de un vino?*acidez
+Gastronomia©Psico666«¿Cómo se llama al punto de cocción perfecto de la pasta italiana?*al dente
+Gastronomia©Psico666«¿Cuál es considerada la mejor carne de res del mundo?*vaca kobe
+Gastronomia©Psico666«¿Cuál es el nombre científico del hongo del queso roquefort?*penicillium roqueforti
+Gastronomia©Psico666«¿Cuáles son las dos regiones italianas que mejor vino producen?*piamonte y toscana
+Gastronomia©Psico666«¿Cuáles son los dos países de Sudamérica más importantes en la producción de vino?*argentina y chile
+Gastronomia©Psico666«¿Cuáles son los principales azúcares del vino?*glucosa y fructosa
+Gastronomia©Psico666«¿De qué estado mexicano es originario el mezcal?*oaxaca
+Gastronomia©Psico666«¿De qué estado mexicano es originario el tequila?*jalisco
+Gastronomia©Psico666«¿De qué país es originario el chocolate?*mexico
+Gastronomia©Psico666«¿De qué país es originario la feijoada?*brasil
+Gastronomia©Psico666«¿De qué península es originaria la sopa de lima?*yucatan
+Gastronomia©Psico666«¿De qué provincia española es originario el jamón de Jabugo?*huelva
+Gastronomia©Psico666«¿En qué país es típico comer sopa de guisantes amarillos los jueves?*suecia
+Gastronomia©Psico666«¿En qué provincia italiana se produce el vinagre balsámico?*modena
+Gastronomia©Psico666«¿Qué es una clara (bebida)?*cerveza con gaseosa
+Gastronomia©Psico666«¿Qué ingredientes lleva el agua de Valencia?*cava y jugo de naranja
+Gastronomia©Psico666«¿Qué región de Italia es la única del mundo en que se consigue la trufa blanca?*piamonte
+Gastronomia©Psico666«¿Qué son la merlot y la chardonnay?*variedades de uva
+Gastronomia©Psico666«Alimento básico de Mali.*mijo
+Gastronomia©Psico666«Azúcar disuelto en agua y cocido al fuego hasta que toma consistencia de jarabe.*almibar
+Gastronomia©Psico666«Bebé de la anguila considerado un manjar exquisito.*angula
+Gastronomia©Psico666«Café preparado con whisky y nata montada.*cafe irlandes
+Gastronomia©Psico666«Cerveza argentina.*quilmes
+Gastronomia©Psico666«Cerveza con jugo de limón.*clara
+Gastronomia©Psico666«Corriente gastronómica que aligeró los platos, redujo las cantidades y les dio una presentación más artística.*nouvelle cuisine
+Gastronomia©Psico666«Disciplina que se ocupa del vino.*enologia
+Gastronomia©Psico666«Embutido típico de Mallorca.*sobrasada
+Gastronomia©Psico666«Especia culinaria más cara del mundo.*azafran
+Gastronomia©Psico666«Harina fina de maíz.*maicena
+Gastronomia©Psico666«Huevas del esturión.*caviar
+Gastronomia©Psico666«Ingredientes básicos del turrón.*almendras y azucar
+Gastronomia©Psico666«Ingredientes principales de la feijoada.*carne y frijoles
+Gastronomia©Psico666«Licor de origen gallego.*orujo
+Gastronomia©Psico666«Nombre francés dado al paté.*foie gras
+Gastronomia©Psico666«Nombre por el que también se conoce al mate.*te del paraguay
+Gastronomia©Psico666«País de donde es originaria la canela.*sri lanka
+Gastronomia©Psico666«País de donde es originario el mole.*mexico
+Gastronomia©Psico666«País de donde son originarias las enchiladas.*mexico
+Gastronomia©Psico666«País de procedencia de los quesos camembert y brie.*francia
+Gastronomia©Psico666«País de procedencia del queso edam.*holanda
+Gastronomia©Psico666«País de procedencia del queso feta.*grecia
+Gastronomia©Psico666«País de procedencia del queso mendicrim.*argentina
+Gastronomia©Psico666«País de procedencia del queso oaxaca.*mexico
+Gastronomia©Psico666«País de procedencia del queso panir.*india
+Gastronomia©Psico666«País donde se produce el vino de Oporto.*portugal
+Gastronomia©Psico666«Pasta untable hecha a base de hígado.*pate
+Gastronomia©Psico666«Pastel hecho con una base de pasta sobre la que se pone una mezcla de huevos, leche y otros ingredientes.*quiche
+Gastronomia©Psico666«Pequeña ave, manjar gastronómico francés, que se come de un bocado y cuyo consumo es ilegal.*ortolan
+Gastronomia©Psico666«Pez globo venenoso de Japón considerado un manjar exquisito.*fugu
+Gastronomia©Psico666«Planta de la que se obtiene el tequila.*agave
+Gastronomia©Psico666«Plato consistente en varias clases de pescados y mariscos, condimentado con una salsa.*zarzuela
+Gastronomia©Psico666«Plato de pescado o marisco cortado en trozos adobados con vinagreta y otros ingredientes que se consume frío.*salpicon
+Gastronomia©Psico666«Plato nacional de Jordania que consta de arroz, cordero y salsa de yogur.*mansaf
+Gastronomia©Psico666«Plato típico de Hungría.*goulash
+Gastronomia©Psico666«Plato típico de Nigeria elaborado con mandioca o ñame molidos.*fufu
+Gastronomia©Psico666«Primer paso en la elaboración de un queso.*coagulacion
+Gastronomia©Psico666«Probablemente la comida más cara del mundo.*trufa blanca
+Gastronomia©Psico666«Queso italiano de textura firme y dura.*parmesano
+Gastronomia©Psico666«Queso vasco de textura firme y dura.*idiazabal
+Gastronomia©Psico666«Región vinícola francesa por excelencia.*burdeos
+Gastronomia©Psico666«Salsa espesa que lleva aguacate molido o picado, al que se agrega cebolla, tomate, cilantro y chile verde.*guacamole
+Gastronomia©Psico666«Té muy utilizado en China.*jazmin
+Gastronomia©Psico666«Variedad de queso azul típico de España.*cabrales
+Gastronomia©Psico666«Variedad de uva más cultivada en la región francesa de Burdeos.*merlot
+Gastronomia©PSikoPaT«¿Qué animal aparece en los Corn Flakes de Kellogg's?*gallo
+Gastronomia©Quim«¿Cómo se llama, normalmente, el dulce de fruta cocida con agua y azúcar?*compota
+Gastronomia©Quim«¿De qué país es originario el cultivo del té?*china
+Gastronomia©Quim«¿En qué es rico, concretamente, el pescado azul?*grasa
+Gastronomia©Quim«¿Qué es el ácimo?*pan sin levadura
+Gastronomia©Quim«¿Qué es el chile?*pimiento picante
+Gastronomia©Quim«¿Qué es un brioche?*panecillo
+Gastronomia©Quim«¿Qué es un galopín de cocina?*aprendiz de cocinero
+Gastronomia©Quim«¿Qué nombre específico recibe el vino destinado a la destilación?*vino de quema
+Gastronomia©Quim«¿Qué nombre recibe cada una de las partes en las que se divide una cabeza de ajo?*diente
+Gastronomia©Quim«¿Qué nombre recibe el vivero de langostas y crustáceos destinados al consumo?*cetarea
+Gastronomia©Quim«¿Qué tipo de animal es un chopito?*sepia
+Gastronomia©Quim«¿Qué voz francesa designa al primer cocinero de un restaurante?*chef
+Gastronomia©Quim«¿Quiénes introdujeron el arroz en España?*arabes
+Gastronomia©Quim«Orfebre mayor de la cocina vasca, caballero de la Orden de las Artes y las Letras francesa.*juan mari arzak
+Gastronomia©rainby«¿Se optimiza el consumo si descongelamos los productos dentro del propio frigorífico?*si
+Gastronomia©rainby«Algunos alimentos, como las verduras, qué pierden por el exceso de cocción.*sabor y vitaminas
+Gastronomia©Randi«¿Qué se obtiene fermentando unos líquidos dulces de la caña de azúcar?*ron
+Gastronomia©RaPiDeXe«¿Cuál es el plato más típico de Andalucía?*gazpacho
+Gastronomia©RaPiDeXe«¿De dónde son típicas las yemas de Santa Teresa?*avila
+Gastronomia©RaPiDeXe«Plato típico de Valencia.*paella
+Gastronomia©rasputinh«¿Qué producto alimenticio tiene forma de toroide?*donut
+Gastronomia©rimrock«Plato típico del norte de México que se hace con carne seca y huevo.*machaca con huevo
+Gastronomia©rimrock«Plato típico mexicano compuesto por un caldo (de res o cerdo) con carne y granos de maíz, de los más comunes es el de Jalisco.*pozole
+Gastronomia©Rjajaja«¿De qué está compuesto el salmorejo cordobés?*tomate pan y aceite
+Gastronomia©Rolo«¿Cómo se llama el acto de echar claras de huevo o nata líquida a un consomé?*clarificar
+Gastronomia©Rolo«¿Cuál es el principal ingrediente de la mayonesa?*aceite
+Gastronomia©Rolo«¿Cuánta levadura lleva el hojaldre?*ninguna
+Gastronomia©Rolo«¿Cuántos grados de alcohol tiene la ginebra?*40
+Gastronomia©Rolo«¿De dónde es originaria la especie "pepo" de calabaza?*mexico
+Gastronomia©Rolo«¿De dónde es originario el Baileys?*irlanda
+Gastronomia©Rolo«¿De dónde es originario el pimentón páprika?*hungria
+Gastronomia©Rolo«¿De dónde es originario el pisto manchego?*castilla la mancha
+Gastronomia©Rolo«¿De qué compañía es la bebida Frutopia?*coca cola
+Gastronomia©Rolo«¿De qué pasta están hechos los petit sou o profiteroles?*pasta choux
+Gastronomia©Rolo«¿Qué animal aparece en la botella de ron Bacardi?*murcielago
+Gastronomia©Rolo«¿Qué animal sale en la botella del coñac 103?*leon
+Gastronomia©Rolo«¿Qué empresa fabrica el Cola-Cao?*nutrexpa
+Gastronomia©Rolo«¿Qué es el benedictine?*licor
+Gastronomia©Rolo«¿Qué es el perifollo?*condimento de cocina
+Gastronomia©Rolo«¿Qué es lo que no se come del cerdo?*se come todo
+Gastronomia©Rolo«¿Qué pasta lleva el delicioso milhojas?*hojaldre
+Gastronomia©Rolo«¿Qué queso se echa en las pizzas?*mozzarella
+Gastronomia©Rolo«¿Qué se utiliza para empanar?*huevo y pan rallado
+Gastronomia©Rolo«¿Quién elabora el Anís del Mono?*vicente bosch
+Gastronomia©Rolo«¿Quién elabora el Licor 43?*diego zamora
+Gastronomia©Rolo«Acto de echar sal y pimienta.*salpimentar
+Gastronomia©Rolo«Además de arroz y condimentos, qué más lleva la morcilla.*sangre de cerdo
+Gastronomia©Rolo«Azúcar, agua, jugo de limón, lo calentamos y qué obtendremos.*caramelo
+Gastronomia©Rolo«Bebida bastante densa compuesta básicamente de leche y helado.*batido
+Gastronomia©Rolo«Bollo de pasta hojaldrada relleno de cabello de ángel.*bayonesa
+Gastronomia©Rolo«Caldo corto de pescado.*fumet
+Gastronomia©Rolo«Cocinar hortalizas por la acción del agua que contienen, más un elemento graso.*brasear
+Gastronomia©Rolo«Cocinar un género por inmersión en un aceite caliente.*freir
+Gastronomia©Rolo«Consomé frío, espesado por la acción de materias gelatinosas.*gelee
+Gastronomia©Rolo«Crema más utilizada en pastelería.*crema pastelera
+Gastronomia©Rolo«El bocarte, la caballa, el jurel y la sardina tienen en común que son...*pescados azules
+Gastronomia©Rolo«Enfermedad grave producida por una mahonesa en mal estado.*salmonelosis
+Gastronomia©Rolo«Espesar una salsa por medio de una cocción prolongada.*reducir
+Gastronomia©Rolo«Fruta hermana del limón y la naranja.*pomelo
+Gastronomia©Rolo«Hacer las patatas a fuego lento en aceites, sin que se doren, dando aspecto cocido.*pochar
+Gastronomia©Rolo«Higo o breva que se ha secado antes de llegar a su plena sazón.*bayoco
+Gastronomia©Rolo«Hongo subterráneo de color negro el de buena calidad, muy valorado en la cocina.*trufa
+Gastronomia©Rolo«La salsa italiana es una derivada de la...*demi glace
+Gastronomia©Rolo«La salsa mornay es una derivada de la...*bechamel
+Gastronomia©Rolo«Máquina para cortar fiambre, cierto tipo de quesos, pan de molde... con grosor graduable.*trinchadora
+Gastronomia©Rolo«Máquina para cortar verduras y hortalizas en lonchas.*mandolina
+Gastronomia©Rolo«Mezclar enérgicamente.*batir
+Gastronomia©Rolo«Nombre de la bodega que embotella Fino La Ina.*domecq
+Gastronomia©Rolo«Nombre de la conocida marca de tónicas.*schweppes
+Gastronomia©Rolo«Nombre de la ensalada hecha de manzanas, nueces peladas, apio blanco y salsa de nata o mahonesa.*waldorf
+Gastronomia©Rolo«Pasar por huevo batido y harina.*rebozar
+Gastronomia©Rolo«Pasta italiana alargada y fina (nombre españolizado).*espagueti
+Gastronomia©Rolo«Pasta italiana, rellena generalmente de carne, con forma de donut.*tortellini
+Gastronomia©Rolo«Patatas cortadas en tiras muy finas.*paja
+Gastronomia©Rolo«Pez parecido a la dorada.*bajonado
+Gastronomia©Rolo«Pimienta blanca, negra y...*verde
+Gastronomia©Rolo«Planta completa de hojas muy rizadas, solo utilizable en ensaladas.*escarola
+Gastronomia©Rolo«Potaje típico italiano.*minestrone
+Gastronomia©Rolo«Preparar un huevo cascado dentro de un líquido caliente por breve espacio de tiempo.*escalfar
+Gastronomia©Rolo«Punto en el que las claras de huevo se quedan blancas y aspecto sólido.*punto de nieve
+Gastronomia©Rolo«Quitarle la piel a una patata o similar.*pelar
+Gastronomia©Rolo«Recipiente para preparar pescados al horno, principalmente besugos.*besuguera
+Gastronomia©Rolo«Salsa francesa emulsionada en caliente, preparada con yemas de huevo, vino blanco, hierbas y mantequilla.*bearnesa
+Gastronomia©Rolo«Salsa hecha con bechamel, queso y yemas de huevo.*mornay
+Gastronomia©Rolo«Salsa hecha de 3/4 de vinagre y 1/4 parte de aceite.*vinagreta
+Gastronomia©Rolo«Serie de preparaciones que se sirven en primer lugar antes de un almuerzo.*entremeses
+Gastronomia©Rolo«Si hablamos de banana hablamos de...*platano
+Gastronomia©Rolo«Tela fina para colar líquidos.*estameña
+Gastronomia©Rolo«Tipo de corte de un tomate, en trozos grandes.*concasse
+Gastronomia©Rolo«Tubérculo más utilizado en la cocina.*patata
+Gastronomia©Rolo«Un buen antioxidante alimentario natural en la cocina.*limon
+Gastronomia©Rolo«Una salamandra es una...*gratinadora
+Gastronomia©Rolo«Utensilio con el que sacamos los huevos fritos de la sartén.*espumadera
+Gastronomia©Rolo«Utensilio para hacer carnes o pescados a la parrilla.*barbacoa
+Gastronomia©Rolo«Utensilio para hacer estrías o canales a frutas o verduras carnosas.*acanalador
+Gastronomia©Rolo«Utensilio para quitarle las escamas al pescado.*desescamador
+Gastronomia©Rolo«Utensilio para rebajar y estirar masas duras de harina mezcladas o no con grasas.*rodillo
+Gastronomia©Rolo«Utensilio para rehogar, saltear y estofar géneros.*saute
+Gastronomia©ruin«¿Cómo se llama en Asturias a los bocartes?*parrochas
+Gastronomia©ruin«¿Cuál es el plato típico de Astorga?*cocido maragato
+Gastronomia©ruin«¿Cuál es el queso más oloroso de Asturias?*cabrales
+Gastronomia©SaBaTh«¿De dónde son típicos los adoquines del Pilar?*zaragoza
+Gastronomia©SaBaTh«¿De qué localidad altoaragonesa son típicos los crespillos?*sabiñanigo
+Gastronomia©SaBaTh«¿Qué productos regula la denominación de origen del Somontano?*vinos
+Gastronomia©Scullder«¿De qué ciudad es la cerveza Tropical?*las palmas
+Gastronomia©Sebosin«¿Cómo se llama el aguardiente fuerte y de ínfima calidad?*matarratas
+Gastronomia©Sebosin«¿Cómo se llama el cóctel típico de Cuba?*mojito
+Gastronomia©Sebosin«¿Cómo se llama el líquido que sale después de pisar la uva?*mosto
+Gastronomia©Sebosin«¿Cómo se llama el lugar de la casa donde se guardan los comestibles?*despensa
+Gastronomia©Sebosin«¿Cómo se llama el pastelillo hueco relleno de crema (españolizado)?*petisu
+Gastronomia©Sebosin«¿Cómo se llama la copa grande para brindar?*velicomen
+Gastronomia©Sebosin«¿Cómo se llama la especie de tetera rusa?*samovar
+Gastronomia©Sebosin«¿Cómo se llama la espuma de la cerveza?*giste
+Gastronomia©Sebosin«¿Cómo se llama la hoguera para asar castañas en el campo?*magosto
+Gastronomia©Sebosin«¿Cómo se llama la merienda abundante, sabrosa, bulliciosa y regocijada?*merendola
+Gastronomia©Sebosin«¿Cuál es el nombre de la bebida caliente a base de ron, agua, limón y azúcar?*grog
+Gastronomia©Sebosin«¿Cuál es el principal ingrediente de los gofres?*harina
+Gastronomia©Sebosin«¿De dónde es originaria la malagueta, especie de pimienta?*africa
+Gastronomia©Sebosin«¿De qué comunidad autónoma es típica la porcella?*baleares
+Gastronomia©Sebosin«¿De qué comunidad autónoma son típicas las filloas?*galicia
+Gastronomia©Sebosin«¿En dónde podrías comer estofado de foca hervida con patatas, verdura y arroz, ballena frita con nabo y mermelada de raíz de remolacha?*groenlandia
+Gastronomia©Sebosin«¿En qué población gallega se celebra la Festa do Viño Albariño?*cambados
+Gastronomia©Sebosin«¿En qué zona de España se producen unas afamadas cerezas?*valle del jerte
+Gastronomia©Sebosin«¿Qué es el romí?*azafran bastardo
+Gastronomia©Sebosin«¿Qué es la bullabesa?*sopa de pescado
+Gastronomia©Sebosin«¿Qué es un boquerón desangrado y curado en salmuera?*anchoa
+Gastronomia©Sebosin«¿Qué nombre recibe el bar de refrigerios, tapas, tentempiés, pero a base de su término inglés internacional?*snack
+Gastronomia©Sebosin«¿Qué nombre recibe el vino áspero, producto de uvas recolectadas prematuramente, también verdoso?*acerbo
+Gastronomia©Sebosin«¿Qué país es el principal consumidor del mundo de carne de ballena?*japon
+Gastronomia©Sebosin«¿Qué región francesa es conocida por su aguardiente?*armagnac
+Gastronomia©Sebosin«¿Qué se prepara en una tahona?*pan
+Gastronomia©Sebosin«El popular sancocho, a base de pescado salado con salsa picante, y el conejo en salmorejo, son platos típicos de qué comunidad autónoma.*canarias
+Gastronomia©Sebosin«Refranes: De la mar, el mero, y de la tierra el...*cordero
+Gastronomia©Sebosin«Un postre de Navidad que se hace en Alemania y Austria es el "christstollen", que es...*pan de frutos secos
+Gastronomia©selfo«Tomate, ajo, pan, sal, aceite y huevo duro picado.*salmorejo
+Gastronomia©SESINO«Refranes: De los pescados, el mero. De las carnes...*el cordero
+Gastronomia©SESINO«Refranes: Pan con pan...*comida de tontos
+Gastronomia©Shanodin«¿Qué es el gofio?*comida tipica canaria
+Gastronomia©Sheva«¿Cuándo se dice que una fruta está sazonada?*cuando esta madura
+Gastronomia©Sheva«¿Qué otro nombre reciben las judías, además de habichuelas?*alubias
+Gastronomia©shockolat«¿Cuál es la fruta que más se vende en conserva?*melocoton
+Gastronomia©shockolat«¿Cuál es la gaseosa con nombre de zarzuela?*revoltosa
+Gastronomia©shockolat«¿Cuál fue la primera empresa que puso a la venta un refresco de una sola caloría?*coca cola
+Gastronomia©shockolat«¿Quién es el restaurador que está al frente de la empresa Asegarce?*karlos arguiñano
+Gastronomia©sica«¿En qué consiste la chaptalización del vino que descubrió el químico Jean Chaptal?*adicion de azucar al mosto
+Gastronomia©sica«¿Qué bebida se asocia con Dom Perignon?*champan
+Gastronomia©sica«¿Qué obtenían de la savia de la rafia los africanos que la cultivaban?*vino
+Gastronomia©sica«¿Qué producto puede contener salmonellas, bacterias causantes de intoxicaciones?*huevo
+Gastronomia©sica«La carpa rellena es una especialidad de la cocina...*yiddish
+Gastronomia©SkNdALoSu«¿En qué comunidad autónoma nos encontramos si al pedir el segundo plato típico de la región nos traen unas "mongetes amb botifarra"?*cataluña
+Gastronomia©sorgo«¿En qué localidad riojana se celebra la batalla del vino?*haro
+Gastronomia©Sort«¿De dónde es el chop suey?*china
+Gastronomia©Sort«¿De dónde es típico el babi pangang?*bali
+Gastronomia©Sort«¿De dónde es típico el bullgogi?*corea del sur
+Gastronomia©Sort«¿De dónde es típico el falafel?*egipto
+Gastronomia©Sort«¿De dónde es típico el humus?*israel
+Gastronomia©Sort«¿De dónde es típico el kimchi?*corea del sur
+Gastronomia©Sort«¿De dónde es típico el kulebiaka?*rusia
+Gastronomia©Sort«¿De dónde es típico el kussa mashe?*arabia saudi
+Gastronomia©Sort«¿De dónde es típico el lau lau?*islas fiyi
+Gastronomia©Sort«¿De dónde es típico el rösti?*suiza
+Gastronomia©Sort«¿De dónde es típico el sate babi?*bali
+Gastronomia©Sort«¿De dónde es típico el seek kabah?*india
+Gastronomia©Sort«¿De dónde es típico el shrikhand?*nepal
+Gastronomia©Sort«¿De dónde es típico el waterzooi?*belgica
+Gastronomia©Sort«¿De dónde es típico el yaprac?*israel
+Gastronomia©Sort«¿De dónde son típicas las lumpias?*indonesia
+Gastronomia©Sort«¿De dónde son típicas las perrunillas?*salamanca
+Gastronomia©Sort«¿De dónde son típicos los lamingtons?*australia
+Gastronomia©Sort«¿De dónde son típicos los paparajotes?*murcia
+Gastronomia©Sort«¿De dónde son típicos los robiols?*baleares
+Gastronomia©Sort«¿De qué está compuesto el akapulu?*verduras
+Gastronomia©Sort«¿De qué provincia es típica la pipirrana?*jaen
+Gastronomia©Sort«¿De qué provincia es típico el alajú?*cuenca
+Gastronomia©Sort«¿De qué provincia es típico el arnadí?*valencia
+Gastronomia©Sort«¿De qué provincia es típico el atascaburras?*albacete
+Gastronomia©Sort«¿De qué provincia es típico el perolo?*soria
+Gastronomia©Sort«¿De qué provincia son típicas las filloas?*pontevedra
+Gastronomia©Sort«¿De qué provincia son típicos los flaons?*castellon
+Gastronomia©Sort«¿Qué es el Apfelstrudel?*pastel de manzana
+Gastronomia©Sort«¿Qué es el babine?*licor de aguacate
+Gastronomia©Sort«¿Qué es el baklawa?*postre arabe
+Gastronomia©Sort«¿Qué es el burghul?*trigo abierto
+Gastronomia©Sort«¿Qué es el calou?*cerveza de coco
+Gastronomia©Sort«¿Qué es el dum?*vino balines
+Gastronomia©Sort«¿Qué es el feta?*queso de cabra
+Gastronomia©Sort«¿Qué es el franchipán?*hojaldre de turron
+Gastronomia©Sort«¿Qué es el gato?*bizcocho de almendras
+Gastronomia©Sort«¿Qué es el ladhu?*un postre
+Gastronomia©Sort«¿Qué es el lorco?*puchero de legumbres
+Gastronomia©Sort«¿Qué es el mekhong?*whisky tailandes
+Gastronomia©Sort«¿Qué es el ouzo?*licor de anis
+Gastronomia©Sort«¿Qué es el passcha?*requeson de pascua
+Gastronomia©Sort«¿Qué es el pixín?*rape
+Gastronomia©Sort«¿Qué es el pusih?*arroz al vapor
+Gastronomia©Sort«¿Qué es el rompope?*ponche de huevo
+Gastronomia©Sort«¿Qué es el sake?*vino de arroz
+Gastronomia©Sort«¿Qué es el sinigang?*sopa de pescado
+Gastronomia©Sort«¿Qué es el siri recheado?*cangrejo relleno
+Gastronomia©Sort«¿Qué es el tajine?*estofado
+Gastronomia©Sort«¿Qué es el txangurro?*centollo relleno
+Gastronomia©Sort«¿Qué es el zabaglione?*un postre
+Gastronomia©Sort«¿Qué es la alentejana?*lomo de cerdo con almejas
+Gastronomia©Sort«¿Qué es la chicha?*especie de cerveza
+Gastronomia©Sort«¿Qué es la sachertorte?*tarta de chocolate
+Gastronomia©Sort«¿Qué es la tortilla de pan?*un postre
+Gastronomia©Sort«¿Qué es la tuba?*vino de palma
+Gastronomia©Sort«¿Qué son las blinys?*tortitas con caviar
+Gastronomia©Sort«¿Qué son las drisheen?*morcillas
+Gastronomia©Sort«¿Qué son las sambosas?*empanadillas con verduras
+Gastronomia©Sort«¿Qué son los accras?*buñuelos picantes
+Gastronomia©Sort«¿Qué son los alcauciles?*alcachofas
+Gastronomia©Sort«¿Qué son los antojitos?*tacos
+Gastronomia©Sort«¿Qué son los chokoes?*calabacines gruesos
+Gastronomia©Sort«¿Qué son los elotes?*panochas de maiz
+Gastronomia©Sort«Como un plato de cebiche, estoy en qué dos países.*ecuador y peru
+Gastronomia©Sort«El mejor cochinillo asado en...*segovia
+Gastronomia©Sort«Estoy comiendo kuiba suri, estoy en...*marruecos
+Gastronomia©Sort«Ingrediente principal de las orejas de carnaval.*harina
+Gastronomia©Sort«Ingrediente principal de los soplillos.*almendras
+Gastronomia©Sort«Ingrediente principal del arnadí.*calabaza
+Gastronomia©Sort«Ingrediente principal del maffe.*carne de buey
+Gastronomia©Sort«Ingrediente principal del pisang soe-soe.*platano
+Gastronomia©Sort«Ingrediente principal del shawarma.*cordero
+Gastronomia©Sort«Ingredientes principales de la musaka.*carne picada berenjenas y bechamel
+Gastronomia©Sort«Los Lebkuchen son...*figuritas de mazapan
+Gastronomia©Sort«Plato típico de Gerona.*esqueixada
+Gastronomia©Sostri«¿Cuál es la fruta tropical que se puede coger por su nombre?*mango
+Gastronomia©southpark«Comida típica de Cataluña.*pan con tomate
+Gastronomia©Ssurfer«¿Cómo se llama el "trago" hecho con zumo de limón, Coca-Cola y ron blanco?*cuba libre
+Gastronomia©Ssurfer«¿Cómo se llama el tradicional cóctel mexicano a base de tequila?*margarita
+Gastronomia©Ssurfer«¿De qué marca es la crema de whisky más bebida en el mundo?*baileys
+Gastronomia©Ssurfer«¿Qué bebida es el ingrediente alcohólico del bloody mary?*vodka
+Gastronomia©Ssurfer«6 partes de ron blanco, 3 partes de zumo de limón y 1 parte de azúcar. Es un...*daiquiri
+Gastronomia©Ssurfer«Allí se elabora todo el Martini que se consume en el mundo.*turin
+Gastronomia©Ssurfer«Aquí están las cervecerías más famosas de todo el mundo.*munich
+Gastronomia©Ssurfer«En su barrio Grinzinz, decenas de bares sirven vino joven Heurigen Wine.*viena
+Gastronomia©STAMPID«¿Con qué alimentos se hace una tortilla española sin cebolla?*huevos patatas aceite y sal
+Gastronomia©STAMPID«¿Con qué alimentos se hace una tortilla francesa?*huevos aceite y sal
+Gastronomia©STAMPID«¿Qué famoso cocinero de la tele tuvo una etapa en que le echaba perejil a todos los platos?*karlos arguiñano
+Gastronomia©STAMPID«¿Qué llevan los espaguetis a la boloñesa aparte de espaguetis?*tomate y carne picada
+Gastronomia©STAMPID«Si vas a un chino y pides char-siu, ¿qué estás pidiendo realmente?*cerdo asado
+Gastronomia©STAMPID«Si vas a un chino y pides ternera con chop-suey, ¿qué lleva ese plato?*ternera con verduras variadas
+Gastronomia©stephenwo«¿Cómo se llama la unidad máxima para medir litros de cerveza?*barrica
+Gastronomia©stephenwo«¿Qué famosa fiesta gastronómica se celebra en Portonovo?*fiesta de la raya
+Gastronomia©stephenwo«¿Qué significan las siglas DYC?*destilerias y crianzas
+Gastronomia©synerune«¿Cómo se conoce al percebe?*oro del mar
+Gastronomia©synerune«¿Cuál es el mayor consumidor mundial de té?*rusia
+Gastronomia©synerune«¿De dónde es la denominación de origen del vino Amandi?*galicia
+Gastronomia©synerune«¿De dónde es típica la bebida resolí?*cuenca
+Gastronomia©synerune«¿De dónde son típicos los zarajos?*cuenca
+Gastronomia©synerune«¿En qué comunidad comerías el mejor pulpo?*galicia
+Gastronomia©synerune«¿Qué bebida tiene un gusano en la botella?*mezcal
+Gastronomia©synerune«El Condado es un vino de...*galicia
+Gastronomia©synerune«El queso de tetilla es típico de...*galicia
+Gastronomia©synerune«La bebida más consumida en Rusia.*te
+Gastronomia©synerune«Las bebidas mexicanas más conocidas son...*mezcal y tequila
+Gastronomia©tamzarian«¿Cómo se llama la dieta preparada según la ley judía?*kosher
+Gastronomia©tamzarian«¿De qué país es originario el bitter?*holanda
+Gastronomia©tamzarian«¿En qué localidad cordobesa se confecciona el más afamado dulce de membrillo?*puente genil
+Gastronomia©tamzarian«Bebida fabricada con agua y miel, fermentada o no.*hidromiel
+Gastronomia©tamzarian«Bebida láctea fermentada de origen caucásico.*kefir
+Gastronomia©tamzarian«Bebida mexicana obtenida por fermentación del jugo del maguey.*pulque
+Gastronomia©tamzarian«Famoso vino húngaro.*tokai
+Gastronomia©tamzarian«Gachas de sémola de maíz típicas de Italia.*polenta
+Gastronomia©tamzarian«Nombre comercial de la pulpa de coco desecada.*copra
+Gastronomia©tamzarian«Pimiento rojo seco y pulverizado.*pimenton
+Gastronomia©tamzarian«Variedad de menta usada en infusiones.*poleo
+Gastronomia©TeLaRaNhA«Comida que escasea...*bien se saborea
+Gastronomia©TeLaRaNhA«Del mar el salmón y de la tierra...*el jamon
+Gastronomia©Tethor«¿En qué población de Cataluña se encuentra el famoso restaurante La Fonda Europa (Guía Michelin r00lz XD)?*granollers
+Gastronomia©Tethor«Pueblo famoso por sus melones.*villaconejos
+Gastronomia©Tethor«Si estás degustando un maravilloso marmitako es porque probablemente te encuentras, ¿en dónde?*pais vasco
+Gastronomia©tjmm.com«¿Cómo se llama ese colador metálico en forma de cono, ideal para hacer una buena salsa de tomate, por ejemplo?*chino
+Gastronomia©tjmm.com«¿Con la aleta de qué pez se hace una sopa?*tiburon
+Gastronomia©tjmm.com«¿Con los frutos de qué árbol se elabora el chocolate?*cacao
+Gastronomia©tjmm.com«¿Con qué otro nombre se conoce a la batata?*boniato
+Gastronomia©tjmm.com«¿En qué lado se sitúan las copas de vino en la mesa?*derecho
+Gastronomia©tjmm.com«¿En qué tipo de restaurante puedes tomar de postre 'kulfi', un helado de leche reducida mucho tiempo al fuego?*indio
+Gastronomia©tjmm.com«¿Qué "alimento" inventó en 1869 el químico francés Hippolyte Mège-Mouriès?*margarina
+Gastronomia©tjmm.com«¿Qué cereales de Kellogg's tienen una rana por mascota?*smacks
+Gastronomia©tjmm.com«¿Qué conocido chef estaba a la cabeza del restaurante El Bulli?*ferran adria
+Gastronomia©tjmm.com«¿Qué es la malta usada, entre otras cosas, para elaborar cerveza?*cebada tostada
+Gastronomia©tjmm.com«¿Qué es la Pleurotus ostreatus (muy rica) que podemos comprar en cualquier supermercado (sección refrigerados)?*seta cultivada
+Gastronomia©tjmm.com«¿Qué fruta tiene más vitamina C?*kiwi
+Gastronomia©tjmm.com«¿Qué le falta al pan ácimo?*levadura
+Gastronomia©tjmm.com«¿Qué nombre recibe el mortero de metal?*almirez
+Gastronomia©tjmm.com«¿Qué otro nombre recibe el brécol, variedad de coliflor de color verde?*brocoli
+Gastronomia©tjmm.com«¿Qué provocó, adulterado, la mayor crisis alimentaria de la historia reciente de España?*aceite de colza
+Gastronomia©tjmm.com«¿Qué tipo de alimento es el "panir", originario de la India?*queso
+Gastronomia©tjmm.com«¿Qué tipo de azúcar tiene mayor valor dietético ya que al no estar refinada contiene algo de sales minerales?*azucar moreno
+Gastronomia©tjmm.com«¿Qué tipo de trigo es el usado en la elaboración de la pasta?*trigo duro
+Gastronomia©tjmm.com«A las semillas de qué planta se les llama, en algunas comarcas, "matalahúva"?*anis
+Gastronomia©tjmm.com«Aguardiente de cerezas que se elabora en varias regiones de Centroeuropa.*kirsch
+Gastronomia©tjmm.com«Aguardiente de graduación alcohólica muy alta obtenido por la destilación de vinos flojos y añejado en toneles de roble.*coñac
+Gastronomia©tjmm.com«Al plátano en Venezuela le llaman...*cambur
+Gastronomia©tjmm.com«Alimento con todo su jugo, sustancioso.*jugoso
+Gastronomia©tjmm.com«Alimento preparado de forma que quede inflado.*souffle
+Gastronomia©tjmm.com«Aliño picante japonés elaborado con la raíz de una planta de la familia del nabo y el repollo.*wasabi
+Gastronomia©tjmm.com«Almendras cubiertas con una capa de azúcar muy blanca y dura, típicas de la Navidad.*peladillas
+Gastronomia©tjmm.com«Aunque prácticamente todos lo contienen, sólo algunos vinos indican en la etiqueta que pueden contener...*sulfitos
+Gastronomia©tjmm.com«Bebida típica de Turquía.*raki
+Gastronomia©tjmm.com«Bizcocho italiano típico de Navidad.*panettone
+Gastronomia©tjmm.com«Cebollas tiernas a la brasa que se mojan en salsa, típico de Cataluña.*calçots
+Gastronomia©tjmm.com«Cocina india: ¿Cómo se llaman esas ricas tortas finas de pan sin levadura?*chapatis
+Gastronomia©tjmm.com«Cocina oriental: ¿Qué nombre recibe la pasta de soja fermentada?*miso
+Gastronomia©tjmm.com«Cocina oriental: Salsa de soja envejecida al menos dos años en recipientes de madera.*tamari
+Gastronomia©tjmm.com«Cocinero francés nacido en 1926, considerado uno de los más importantes del siglo XX.*paul bocuse
+Gastronomia©tjmm.com«Conocidísima marca de infusiones.*hornimans
+Gastronomia©tjmm.com«Crema espesa de alimentos, normalmente hortalizas, cocidos y triturados.*pure
+Gastronomia©tjmm.com«Crustáceo comestible parecido a la quisquilla pero de mayor tamaño.*carabinero
+Gastronomia©tjmm.com«Cuadraditos de pasta rellenos de carne o queso.*ravioli
+Gastronomia©tjmm.com«Cuidado con los alimentos que lleven el aditivo E-251 ya que se trata del compuesto químico...*nitrato sodico
+Gastronomia©tjmm.com«Dado o cubito de azúcar.*terron
+Gastronomia©tjmm.com«Despensa para alimentos, normalmente en forma de armario empotrado.*alacena
+Gastronomia©tjmm.com«Dieta de origen oriental basada en alimentos vegetales naturales a los que considera con energía yin o yang.*macrobiotica
+Gastronomia©tjmm.com«Dulce navideño en forma de tableta típico de Alicante.*turron
+Gastronomia©tjmm.com«Edulcorante popular en Canadá, obtenido por reducción de la savia de cierto árbol.*jarabe de arce
+Gastronomia©tjmm.com«El basmati es una variedad oriental de...*arroz
+Gastronomia©tjmm.com«El chalote es una especie de...*cebolla
+Gastronomia©tjmm.com«El más típico plato escocés, a base de harina de avena, muy energético.*porridge
+Gastronomia©tjmm.com«Empanadas circulares de harina de maíz riquíiiisimas que se hacen en Venezuela.*arepas
+Gastronomia©tjmm.com«En los restaurantes finos a los caracoles los llaman por su nombre en francés...*escargots
+Gastronomia©tjmm.com«Ensalada de patata, zanahoria, guisantes, huevo cocido... en trozos pequeños y servida con mayonesa.*ensaladilla rusa
+Gastronomia©tjmm.com«Es básicamente un café con leche y con chocolate, aunque también se le puede añadir canela, almendras...*mocachino
+Gastronomia©tjmm.com«Espacio situado delante de un café o bar para que los clientes puedan sentarse al aire libre.*terraza
+Gastronomia©tjmm.com«Especie de crepes de la cocina eslava.*blinis
+Gastronomia©tjmm.com«Especie de migas hechas con harina en vez de pan desmenuzado.*gachasmigas
+Gastronomia©tjmm.com«Este nombre designa en realidad a varias especies de plantas, parecidas, de sabor rústico ligeramente picante, que se ha puesto de moda usar en la cocina.*rucula
+Gastronomia©tjmm.com«Este postre es básicamente leche cuajada a la que se ha quitado el suero.*requeson
+Gastronomia©tjmm.com«Famoso queso de oveja de una zona de Cáceres. Es cremoso y se unta en pan.*torta del casar
+Gastronomia©tjmm.com«Fiesta anual de Múnich en la que básicamente se bebe cerveza y se comen salchichas.*oktoberfest
+Gastronomia©tjmm.com«Finos triángulos de harina de maíz que se pueden comer con queso fundido, salsas, etc.*nachos
+Gastronomia©tjmm.com«Fritada de huevo batido, en forma redonda o alargada, a la que se pueden añadir otros ingredientes.*tortilla
+Gastronomia©tjmm.com«Fritura rápida japonesa, en trozos no muy grandes, de mariscos y verduras, en ocasiones rebozados.*tempura
+Gastronomia©tjmm.com«Frutas de sartén hechas con porciones pequeñas de harina y huevo que después de fritas se bañan en miel.*pestiños
+Gastronomia©tjmm.com«Fruto seco tropical popularizado en España sobre el año 2000, con forma de canica y sabor a coco. Hablamos de la nuez de...*macadamia
+Gastronomia©tjmm.com«Guiso manchego basado en una gran torta de harina sin levadura que se añade troceada.*gazpacho manchego
+Gastronomia©tjmm.com«Ingrediente característico del borscht.*remolacha
+Gastronomia©tjmm.com«Jarra de loza o porcelana para hacer y servir el té.*tetera
+Gastronomia©tjmm.com«La flor de qué planta silvestre se puede usar como cuajo para hacer queso.*cardo
+Gastronomia©tjmm.com«La marca de helados más cara y elitista.*haagen dazs
+Gastronomia©tjmm.com«La palabra "mostaza" procede de uno de los ingredientes que se usaban en la Edad Media para preparar la mostaza de mesa. ¿Cuál?*mosto
+Gastronomia©tjmm.com«Las cualidades de los alimentos que se pueden percibir con los sentidos se denominan...*organolepticas
+Gastronomia©tjmm.com«Legumbre consumida desde hace años por los vegetarianos y que ahora está muy de moda.*soja
+Gastronomia©tjmm.com«Licor aperitivo compuesto de vino blanco, ajenjo y otras sustancias amargas y tónicas.*vermut
+Gastronomia©tjmm.com«Licor elaborado por maceración en alcohol de cortezas de naranja.*curasao
+Gastronomia©tjmm.com«Líquido que resulta de cocer en agua algunos alimentos.*caldo
+Gastronomia©tjmm.com«Localidad andaluza donde son muy típicos los molletes.*antequera
+Gastronomia©tjmm.com«Localidad madrileña famosa por sus aceitunas de mesa.*campo real
+Gastronomia©tjmm.com«Localidad murciana famosa por su arroz.*calasparra
+Gastronomia©tjmm.com«Localidad salmantina famosa por sus jamones.*guijuelo
+Gastronomia©tjmm.com«Los "marrons glasés" son...*castañas
+Gastronomia©tjmm.com«Los llamados brotes de soja no son de soja, son de una variedad de judía llamada...*mungo
+Gastronomia©tjmm.com«Masa de higos secos triturados compactada en forma de torta.*pan de higo
+Gastronomia©tjmm.com«Menestra de verduras a la que se añade un sofrito.*panache
+Gastronomia©tjmm.com«Mezcla de copos de cereales, frutas desecadas y frutos secos, que tomados con leche son un desayuno o merienda ideal.*muesli
+Gastronomia©tjmm.com«Mosto cocido, con consistencia de jarabe, al cual suele añadirse alguna fruta cocida.*arrope
+Gastronomia©tjmm.com«Nombre familiar de los cacahuetes pelados y fritos.*panchitos
+Gastronomia©tjmm.com«Nombre familiar de los granos de maíz tostados.*kikos
+Gastronomia©tjmm.com«Nombre genérico de naranjas, limones, pomelos...*citricos
+Gastronomia©tjmm.com«Nombre genérico que se da a la planta comestible cultivada en huerta.*hortaliza
+Gastronomia©tjmm.com«Nombre genérico que se da también a las bebidas alcohólicas de alta graduación.*espirituosas
+Gastronomia©tjmm.com«Nombre que se da al primer salmón de la temporada capturado en Asturias y por el que se suelen pagar miles de euros.*campanu
+Gastronomia©tjmm.com«Otra forma de llamar a las judías o alubias.*habichuelas
+Gastronomia©tjmm.com«Para manejar alimentos en sartenes de teflón nunca usaremos utensilios...*metalicos
+Gastronomia©tjmm.com«Pasta de almendras tostadas y caramelo.*guirlache
+Gastronomia©tjmm.com«Pasta hecha con semillas de sésamo, típica de Oriente Próximo.*tahina
+Gastronomia©tjmm.com«Pasta italiana con forma de cintas aplanadas (nombre españolizado).*tallarines
+Gastronomia©tjmm.com«Pecho de las aves, que está como dividido en dos.*pechuga
+Gastronomia©tjmm.com«Pequeñas bolas de masa de patata. Las preparadas se cocinan en 1 minuto (nombre españolizado).*ñoquis
+Gastronomia©tjmm.com«Pequeñas tortas de garbanzo machacado típicas de países de Oriente Próximo.*falafel
+Gastronomia©tjmm.com«Pequeño pastel cocido en un molde especial que le imprime un dibujo en forma de rejilla.*gofre
+Gastronomia©tjmm.com«Pez de la familia de los gádidos, semejante a la faneca, hocico puntiagudo, tres aletas dorsales y cola pequeña. Abunda en el Mediterráneo.*capellan
+Gastronomia©tjmm.com«Plato caldoso típico del País Vasco y Navarra a base de hortalizas, con predominio del puerro.*porrusalda
+Gastronomia©tjmm.com«Plato preparado con claras de huevo que le dan consistencia esponjosa.*mousse
+Gastronomia©tjmm.com«Plato típico alsaciano a base de col fermentada y aderezada con sal, pimienta, bayas de enebro...*chucrut
+Gastronomia©tjmm.com«Popular producto elaborado con los frutos del árbol del cacao.*chocolate
+Gastronomia©tjmm.com«Por su composición, representan un aporte completo de colorantes, aromatizantes, edulcorantes... :-) Son las...*chuches
+Gastronomia©tjmm.com«Porción de masa del pan que se guarda para fermentar la próxima hornada.*masa madre
+Gastronomia©tjmm.com«Postre compuesto de un flan, un trozo de helado, nata montada y piezas de fruta en almíbar.*pijama
+Gastronomia©tjmm.com«Postre de crema pastelera que se suele presentar cubierto de azúcar caramelizado, típico de Cataluña.*crema catalana
+Gastronomia©tjmm.com«Protuberancias carnosas de la cabeza de la merluza y el bacalao muy cotizadas (españolizado).*cocochas
+Gastronomia©tjmm.com«Puré de patatas con ajo y aceite, trozos de bacalao, en algunos sitios le añaden pimentón e incluso nueces. Típico manchego.*atascaburras
+Gastronomia©tjmm.com«Salsa roja muy picante con nombre de estado mexicano.*tabasco
+Gastronomia©tjmm.com«Sartén cóncava china ideal para saltear verduras.*wok
+Gastronomia©tjmm.com«Se dice del vino más fuerte y añejo que el común.*generoso
+Gastronomia©tjmm.com«Se elabora a partir de semillas de soja y tiene aspecto de queso fresco.*tofu
+Gastronomia©tjmm.com«Según la revista Restaurant, mejor restaurante del mundo entre 2006 y 2009.*el bulli
+Gastronomia©tjmm.com«Sinónimo de aderezar.*aliñar
+Gastronomia©tjmm.com«Sinónimo de aliñar.*aderezar
+Gastronomia©tjmm.com«Tarta de origen alemán, de bizcocho de chocolate borracho, crema y cerezas, recubierta de nata y virutas de chocolate.*selva negra
+Gastronomia©tjmm.com«Tienda dedicada a la venta de alimentos selectos.*delicatessen
+Gastronomia©tjmm.com«Tipo de brécol muy vistoso por su geometría fractal.*romanescu
+Gastronomia©tjmm.com«Tipo de pan más sano que el blanco ya que contiene el germen y el salvado del cereal.*integral
+Gastronomia©tjmm.com«Tipo de pan, crujiente, de forma aplastada y alargada.*chapata
+Gastronomia©tjmm.com«Trozo de fruta, especialmente melocotón, desecado.*orejon
+Gastronomia©tjmm.com«Variedad de aceituna para aceite frecuente en el centro de la Península.*cornicabra
+Gastronomia©tjmm.com«Variedad de lenteja más pequeña y más abultada.*pardina
+Gastronomia©tjmm.com«Variedad de tomate, muy pequeños y muy chic.*cherry
+Gastronomia©tjmm.com«Vasija pequeña, generalmente de loza, que suele (solía) emplearse para tomar chocolate.*jicara
+Gastronomia©tjmm.com«Vino italiano con burbujas.*lambrusco
+Gastronomia©tomasa«¿Cuál es el ingrediente principal del guacamole?*aguacate
+Gastronomia©Top_Gun«¿Cuál es la comida típica de Chile?*porotos
+Gastronomia©Truchi«¿Cuál es la palabra española para designar el 'plum-cake' inglés?*budin
+Gastronomia©Truchi«¿Cuántos huevos hacen falta como mínimo para hacer una mahonesa?*uno
+Gastronomia©Truchi«¿Qué postre típico de Semana Santa puedes hacer con pan, leche, azúcar, huevo y aceite?*torrijas
+Gastronomia©TRuNeRa«¿Quién es el responsable de los buenos caldos en los buenos restaurantes?*sumiller
+Gastronomia©VaKaMiLKa«¿Qué es el calimocho?*vino con coca-cola
+Gastronomia©VaKaMiLKa«Pan + tomate =...*pa amb tomaquet
+Gastronomia©Varios«¿De dónde es originaria la lasaña?*italia
+Gastronomia©Varios«¿Qué era el "garum" para los romanos?*salsa de pescado
+Gastronomia©vet«¿Dónde se cocina un asado?*horno
+Gastronomia©vet«Comida gallega típica de carnaval.*lacon con grelos
+Gastronomia©vet«Otro nombre de la mayonesa.*mahonesa
+Gastronomia©Vex«¿Cuántas personas en el mundo conocen la fórmula íntegra de la Coca-Cola?*dos
+Gastronomia©Vicky«¿Cómo come jamón un chino?*atakitos
+Gastronomia©Vicky«¿De qué estado de los Estados Unidos es originaria la sopa denominada "gumbos"?*luisiana
+Gastronomia©Vicky«Aguado, sin sabor.*aguachirri
+Gastronomia©Vicky«Almohadilla para coger las cosas calientes.*agarrador
+Gastronomia©Vicky«Añadir agua fría a un preparado líquido en ebullición para que deje de hervir y facilitar las operaciones de espumar, desengrasar y clarificar.*asustar
+Gastronomia©Vicky«Aperitivo elaborado con ingredientes diversos (aceituna deshuesada, pepinillos, anchoas, pimientos...) sujetos con un palillo.*banderilla
+Gastronomia©Vicky«Aplícase al vino que presenta un sabor, agradable, a uva madura.*afrutado
+Gastronomia©Vicky«Árbol originario de América, cultivado por su fruto, de pulpa espesa y perfumada.*aguacate
+Gastronomia©Vicky«Arbusto espinoso mediterráneo cuyos botones florales se comen confitados en vinagre o en salmuera.*alcaparra
+Gastronomia©Vicky«Bebida alcohólica que por destilación se obtiene del vino o de otras sustancias.*aguardiente
+Gastronomia©Vicky«Bebida refrescante no alcohólica, hecha principalmente a base de leche y frutas.*batido
+Gastronomia©Vicky«Conjunto de ingredientes con que se sazonan las ensaladas u otras comidas.*aderezo
+Gastronomia©Vicky«Conjunto de las entrañas comestibles de un animal.*asadura
+Gastronomia©Vicky«Dar limpidez a los vinos con claras de huevo.*ahuevar
+Gastronomia©Vicky«Dar un sabor ácido a los alimentos.*acidular
+Gastronomia©Vicky«Definiciones: Inclinado a las golosinas, a los manjares dulces.*goloso
+Gastronomia©Vicky«Es la acción de mezclar varios ingredientes hasta obtener un producto homogéneo.*amasar
+Gastronomia©Vicky«Especie de melocotón o albaricoque de carne blanca, ligeramente ácida, adherida al hueso.*alberchigo
+Gastronomia©Vicky«Falsear un alimento, bien añadiendo otra sustancia o quitándola.*adulterar
+Gastronomia©Vicky«Freír, asar o tostar un manjar hasta que tome sabor a quemado.*achicharrar
+Gastronomia©Vicky«Fruta muy terrorífica.*coco
+Gastronomia©Vicky«Hoja delgada de pasta de harina sin levadura, azúcar y alguna esencia, a la que se da forma convexa de canuto.*barquillo
+Gastronomia©Vicky«Licor de ajenjo, de color verde claro, del 45 al 90 por ciento de alcohol.*absenta
+Gastronomia©Vicky«Lista de platos que se acaban de terminar en un restaurante.*menu
+Gastronomia©Vicky«Pan de maíz amasado con huevos y manteca.*arepa
+Gastronomia©Vicky«Pasta azucarada esponjosa preparada con clara de huevo batida y zumo de limón.*azucarillo
+Gastronomia©Vicky«Recipiente en forma de pirámide invertida, para amasar el pan.*artesa
+Gastronomia©Vicky«Se aplica a los vinos que tienen un sabor algo azucarado, por haberse mezclado con vino dulce o arrope de mosto.*abocados
+Gastronomia©Vicky«Tocino magro de cerdo ahumado.*bacon
+Gastronomia©Vivi«¿Cómo se llama a la recolección de las uvas?*vendimia
+Gastronomia©Vivi«¿Con qué se glasea un alimento?*azucar derretido
+Gastronomia©Vivi«¿Cuál es el fruto del mandarino?*mandarina
+Gastronomia©Vivi«¿De dónde es originario el queso parmesano?*italia
+Gastronomia©Vivi«¿Por qué nombre se conoce a la merluza joven?*pescadilla
+Gastronomia©Vivi«¿Qué es el chacolí?*tipo de vino
+Gastronomia©Vivi«¿Qué es el vodka?*aguardiente de cereales
+Gastronomia©Vivi«¿Qué es la ginebra?*bebida alcoholica
+Gastronomia©Vivi«¿Qué es la vinagreta?*salsa
+Gastronomia©Vivi«¿Qué licor se obtiene de la endrina?*pacharan
+Gastronomia©Vivi«¿Qué municipio francés es famoso por su queso?*camembert
+Gastronomia©Vivi«¿Qué se asa en la olla de barro llamada calboche?*castañas
+Gastronomia©Vivi«Sinónimo de aprendiz de cocina.*galopin de cocina
+Gastronomia©Vivian«¿A qué llaman los chefs "la especia magistral"?*pimienta
+Gastronomia©Vivian«¿Cómo se llama el café con leche más popular de Italia?*capuccino
+Gastronomia©Vivian«¿Cómo se llama el plato típico de Galicia compuesto por judías, lacón, ternera, patatas y grelos?*caldo gallego
+Gastronomia©Vivian«¿Cómo se llaman las coles pequeñitas que se usan en cocina?*coles de bruselas
+Gastronomia©Vivian«¿Cómo se llamó al coñac procedente de las viñas jerezanas?*jeriñac
+Gastronomia©Vivian«¿Con qué dos ingredientes se empana un filete?*huevo y pan rallado
+Gastronomia©Vivian«¿Contienen los huevos hidratos de carbono?*no
+Gastronomia©Vivian«¿Cuál de las siguientes frutas tiene más calorías: ciruela, cereza, melocotón o naranja?*cereza
+Gastronomia©Vivian«¿Cuál es el cóctel más popular en los Estados Unidos?*martini
+Gastronomia©Vivian«¿Cuál es el grupo alimentario más consumido en la dieta media de un español?*lacteos
+Gastronomia©Vivian«¿Cuál es el marisco característico del Mar Menor?*langostino
+Gastronomia©Vivian«¿Cuál es la planta más utilizada como aderezo?*perejil
+Gastronomia©Vivian«¿Cuáles son las tres hortalizas básicas del gazpacho?*tomate pepino y pimiento
+Gastronomia©Vivian«¿De qué país son típicos los raviolis?*italia
+Gastronomia©Vivian«¿En qué ciudad y país tiene su origen el brandy?*cognac francia
+Gastronomia©Vivian«¿En qué país se bebió vodka por primera vez?*rusia
+Gastronomia©Vivian«¿Qué alcaloide de la semilla del café es utilizado en la fabricación de la Coca-Cola?*cafeina
+Gastronomia©Vivian«¿Qué añaden los panaderos a la masa para que sea esponjosa?*levadura
+Gastronomia©Vivian«¿Qué bebida alcohólica se acompaña de sal y limón?*tequila
+Gastronomia©Vivian«¿Qué bebida es el Baileys?*crema de whisky
+Gastronomia©Vivian«¿Qué bebida no alcohólica se fabrica con una fórmula secreta cuidadosamente guardada desde 1886?*coca cola
+Gastronomia©Vivian«¿Qué estarías comiendo si degustaras un camembert?*queso
+Gastronomia©Vivian«¿Qué hongo se utiliza para hacer pan?*levadura
+Gastronomia©Vivian«¿Qué nombre recibe la mezcla de whisky y té?*tegüi
+Gastronomia©Vivian«¿Qué plato puedes elaborar si sólo tienes pan, aceite, agua y sal?*migas
+Gastronomia©Vivian«¿Qué refresco se extrae del zumo de granada?*granadina
+Gastronomia©Vivian«¿Qué restaurante de París está en el número 3 de la Rue Royal?*maxim's
+Gastronomia©Vivian«¿Qué salsa forman la mezcla de huevo, aceite, sal y vinagre o limón?*mahonesa
+Gastronomia©Vivian«¿Qué tiene dentro el maíz que le hace hincharse en palomitas?*agua
+Gastronomia©Vivian«¿Qué vegetal es rojo por fuera, blanco por dentro y de sabor picante?*rabano
+Gastronomia©Vivian«¿Quién inventó el desayuno perfecto (copos de maíz tostados)?*john kellogg
+Gastronomia©Vivian«Bebida típica andaluza a base de verduras frescas.*gazpacho
+Gastronomia©Vivian«Comida típica de León.*cocido maragato
+Gastronomia©Vivian«Continúa el dicho: Los pimientos de Padrón...*unos pican y otros no
+Gastronomia©Vivian«Ingredientes básicos de las papas arrugás, típicas de Canarias.*patatas y sal gorda
+Gastronomia©Vivian«Mineral blanco muy usado en la cocina.*sal
+Gastronomia©Vivian«Nombre que se da al chocolate con menta.*after eight
+Gastronomia©Vivian«Repostería típica de Mallorca.*ensaimada
+Gastronomia©voltaire«¿Por qué plato fue célebre el restaurador segoviano Cándido López "Cándido"?*cochinillo
+Gastronomia©Vonda«¿Cómo se llama la típica bebida valenciana hecha de chufas?*horchata
+Gastronomia©WILDone«Si en Portugal pides un 'galao' en un bar, te pondrán un...*cafe con leche
+Gastronomia©willow«¿Qué fruto seco se utiliza en la fabricación del mazapán?*almendra
+Gastronomia©Xavix«¿Qué dedo ponen los chinos entre los palillos para comer?*indice
+Gastronomia©Xavix«Bebida (medio prohibida) parecida a la cazalla.*absenta
+Gastronomia©xerop«Plato típico de Asturias.*fabada
+Gastronomia©Xove«¿Cuál es la variedad de manzana más difundida en Asturias?*reineta
+Gastronomia©Xove«¿De qué localidad son originarias las bodegas de Pedro Domecq?*jerez de la frontera
+Gastronomia©Xove«¿De qué país sudamericano actual es originario el tomate?*peru
+Gastronomia©Xove«¿Por qué famosa bebida es conocida la ciudad de Pilsen en Chequia?*cerveza
+Gastronomia©Xove«¿Qué valle de Suiza es famoso por su quesos?*emmental
+Gastronomia©Xove«Bebida típica de Argentina, Paraguay y Uruguay.*mate
+Gastronomia©Yasmeen«¿Cómo se llama el gazpacho extremeño?*ajo blanco
+Gastronomia©Yasmeen«¿De dónde es el agua mineral Lanjarón?*sierra nevada
+Gastronomia©Yasmeen«¿De dónde es la denominación de origen Rivera del Guadiana?*extremadura
+Gastronomia©Yasmeen«¿De dónde es la sidra "famosa en el mundo entero"?*villaviciosa
+Gastronomia©Yasmeen«¿Qué es la patatera?*chorizo
+Gastronomia©Yasmeen«¿Qué especia se suele poner en la bechamel?*nuez moscada
+Gastronomia©Yasmeen«¿Qué nombre recibe el picadillo que forma masas de carnes, pescados o verduras, que sirve para rellenar?*farsa
+Gastronomia©Yasmeen«A las golosinas también se les llama...*chuches
+Gastronomia©Yasmeen«Bolas que se forman en las sopas, papillas y salsas que no han sido bien revueltas.*grumos
+Gastronomia©Yasmeen«Corteza hueca de hojaldre con tapa para rellenar.*volovan
+Gastronomia©Yasmeen«Cuajar un manjar en agua hirviendo.*escalfar
+Gastronomia©Yasmeen«Efectuar pequeños cortes sobre los lomos de un pescado para facilitar su cocción.*cincelar
+Gastronomia©Yasmeen«Empapar con almíbar, licor o vino un postre.*emborrachar
+Gastronomia©Yasmeen«Envolver en harina para freír o rehogar.*enharinar
+Gastronomia©Yasmeen«Envolver en lonchas de tocino un ave o carne para asar.*lardear
+Gastronomia©Yasmeen«Freír un alimento hasta dejarlo de un bonito color.*dorar
+Gastronomia©Yasmeen«Género cocinado, colocado dentro de una gelatina dorada.*aspic
+Gastronomia©Yasmeen«Guiso muy tapado, en el que todos los componentes son crudos y se cocinan a la vez.*estofado
+Gastronomia©Yasmeen«Ligar o engordar una salsa.*trabar
+Gastronomia©Yasmeen«Los langostinos más famosos son de...*sanlucar de barrameda
+Gastronomia©Yasmeen«Machacar de forma imperfecta un condimento.*majar
+Gastronomia©Yasmeen«Meter un alimento al horno para abrillantarlo.*glasear
+Gastronomia©Yasmeen«Obleas de pasta muy fina.*brick
+Gastronomia©Yasmeen«Pasar por llama sin humo un género.*flamear
+Gastronomia©Yasmeen«Plato que consiste en bacalao, patatas paja y huevo.*bacalao dorado
+Gastronomia©Yasmeen«Postre típico de Madrid.*torrijas
+Gastronomia©Yasmeen«Postre típico de Olivenza.*tecula mecula
+Gastronomia©Yasmeen«Quitar la piel a un animal.*desollar
+Gastronomia©Yasmeen«Someter los alimentos a una breve cocción para ablandarlos o mondarlos.*escaldar
+Gastronomia©Yasmeen«Traspasar la carne con un agujón especial para meter en los cortes jamón o tocino.*mechar
+Gastronomia©Yasmeen«Vino de sabor ligeramente dulce.*abocado
+Gastronomia©Zytox«¿De dónde (país actual) se trajo el cacao a Europa?*mexico
