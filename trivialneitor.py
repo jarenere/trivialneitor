@@ -73,14 +73,14 @@ class Question:
     def __init__(self, str):
         l = str.split('©')
         if len (l) != 2: raise Exception('Wrong question format, two or more ©') 
-        self.theme = l[0]
+        self.theme = l[0].lower()
         l = l[1].split('«')
         if len (l) != 2: raise Exception('Wrong question format, two or more «')
         self.autor= l[0]
         l = l[1].split('*')
         if len (l) != 2: raise Exception('Wrong question format, two or more *')
         self.question = l[0]
-        self.answerd = l[1].replace('\n','')
+        self.answerd = l[1].replace('\n','').replace('\r','')
 
 def setup(bot):
     list_questions = []
@@ -112,7 +112,8 @@ class TrivialManager:
         # game's score
         self.score ={}
         # list with questions
-        self.questions= questions
+        self.ddbb_questions= questions
+        # self.questions = None
         # answerd of the current question
         self.answerd = None
 
@@ -135,7 +136,6 @@ class TrivialManager:
         self.lock.release()
 
     def check_answerd(self,bot,trigger):
-
         self.lock.acquire()
         if trigger.bytes.lower() == self.answerd.answerd.lower():
             self.t.cancel()
@@ -165,9 +165,20 @@ class TrivialManager:
         """Start trivia game. Usage: .trivial start
         In a near Future with option to select topic"""
         if self.running_game == False:
-            if len(self.questions)==0:
-                bot.say("no se hay ninguna pregunta cargada")
+            if len(self.ddbb_questions)==0:
+                bot.say("no hay ninguna pregunta cargada")
             else:
+                myset = set(trigger.bytes.lower().split()[2:])
+                if len(myset) !=0:
+                    themes = self._themes()
+                    for i in myset:
+                        if i not in themes:
+                            bot.say("Theme {0} not found".format(i))
+                            return
+                    l =  [i for i in self.ddbb_questions if i.theme in myset]
+                    self.questions = l
+                else:
+                    self.questions=self.ddbb_questions
                 self.send_question(bot)
                 self.running_game = True
         else :
@@ -187,6 +198,15 @@ class TrivialManager:
     def _trivial_score(self,bot, trigger):
         """Show a score. Usage: .trivial score"""
         bot.say(str(self.score))
+
+    def _themes(self):
+        """Retur list of themes"""
+        return set([i.theme for i in self.ddbb_questions])
+
+    def _trivial_themes(self,bot, trigger):
+        """Show topics available in the questions. Usage: .trivial themes"""
+        # cache decorator or even easier, upload theme ready to start
+        bot.say(str(self._themes()))
 
     def _trivial_help(self, bot, trigger):
         """Get help on any of the trivia game commands. Usage: .trivial help <command>"""
