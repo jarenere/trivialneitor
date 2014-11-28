@@ -172,8 +172,7 @@ class TrivialManager:
     def argumentParser(self,bot,trigger):
         """split argument parser and show info/error"""
         parser = argparse.ArgumentParser(".trivial start",formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-
-        parser.add_argument('-t','--theme',nargs='*',help='execute trivial only with theme selected')
+        parser.add_argument('-t','--theme',nargs='*',help='execute trivial only with theme selected',default=[])
         parser.add_argument('-n','--number-question',nargs='?',type=int,const='30', default='30',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
         parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='30', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
         
@@ -205,7 +204,7 @@ class TrivialManager:
             for i in myset:
                 if i not in themes:
                     bot.say("Theme {0} not found".format(i))
-                    raise Exception
+                    raise Exception 
             l =  [i for i in self.ddbb_questions if i.theme in myset]
             self.questions = l
         else:
@@ -230,7 +229,7 @@ class TrivialManager:
                 try:
                     args = self.argumentParser(bot,trigger)
                     self.select_questions(bot,args.theme)
-                except:
+                except Exception as e:
                     return
                 self.number_question = args.number_question # gnumber of questions in the game
                 self.points_to_win = args.points_to_win
