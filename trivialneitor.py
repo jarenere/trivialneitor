@@ -8,6 +8,7 @@ import threading
 import os.path
 import sys  
 import argparse
+from unidecode import unidecode
 
 reload(sys)  
 sys.setdefaultencoding('utf-8')
@@ -150,7 +151,7 @@ class TrivialManager:
 
     def check_answerd(self,bot,trigger):
         self.lock.acquire()
-        if trigger.bytes.lower() == self.answerd.answerd.lower():
+        if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
             self.t.cancel()
             bot.say("minipunto para " + trigger.nick)
             self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
