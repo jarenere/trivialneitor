@@ -7,6 +7,7 @@ from functools import wraps
 import threading
 import os.path
 import sys  
+import argparse
 
 reload(sys)  
 sys.setdefaultencoding('utf-8')
@@ -118,11 +119,23 @@ class TrivialManager:
         self.answerd = None
 
     def send_question(self,bot):
-        question = random.choice(self.questions)
-        self.answerd = Answerd(question.answerd)
-        bot.say(question.question)
-        self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
-        self.t.start()
+        if self.i_question <= self.number_question:
+            question = random.choice(self.questions)
+            self.answerd = Answerd(question.answerd)
+            bot.say("{0}/{1}|{2}".format(self.i_question,self.number_question,question.question))
+            self.i_question += 1
+            self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
+            self.t.start()
+        else:
+            #finish game
+            self.endgame(bot)
+
+    def endgame(self,bot):
+        """stop game and reset score"""
+        bot.say("Endgame, score:")
+        bot.say(str(self.score))
+        self.score={}
+        self.running_game=False
 
     def send_pista(self,bot):
         self.lock.acquire()
@@ -141,6 +154,9 @@ class TrivialManager:
             self.t.cancel()
             bot.say("minipunto para " + trigger.nick)
             self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
+            for name, score in self.score.iteritems():
+                if score >= self.points_to_win:
+                    self.endgame(bot)
             self.send_question(bot)
         self.lock.release()
 
@@ -151,6 +167,48 @@ class TrivialManager:
             line = line.strip()
             if line:
                 bot.reply(line)
+
+    def argumentParser(self,bot,trigger):
+        """split argument parser and show info/error"""
+        parser = argparse.ArgumentParser(".trivial start",formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+
+        parser.add_argument('-t','--theme',nargs='*',help='execute trivial only with theme selected')
+        parser.add_argument('-n','--number-question',nargs='?',type=int,const='30', default='30',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
+        parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='30', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
+        
+        #disable stdout
+        f = open(os.devnull, 'w')
+        stderr_aux = sys.stderr
+        sys.stderr = f
+        try:
+            args = parser.parse_args(trigger.bytes.lower().split()[2:])   
+        except:
+            if trigger.bytes.lower().split()[2:] ==['-h']:
+                for line in parser.format_help().split('\n'):
+                    bot.say(line)
+            else:
+                for line in parser.format_usage().split('\n'):
+                     bot.say(line)
+            #enable stderr
+            sys.stderr = stderr_aux
+            raise
+        #enable stderr
+        sys.stderr = stderr_aux
+        return args
+
+    def select_questions(self,bot,themes):
+        """Select questions by theme"""
+        myset = set(themes)
+        if len(myset) !=0:
+            themes = self._themes()
+            for i in myset:
+                if i not in themes:
+                    bot.say("Theme {0} not found".format(i))
+                    raise Exception
+            l =  [i for i in self.ddbb_questions if i.theme in myset]
+            self.questions = l
+        else:
+            self.questions=self.ddbb_questions
 
     def manage_trivial(self, bot, trigger):
         """Manage trivial feeds. Usage: .trivial <command>"""
@@ -163,22 +221,19 @@ class TrivialManager:
 
     def _trivial_start(self,bot,trigger):
         """Start trivia game. Usage: .trivial start
-        In a near Future with option to select topic"""
+        to see more options .trivial start -h"""
         if self.running_game == False:
             if len(self.ddbb_questions)==0:
                 bot.say("no hay ninguna pregunta cargada")
             else:
-                myset = set(trigger.bytes.lower().split()[2:])
-                if len(myset) !=0:
-                    themes = self._themes()
-                    for i in myset:
-                        if i not in themes:
-                            bot.say("Theme {0} not found".format(i))
-                            return
-                    l =  [i for i in self.ddbb_questions if i.theme in myset]
-                    self.questions = l
-                else:
-                    self.questions=self.ddbb_questions
+                try:
+                    args = self.argumentParser(bot,trigger)
+                    self.select_questions(bot,args.theme)
+                except:
+                    return
+                self.number_question = args.number_question # gnumber of questions in the game
+                self.points_to_win = args.points_to_win
+                self.i_question = 1 # number ot question
                 self.send_question(bot)
                 self.running_game = True
         else :
