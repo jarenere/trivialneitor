@@ -71,6 +71,27 @@ class Answerd:
         else:
             return False
 
+class Team:
+    count = 0
+    def __init__(self, players):
+        self.players=players
+        self.score=0
+        self.__class__.count += 1
+    def __str__(self):
+        return "Team{0} ,players: {1},score: {2}".format(self.count,self.players,self.score)
+    def __repr__(self):
+        return "Team{0} ,players: {1},score: {2}".format(self.count,self.players,self.score)
+    def search_score(self,player):
+        #search user and increment in 1 if user exist and return True else False
+        if player in self.players:
+            self.score = self.score + 1
+            return True
+        else:
+            return False
+    def team(self):
+        return  "Team{0}".format(self.count)
+
+
 class Question:
     def __init__(self, str):
         l = str.split('©')
@@ -133,7 +154,10 @@ class TrivialManager:
 
     def _score(self):
         """return a readable score"""
-        return str(self.score)
+        text = ""
+        for team in self.teams:
+            text= text + str(team)+"\n"
+        return text+"players: "+str(self.score)
 
     def endgame(self,bot):
         """stop game and reset score"""
@@ -162,12 +186,23 @@ class TrivialManager:
         self.lock.acquire()
         if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
             self.t.cancel()
-            bot.say("minipunto para " + trigger.nick)
-            self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
+            if len (self.teams)>0:
+                # game with teams
+                for team in self.teams:
+                    if team.search_score(trigger.nick):
+                        bot.say("minipunto para el equipo" + team.team())
+            else:
+                bot.say("minipunto para " + trigger.nick)
+                self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
             for name, score in self.score.iteritems():
                 if score >= self.points_to_win:
                     self.endgame(bot)
-            self.send_question(bot)
+            for team in self.teams:
+                if team.score>=self.points_to_win:
+                    self.endgame(bot)
+            if self.running_game:
+                # game not finished
+                self.send_question(bot)
         self.lock.release()
 
 
@@ -184,6 +219,7 @@ class TrivialManager:
         parser.add_argument('-t','--theme',nargs='*',help='execute trivial only with theme selected',default=[])
         parser.add_argument('-n','--number-question',nargs='?',type=int,const='30', default='30',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
         parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='30', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
+        parser.add_argument("-team",nargs ='*',action='append', default=[], help='trivial with teams, example -team user1 user2 -team user3')
         
         #disable stdout
         f = open(os.devnull, 'w')
@@ -219,6 +255,23 @@ class TrivialManager:
         else:
             self.questions=self.ddbb_questions
 
+    def select_teams(self,bot,teams):
+        self.teams = []
+        list_users = []
+        for channel in bot.channels:
+            for i in bot.privileges[channel]:
+                list_users.append(i)
+        for team in teams:
+            for user in team:
+                if  user not in list_users:
+                    bot.say("User {0} not found".format(user))
+                    raise Exception ("error in team")
+        for team in teams:
+            # create list of teams
+            if len(team)>0:
+                self.teams.append(Team(team))
+
+
     def manage_trivial(self, bot, trigger):
         """Manage trivial feeds. Usage: .trivial <command>"""
         text = trigger.group().split()
@@ -238,6 +291,7 @@ class TrivialManager:
                 try:
                     args = self.argumentParser(bot,trigger)
                     self.select_questions(bot,args.theme)
+                    self.select_teams(bot,args.team)
                 except Exception as e:
                     return
                 self.number_question = args.number_question # gnumber of questions in the game
