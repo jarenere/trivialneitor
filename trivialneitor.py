@@ -131,10 +131,19 @@ class TrivialManager:
             #finish game
             self.endgame(bot)
 
+    def _score(self):
+        """return a readable score"""
+        return str(self.score)
+
     def endgame(self,bot):
         """stop game and reset score"""
         bot.say("Endgame, score:")
-        bot.say(str(self.score))
+        bot.say(self._score())
+        # check if exist eol_manager
+        if bot.memory.has_key('eol_manager'):
+            # check if method exist
+            if post in dir(bot.memory['eol_manager']):
+                bot.memory['eol_manager'].post("Puntuacion trivial:\n{0}\npowered by nu_kru and Zokormazo".format(self._score()))
         self.score={}
         self.running_game=False
 
@@ -252,7 +261,7 @@ class TrivialManager:
 
     def _trivial_score(self,bot, trigger):
         """Show a score. Usage: .trivial score"""
-        bot.say(str(self.score))
+        bot.say(self._score())
 
     def _themes(self):
         """Retur list of themes"""
