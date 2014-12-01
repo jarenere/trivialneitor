@@ -76,11 +76,12 @@ class Team:
     def __init__(self, players):
         self.players=players
         self.score=0
+        self.number_team = self.__class__.count
         self.__class__.count += 1
     def __str__(self):
-        return "Team{0} ,players: {1},score: {2}".format(self.count,self.players,self.score)
+        return "Team{0} ,players: {1},score: {2}".format(self.number_team,self.players,self.score)
     def __repr__(self):
-        return "Team{0} ,players: {1},score: {2}".format(self.count,self.players,self.score)
+        return "Team{0} ,players: {1},score: {2}".format(self.number_team,self.players,self.score)
     def search_score(self,player):
         #search user and increment in 1 if user exist and return True else False
         if player in self.players:
@@ -89,7 +90,7 @@ class Team:
         else:
             return False
     def team(self):
-        return  "Team{0}".format(self.count)
+        return  "Team{0}".format(self.number_team)
 
 
 class Question:
