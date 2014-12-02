@@ -156,7 +156,7 @@ class TrivialManager:
         """return a readable score"""
         text = ""
         for team in self.teams:
-            text= text + str(team)+" || "
+            text = text + str(team)+" || "
         for i, [name, score] in enumerate(self.score.iteritems()):
             if i == 0:
                 text = text + "Players: "
@@ -168,7 +168,7 @@ class TrivialManager:
         for i, member in enumerate(self.teams):
             if i == 0:
                 text = "Teams:\n"
-            text = "[list]" + str(member) + "[/list]\n"
+            text = text + "[list]" + str(member) + "[/list]\n"
         for i, [name, score] in enumerate(self.score.iteritems()):
             if i == 0:
                 text = text + "Players:\n"
