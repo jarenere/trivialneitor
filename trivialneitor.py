@@ -225,6 +225,8 @@ class TrivialManager:
         #disable stdout
         f = open(os.devnull, 'w')
         stderr_aux = sys.stderr
+        stdout_aux = sys.stdout
+        sys.stdout = f
         sys.stderr = f
         try:
             args = parser.parse_args(trigger.bytes.lower().split()[2:])   
@@ -240,6 +242,7 @@ class TrivialManager:
             raise
         #enable stderr
         sys.stderr = stderr_aux
+        sys.stdout = stdout_aux
         return args
 
     def select_questions(self,bot,themes):
