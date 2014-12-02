@@ -167,7 +167,7 @@ class TrivialManager:
         text = "Puntuación trivial:\n"
         for i, member in enumerate(self.teams):
             if i == 0:
-                text = "Teams:\n"
+                text = text + "Teams:\n"
             text = text + "[list]" + str(member) + "[/list]\n"
         for i, [name, score] in enumerate(self.score.iteritems()):
             if i == 0:
@@ -186,8 +186,6 @@ class TrivialManager:
             # check if method exist
             if "post" in dir(bot.memory['eol_manager']):
                 bot.memory['eol_manager'].post(self._score_eol())
-        self.score={}
-        self.teams=[]
         self.running_game=False
 
     def send_pista(self,bot):
@@ -203,6 +201,9 @@ class TrivialManager:
 
     def check_answerd(self,bot,trigger):
         self.lock.acquire()
+        if self.running_game():
+            self.lock.release()
+            return
         if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
             self.t.cancel()
             check=False
@@ -317,6 +318,8 @@ class TrivialManager:
                     self.select_teams(bot,args.team)
                 except Exception as e:
                     return
+                self.score={}
+                self.teams=[]
                 self.number_question = args.number_question # gnumber of questions in the game
                 self.points_to_win = args.points_to_win
                 self.i_question = 1 # number ot question
