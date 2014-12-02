@@ -218,8 +218,8 @@ class TrivialManager:
         """split argument parser and show info/error"""
         parser = argparse.ArgumentParser(".trivial start",formatter_class=argparse.ArgumentDefaultsHelpFormatter)
         parser.add_argument('-t','--theme',nargs='*',help='execute trivial only with theme selected',default=[])
-        parser.add_argument('-n','--number-question',nargs='?',type=int,const='30', default='30',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
-        parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='30', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
+        parser.add_argument('-n','--number-question',nargs='?',type=int,const='15', default='15',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
+        parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='0', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
         parser.add_argument("-team",nargs ='*',action='append', default=[], help='trivial with teams, example -team user1 user2 -team user3')
         
         #disable stdout
