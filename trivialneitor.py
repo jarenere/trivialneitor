@@ -184,7 +184,7 @@ class TrivialManager:
         # check if exist eol_manager
         if bot.memory.has_key('eol_manager'):
             # check if method exist
-            if post in dir(bot.memory['eol_manager']):
+            if "post" in dir(bot.memory['eol_manager']):
                 bot.memory['eol_manager'].post(self._score_eol)
         self.score={}
         self.teams=[]
@@ -252,7 +252,7 @@ class TrivialManager:
         except:
             if trigger.bytes.lower().split()[2:] ==['-h']:
                 for line in parser.format_help().split('\n'):
-                    bot.say(line)
+                    bot.notice(line,recipient=trigger.nick)
             else:
                 for line in parser.format_usage().split('\n'):
                      bot.say(line)
