@@ -72,16 +72,16 @@ class Answerd:
             return False
 
 class Team:
-    count = 0
+    count = 1
     def __init__(self, players):
         self.players=players
         self.score=0
         self.number_team = self.__class__.count
         self.__class__.count += 1
-    def __str__(self):
-        return "Team{0} ,players: {1},score: {2}".format(self.number_team,self.players,self.score)
+    def __str__(self):    
+        return "Team{0}: players: {1}. Score: {2}".format(str(self.number_team),', '.join(self.players),self.score)
     def __repr__(self):
-        return "Team{0} ,players: {1},score: {2}".format(self.number_team,self.players,self.score)
+        return "Team{0}: players: {1}. Score: {2}".format(str(self.number_team),', '.join(self.players),self.score)
     def search_score(self,player):
         #search user and increment in 1 if user exist and return True else False
         if player in self.players:
@@ -91,7 +91,6 @@ class Team:
             return False
     def team(self):
         return  "Team{0}".format(self.number_team)
-
 
 class Question:
     def __init__(self, str):
@@ -157,8 +156,26 @@ class TrivialManager:
         """return a readable score"""
         text = ""
         for team in self.teams:
-            text= text + str(team)+"\n"
-        return text+"players: "+str(self.score)
+            text= text + str(team)+" || "
+        for i, [name, score] in enumerate(self.score.iteritems()):
+            if i == 0:
+                text = text + "Players: "
+            text = text + str(name) + ": " + str(score) + " || "
+        return text
+
+    def _score_eol(self):
+        text = "Puntuación trivial:\n"
+        for i, member in enumerate(self.teams):
+            if i == 0:
+                text = "Teams:\n"
+            text = "[list]" + str(member) + "[/list]\n"
+        for i, [name, score] in enumerate(self.score.iteritems()):
+            if i == 0:
+                text = text + "Players:\n"
+            text = text +"[list]" + str(name) + ": " + str(score) +"[/list]\n"
+        text = text + "[size=70]powered by nu_kru and Zokormazo[/size]"
+        return text
+
 
     def endgame(self,bot):
         """stop game and reset score"""
@@ -168,8 +185,9 @@ class TrivialManager:
         if bot.memory.has_key('eol_manager'):
             # check if method exist
             if post in dir(bot.memory['eol_manager']):
-                bot.memory['eol_manager'].post("Puntuacion trivial:\n{0}\npowered by nu_kru and Zokormazo".format(self._score()))
+                bot.memory['eol_manager'].post(self._score_eol)
         self.score={}
+        self.teams=[]
         self.running_game=False
 
     def send_pista(self,bot):
@@ -187,19 +205,20 @@ class TrivialManager:
         self.lock.acquire()
         if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
             self.t.cancel()
-            if len (self.teams)>0:
-                # game with teams
-                for team in self.teams:
-                    if team.search_score(trigger.nick):
-                        bot.say("minipunto para el equipo" + team.team())
-            else:
+            check=False
+            for team in self.teams:
+                if team.search_score(trigger.nick):
+                    bot.say("minipunto para el equipo" + team.team())
+                    check=True
+            if not check:
+                # user does not belong to any team
                 bot.say("minipunto para " + trigger.nick)
-                self.score[trigger.nick]= self.score.get(trigger.nick,0)+1
+                self.score[str(trigger.nick)]= self.score.get(str(trigger.nick),0)+1
             for name, score in self.score.iteritems():
-                if score >= self.points_to_win:
+                if score >= self.points_to_win and self.points_to_win!=0:
                     self.endgame(bot)
             for team in self.teams:
-                if team.score>=self.points_to_win:
+                if team.score>=self.points_to_win and self.points_to_win!=0:
                     self.endgame(bot)
             if self.running_game:
                 # game not finished
