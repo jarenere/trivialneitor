@@ -185,7 +185,7 @@ class TrivialManager:
         if bot.memory.has_key('eol_manager'):
             # check if method exist
             if "post" in dir(bot.memory['eol_manager']):
-                bot.memory['eol_manager'].post(self._score_eol)
+                bot.memory['eol_manager'].post(self._score_eol())
         self.score={}
         self.teams=[]
         self.running_game=False
