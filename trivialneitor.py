@@ -201,7 +201,7 @@ class TrivialManager:
 
     def check_answerd(self,bot,trigger):
         self.lock.acquire()
-        if self.running_game:
+        if not self.running_game:
             self.lock.release()
             return
         if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
