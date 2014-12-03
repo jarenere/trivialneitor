@@ -91,6 +91,9 @@ class Team:
             return False
     def team(self):
         return  "Team{0}".format(self.number_team)
+    @classmethod
+    def reset(self):
+        self.count = 1
 
 class Question:
     def __init__(self, str):
@@ -202,6 +205,7 @@ class TrivialManager:
     def check_answerd(self,bot,trigger):
         self.lock.acquire()
         if not self.running_game:
+            print "vamos"
             self.lock.release()
             return
         if unidecode(trigger.bytes.lower()) == unidecode(self.answerd.answerd.lower()):
@@ -312,14 +316,15 @@ class TrivialManager:
             if len(self.ddbb_questions)==0:
                 bot.say("no hay ninguna pregunta cargada")
             else:
+                self.score={}
+                self.teams=[]
+                Team.reset()
                 try:
                     args = self.argumentParser(bot,trigger)
                     self.select_questions(bot,args.theme)
                     self.select_teams(bot,args.team)
                 except Exception as e:
                     return
-                self.score={}
-                self.teams=[]
                 self.number_question = args.number_question # gnumber of questions in the game
                 self.points_to_win = args.points_to_win
                 self.i_question = 1 # number ot question
