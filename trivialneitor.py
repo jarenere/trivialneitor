@@ -182,6 +182,7 @@ class TrivialManager:
 
     def endgame(self,bot):
         """stop game and reset score"""
+        self.running_game=False
         bot.say("Endgame, score:")
         bot.say(self._score())
         # check if exist eol_manager
@@ -189,7 +190,6 @@ class TrivialManager:
             # check if method exist
             if "post" in dir(bot.memory['eol_manager']):
                 bot.memory['eol_manager'].post(self._score_eol())
-        self.running_game=False
 
     def send_pista(self,bot):
         self.lock.acquire()
