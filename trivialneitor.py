@@ -6,11 +6,11 @@ import random
 from functools import wraps
 import threading
 import os.path
-import sys  
+import sys
 import argparse
 from unidecode import unidecode
 
-reload(sys)  
+reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
@@ -60,10 +60,10 @@ class Answerd:
         for i,x in enumerate(self.mask):
             if x:
                 aux = aux + self.answerd[i] + " "
-            else : 
+            else :
                 aux = aux + "_ "
         return aux
-        
+
     def stop(self):
         # race condition
         if ((self.number_letters_show*2>=len(self.answerd))):
@@ -78,7 +78,7 @@ class Team:
         self.score=0
         self.number_team = self.__class__.count
         self.__class__.count += 1
-    def __str__(self):    
+    def __str__(self):
         return "Team{0}: players: {1}. Score: {2}".format(str(self.number_team),', '.join(self.players),self.score)
     def __repr__(self):
         return "Team{0}: players: {1}. Score: {2}".format(str(self.number_team),', '.join(self.players),self.score)
@@ -98,7 +98,7 @@ class Team:
 class Question:
     def __init__(self, str):
         l = str.split('©')
-        if len (l) != 2: raise Exception('Wrong question format, two or more ©') 
+        if len (l) != 2: raise Exception('Wrong question format, two or more ©')
         self.theme = l[0].lower()
         l = l[1].split('«')
         if len (l) != 2: raise Exception('Wrong question format, two or more «')
@@ -185,11 +185,13 @@ class TrivialManager:
         self.running_game=False
         bot.say("Endgame, score:")
         bot.say(self._score())
-        # check if exist eol_manager
-        if bot.memory.has_key('eol_manager'):
-            # check if method exist
-            if "post" in dir(bot.memory['eol_manager']):
-                bot.memory['eol_manager'].post(self._score_eol())
+        # check if score is not empty
+        if self.score:
+            # check if exist eol_manager
+            if self.score && bot.memory.has_key('eol_manager'):
+                # check if method exist
+                if "post" in dir(bot.memory['eol_manager']):
+                    bot.memory['eol_manager'].post(self._score_eol())
 
     def send_pista(self,bot):
         self.lock.acquire()
@@ -245,7 +247,7 @@ class TrivialManager:
         parser.add_argument('-n','--number-question',nargs='?',type=int,const='15', default='15',help='number question of game.',choices=xrange(1, 1000),metavar='choose from 1..1000')
         parser.add_argument('-p','--points-to-win',nargs='?',type=int,const='0', default='0',help='number points to win, if you reach this punctuation before finishing the game, this ends immediately. 0 to no reach this punctuation',choices=xrange(0, 1000),metavar='choose from 0...1000')
         parser.add_argument("-team",nargs ='*',action='append', default=[], help='trivial with teams, example -team user1 user2 -team user3')
-        
+
         #disable stdout
         f = open(os.devnull, 'w')
         stderr_aux = sys.stderr
@@ -253,7 +255,7 @@ class TrivialManager:
         sys.stdout = f
         sys.stderr = f
         try:
-            args = parser.parse_args(trigger.bytes.lower().split()[2:])   
+            args = parser.parse_args(trigger.bytes.lower().split()[2:])
         except:
             if trigger.bytes.lower().split()[2:] ==['-h']:
                 for line in parser.format_help().split('\n'):
@@ -277,7 +279,7 @@ class TrivialManager:
             for i in myset:
                 if i not in themes:
                     bot.say("Theme {0} not found".format(i))
-                    raise Exception 
+                    raise Exception
             l =  [i for i in self.ddbb_questions if i.theme in myset]
             self.questions = l
         else:
@@ -332,7 +334,7 @@ class TrivialManager:
                 self.running_game = True
         else :
             bot.say("juego ya ha comenzado")
-    
+
     def _trivial_stop(self,bot,trigger):
         """Stop trivia game. Usage: .trivial stop"""
         if self.running_game == True:
