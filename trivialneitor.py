@@ -188,7 +188,7 @@ class TrivialManager:
         # check if score is not empty
         if self.score:
             # check if exist eol_manager
-            if self.score && bot.memory.has_key('eol_manager'):
+            if bot.memory.has_key('eol_manager'):
                 # check if method exist
                 if "post" in dir(bot.memory['eol_manager']):
                     bot.memory['eol_manager'].post(self._score_eol())
