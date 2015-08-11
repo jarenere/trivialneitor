@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from willie.module import commands, rule
-import willie.bot
+from sopel.module import commands, rule
+from sopel.config.types import ValidatedAttribute, StaticSection
+import sopel.bot
 import random
 from functools import wraps
 import threading
@@ -18,24 +19,26 @@ def check_running_game(f):  # pragma: no cover
     """Checks if the game is running or not"""
     @wraps(f)
     def decorated_function(*args, **kwargs):
-        if args[0].bot.memory['trivial_manager'].running_game:
+        if args[0].memory['trivial_manager'].running_game:
             return f(*args, **kwargs)
         else:
             return None
     return decorated_function
 
+class TriviaGameSection(StaticSection):
+    path = ValidatedAttribute('path')
+    help_interval = ValidatedAttribute('help_interval', default='5')
 
 def configure(config):
-    """
-    | [trivia_game] | example | purpose |
-    | -------- | ------- | ------- |
-    | path | ~/.willie/questions/ | Folder where are the files with the list_questions|
-    | interval | 5 | time to display the next help |
-    """
-    if config.option('Configure trivia game module', False):
-        config.add_section('trivia_game')
-        config.interactive_add('trivia_game', 'path', 'folder path', '~/.willie/questions/')
-        config.interactive_add('trivia_game', 'interval', 'time to display the next help', '5')
+    config.define_section('trivia_game', TriviaGameSection)
+    config.trivia_game.configure_setting(
+        'path',
+        'folder path'
+    )
+    config.trivia_game.configure_setting(
+        'help_interval',
+        'time to display next help'
+    )
 
 class Answerd:
     def __init__(self, answerd):
@@ -108,7 +111,14 @@ class Question:
         self.question = l[0]
         self.answerd = l[1].replace('\n','').replace('\r','')
 
-def setup(bot):
+def setup(bot=None):
+    if not bot:
+        return
+    bot.config.define_section('trivia_game', TriviaGameSection)
+
+    if not bot.config.trivia_game.path:
+        bot.config.trivia_game.path = bot.config.core.homedir + '/questions/'
+
     list_questions = []
     for dirname, dirnames, filenames in os.walk(os.path.expanduser(bot.config.trivia_game.path)):
         for filename in filenames:
@@ -149,7 +159,7 @@ class TrivialManager:
             self.answerd = Answerd(question.answerd)
             bot.say("{0}/{1}|{2}".format(self.i_question,self.number_question,question.question))
             self.i_question += 1
-            self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
+            self.t = threading.Timer(int (bot.config.trivia_game.help_interval), self.send_pista,(bot,))
             self.t.start()
         else:
             #finish game
@@ -200,7 +210,7 @@ class TrivialManager:
             self.send_question(bot)
         else:
             bot.say(self.answerd.show_more_letters())
-            self.t = threading.Timer(int (bot.config.trivia_game.interval), self.send_pista,(bot,))
+            self.t = threading.Timer(int (bot.config.trivia_game.help_interval), self.send_pista,(bot,))
             self.t.start()
         self.lock.release()
 
